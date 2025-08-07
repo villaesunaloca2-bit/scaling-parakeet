@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"EBE",
+		"BIB",
+		"EBE"
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"item": "create:andesite_alloy"},
+        "E": {"tag": "forge:plates/iron"},
+        "B": {"item": "createaddition:iron_rod"}
+	},
+	
+	"result": {"item": "create:propeller"}
+}

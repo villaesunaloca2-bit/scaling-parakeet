@@ -1,0 +1,19 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:mangrove_wood"
+      }
+    ],
+    "tool": {
+        "tag": "forge:tools/knives"
+    },
+    "result": [
+      {
+        "item": "minecraft:stripped_mangrove_wood"
+      },
+      {
+        "item": "farmersdelight:tree_bark"
+      }
+    ]
+  }

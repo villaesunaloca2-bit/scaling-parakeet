@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "## ",
+        "#/H",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:copper_ingot"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "H": {
+            "item": "supplementaries:rope"
+        }
+    },
+    "result": {
+        "item": "create_sa:copper_axe",
+        "count": 1
+    }
+}

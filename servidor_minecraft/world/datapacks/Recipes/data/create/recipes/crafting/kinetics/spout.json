@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" C ",
+		"IEI",
+		" C "
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"item": "create:andesite_alloy"},
+        "E": {"item": "create:copper_casing"},
+        "C": {"item": "minecraft:copper_ingot"}
+	},
+	
+	"result": {"item": "create:spout"}
+}

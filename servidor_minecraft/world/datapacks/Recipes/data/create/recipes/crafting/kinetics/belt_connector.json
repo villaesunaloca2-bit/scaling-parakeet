@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[   
+		"BBB"
+	],
+	
+	
+	
+	"key":
+	{
+        "B": {"item": "thermal:cured_rubber"}
+	},
+	
+	"result": {"item": "create:belt_connector"}
+}

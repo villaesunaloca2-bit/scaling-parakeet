@@ -1,0 +1,19 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "item": "regions_unexplored:kapok_log"
+      }
+    ],
+    "tool": {
+        "tag": "forge:tools/knives"
+    },
+    "result": [
+      {
+        "item": "regions_unexplored:stripped_kapok_log"
+      },
+      {
+        "item": "farmersdelight:tree_bark"
+      }
+    ]
+  }

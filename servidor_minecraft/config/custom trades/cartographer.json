@@ -1,0 +1,7 @@
+{
+  "profession": "minecraft:cartographer",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": [
+  ]
+}

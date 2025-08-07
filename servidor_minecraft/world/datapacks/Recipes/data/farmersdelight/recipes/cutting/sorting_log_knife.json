@@ -1,0 +1,19 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "item": "twilightforest:sorting_log"
+      }
+    ],
+    "tool": {
+        "tag": "forge:tools/knives"
+    },
+    "result": [
+      {
+        "item": "twilightforest:stripped_sorting_log"
+      },
+      {
+        "item": "farmersdelight:tree_bark"
+      }
+    ]
+  }

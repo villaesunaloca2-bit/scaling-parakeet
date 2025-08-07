@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " B ",
+        "SCS",
+        " / "
+    ],
+    "key": {
+        "S": {
+            "item": "born_in_chaos_v1:fused_bone"
+        },
+        "/": {
+            "item": "mutantmonsters:mutant_skeleton_rib_cage"
+        },
+        "C": {
+            "item": "born_in_chaos_v1:bone_heart"
+        },
+        "B": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "meetyourfight:caged_heart",
+        "count": 1
+    }
+}

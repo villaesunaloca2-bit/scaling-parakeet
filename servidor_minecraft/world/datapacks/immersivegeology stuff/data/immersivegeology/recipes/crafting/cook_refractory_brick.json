@@ -1,0 +1,8 @@
+{
+  "type": "charcoal_pit:pottery",
+  "ingredient": {
+    "item": "immersivegeology:raw_fire_clay"
+  },
+  "result": "immersivegeology:refractory_brick",
+  "experience": 0.3
+}

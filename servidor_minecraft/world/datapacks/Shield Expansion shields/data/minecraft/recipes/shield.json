@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "O#O",
+        "LSL",
+        "O#O"
+    ],
+    "key": {
+        "#": {
+            "item": "tough_beginnings:tough_block_of_wood"
+        },
+        "O": {
+            "tag": "supplementaries:ropes"
+        },
+        "S": {
+            "item": "farmersdelight:canvas"
+        },
+        "L": {
+            "item": "create:andesite_alloy"
+        }
+    },
+    "result": {
+        "item": "minecraft:shield",
+        "count": 1
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "target": "enemyexpansion:vampflyer",
+    "attributes": [
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "Vampire health",
+            "amount": 15,
+            "operation": "addition"
+        },
+        {
+            "id": "minecraft:generic.attack_damage",
+            "modifier_name": "Vampire attack damage",
+            "amount": 2,
+            "operation": "addition"
+        }
+    ]
+}
+

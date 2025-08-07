@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " S ",
+        "S/S",
+        " S "
+    ],
+    "key": {
+        "S": {
+            "item": "irons_spellbooks:arcane_ingot"
+        },
+        "/": {
+            "item": "meetyourfight:phantoplasm"
+        }
+    },
+    "result": {
+        "item": "irons_spellbooks:wayward_compass",
+        "count": 1
+    }
+}

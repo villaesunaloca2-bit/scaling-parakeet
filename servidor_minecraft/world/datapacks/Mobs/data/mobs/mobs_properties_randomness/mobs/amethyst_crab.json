@@ -1,0 +1,32 @@
+{
+    "target": "cataclysm:amethyst_crab",
+    "equipment": {
+        "chest": {
+            "items": [
+                {
+                    "id": "minecraft:diamond_chestplate",
+                    "drop_chance": 0,
+                    "enchantments": [
+                        {
+                            "id": "minecraft:projectile_protection",
+                            "level": 4
+                        },
+                        {
+                            "id": "minecraft:unbreaking",
+                            "level": 100
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "potion_effects": [
+        {
+            "id": "minecraft:regeneration",
+            "amplifier": 0,
+            "ambient": true
+        }
+    ]
+}
+
+

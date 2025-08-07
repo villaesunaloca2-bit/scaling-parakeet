@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " #D",
+        "RgR",
+        "D# "
+    ],
+    "key": {
+        "#": {
+            "item": "create:electron_tube"
+        },
+        "D": {
+            "item": "create:brass_sheet"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "item": "thermal:rf_coil",
+        "count": 1
+    }
+}

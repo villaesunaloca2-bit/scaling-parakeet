@@ -1,0 +1,359 @@
+{
+  "profession": "minecraft:leatherworker",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:leather",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:leatherworker_leather_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:leather_helmet",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:leatherworker_leather_helmet_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:leather_chestplate",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:leatherworker_leather_chestplate_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:leather_leggings",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:leatherworker_leather_leggings_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:leather_boots",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:leatherworker_leather_boots_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:bundle",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:leatherworker_bundle_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "cold_sweat:goat_fur",
+        "amount": 12
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:leatherworker_goat_fur_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "tfmg:limesand",
+        "amount": 16
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:leatherworker_limesand_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "immersiveengineering:ersatz_leather",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:leatherworker_ersatz_leather_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "backpacked:backpack",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:leatherworker_backpack_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:honeycomb_block",
+        "amount": 64
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:leatherworker_emerald_for_honeycomb_block"
+    },
+    {
+      "offer": {
+        "itemKey": "thermal:satchel",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:leatherworker_satchel_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "irons_spellbooks:hogskin",
+        "amount": 20
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:leatherworker_emerald_for_hogskin"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:rabbit_hide",
+        "amount": 8
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:leatherworker_emerald_for_rabbit_hide"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "alexsmobs:kangaroo_hide",
+        "amount": 8
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:leatherworker_emerald_for_kangaroo_hide"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "alexscaves:tough_hide",
+        "amount": 8
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:leatherworker_emerald_for_tough_hide"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "cold_sweat:hoglin_hide",
+        "amount": 16
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:leatherworker_emerald_for_hoglin_hide"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "born_in_chaos_v1:monster_skin",
+        "amount": 6
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:leatherworker_emerald_for_monster_skin"
+    },
+    {
+      "offer": {
+        "itemKey": "cold_sweat:chameleon_molt",
+        "amount": 2
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:leatherworker_chameleon_molt_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:saddle",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:leatherworker_saddle_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 64
+      },
+      "request": {
+        "itemKey": "irons_spellbooks:dragonskin",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:leatherworker_emerald_for_dragonskin"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "legendary_monsters:lava_eaters_skin",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:leatherworker_emerald_for_lava_eaters_skin"
+    }
+  ]
+}

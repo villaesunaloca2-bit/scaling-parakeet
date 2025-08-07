@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LLO",
+        "SS#"
+    ],
+    "key": {
+        "#": {
+            "item": "farmersdelight:canvas"
+        },
+        "O": {
+            "tag": "supplementaries:ropes"
+        },
+        "S": {
+            "item": "minecraft:flint"
+        },
+        "L": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "natprog:flint_saw",
+        "count": 1
+    }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SeS",
+    "aba",
+    "ScS"
+  ],
+  "key": {
+    "a": {
+      "item": "born_in_chaos_v1:smoldering_infernal_ember"
+    },
+    "S": {
+      "item": "thermal:silver_plate"
+    },
+    "b": {
+      "item": "minecraft:lantern"
+    },
+    "c": {
+      "item": "meetyourfight:phantoplasm"
+    },
+    "e": {
+      "item": "born_in_chaos_v1:pieceofdarkmetal"
+    }
+  },
+  "result": {
+    "item": "born_in_chaos_v1:fel_lamp",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "fluidTag": "forge:latex",
+        "amount": 250
+      },
+      {
+        "tag": "forge:dusts/coal_coke"
+      },
+      {
+        "tag": "forge:dusts/coal_coke"
+      }
+    ],
+    "results": [
+      {
+        "item": "thermal:rubber",
+        "count": 1
+      }
+    ]
+  }

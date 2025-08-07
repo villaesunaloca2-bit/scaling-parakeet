@@ -1,0 +1,29 @@
+{
+    "natprog:flint_hatchet": {
+      "minecraft:mineable/axe": "minecraft:wood"
+    },
+    "natprog:bone_pickaxe": {
+      "minecraft:mineable/pickaxe": "minecraft:wood"
+    },
+    "create_sa:copper_pickaxe": {
+      "minecraft:mineable/pickaxe": "hltweaker:copper"
+    },
+    "iceandfire:copper_pickaxe": {
+      "minecraft:mineable/pickaxe": "hltweaker:bronze"
+    },
+    "create_sa:zinc_pickaxe": {
+      "minecraft:mineable/pickaxe": "hltweaker:bronze"
+    },
+    "minecraft:golden_pickaxe": {
+      "minecraft:mineable/pickaxe": "minecraft:iron"
+    },
+    "minecraft:iron_pickaxe": {
+      "minecraft:mineable/pickaxe": "minecraft:iron"
+    },
+    "iceandfire:silver_pickaxe": {
+      "minecraft:mineable/pickaxe": "minecraft:iron"
+    },
+    "twilightforest:ironwood_pickaxe": {
+      "minecraft:mineable/pickaxe": "minecraft:iron"
+    }
+  }

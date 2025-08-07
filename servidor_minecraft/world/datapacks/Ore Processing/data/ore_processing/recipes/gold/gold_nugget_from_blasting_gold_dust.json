@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "thermal:gold_dust"
+    },
+    "result": { 
+        "item":"minecraft:gold_nugget",
+        "count": 3 
+    },
+    "experience": 0.5,
+    "cookingtime": 200
+}

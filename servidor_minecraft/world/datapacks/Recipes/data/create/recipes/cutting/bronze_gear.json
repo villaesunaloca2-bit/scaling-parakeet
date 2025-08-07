@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "thermal:bronze_plate"
+      }
+    ],
+    "processingTime": 400,
+    "results": [
+      {
+        "item": "thermal:bronze_gear",
+        "chance": 0.9
+      }
+    ]
+  }

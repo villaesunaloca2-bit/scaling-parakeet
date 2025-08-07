@@ -1,0 +1,75 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "thermal:silver_ingot"
+    },
+    "loops": 3,
+    "results": [
+      {
+        "chance": 0.25,
+        "item": "thermal:silver_plate"
+      },
+      {
+        "chance": 0.75,
+        "item": "thermal:silver_nugget",
+        "count": 1
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "thermal:silver_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:silver_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "thermal:silver_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:silver_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "thermal:silver_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:silver_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "thermal:silver_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:silver_ingot"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "thermal:silver_ingot"    
+    }
+}

@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"IS",
+		"II"
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"item": "irons_spellbooks:hogskin"},
+        "S": {"item": "minecraft:string"}
+	},
+	
+	"result": {"item": "cold_sweat:waterskin"}
+}

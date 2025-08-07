@@ -1,0 +1,25 @@
+{
+    "target": "born_in_chaos_v1:seared_spirit",
+    "attributes": [
+        {
+            "id": "minecraft:generic.armor",
+            "modifier_name": "Seared spirit armor",
+            "amount": 3,
+            "operation": "addition"
+        },
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "Seared spirit health",
+            "amount": 25,
+            "operation": "addition"
+        },
+        {
+            "id": "minecraft:generic.knockback_resistance",
+            "modifier_name": "Seared spirit knockback resistance",
+            "amount": 0.3,
+            "operation": "addition"
+        }
+    ]
+}
+
+

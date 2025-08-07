@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:leather"
+        },
+        {
+            "item": "minecraft:leather"
+        },
+        {
+            "item": "minecraft:leather"
+        },
+        {
+            "item": "minecraft:leather"
+        },
+        {
+            "item": "thermal:resin_bucket"
+        },
+        {
+            "item": "minecraft:honeycomb"
+        },
+        {
+            "item": "minecraft:honeycomb"
+        },
+        {
+            "item": "minecraft:honeycomb"
+        },
+        {
+            "item": "minecraft:honeycomb"
+        }
+    ],
+    "result":
+    {
+        "item": "immersiveengineering:ersatz_leather",
+        "count": 4
+    }
+}

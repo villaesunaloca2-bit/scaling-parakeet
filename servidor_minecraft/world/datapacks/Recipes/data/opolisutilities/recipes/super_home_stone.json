@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "S",
+        "L",
+        "O"
+    ],
+    "key": {
+        "O": {
+            "item": "thermal:silver_ingot"
+        },
+        "L": {
+            "item": "opolisutilities:home_stone"
+        },
+        "S": {
+            "item": "born_in_chaos_v1:orbofthe_summoner"
+        }
+    },
+    "result": {
+        "item": "opolisutilities:super_home_stone",
+        "count": 1
+    }
+}

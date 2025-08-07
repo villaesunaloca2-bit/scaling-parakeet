@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "thermal:copper_dust"
+        },
+        {
+            "item": "thermal:copper_dust"
+        },
+        {
+            "item": "thermal:copper_dust"
+        },
+        {
+            "item": "thermal:tin_dust"
+        }
+    ],
+    "result":
+    {
+        "item": "thermal:bronze_dust",
+        "count": 1
+    }
+}

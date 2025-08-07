@@ -1,0 +1,21 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "tag": "twilightforest:mangrove_logs"
+      }
+    ],
+    "tool": {
+      "type": "farmersdelight:tool_action",
+      "action": "axe_strip"
+    },
+    "result": [
+      {
+        "item": "twilightforest:mangrove_planks"
+      },
+      {
+        "item": "twilightforest:mangrove_planks"
+      }
+    ],
+    "sound": "minecraft:item.axe.strip"
+  }

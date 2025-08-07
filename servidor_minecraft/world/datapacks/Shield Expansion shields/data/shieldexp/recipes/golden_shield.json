@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OOO",
+        "OSO",
+        "OOO"
+    ],
+    "key": {
+        "O": {
+            "item": "minecraft:gold_ingot"
+        },
+        "S": {
+            "item": "shieldexp:wood_shield"
+        }
+    },
+    "result": {
+        "item": "shieldexp:golden_shield",
+        "count": 1
+    }
+}

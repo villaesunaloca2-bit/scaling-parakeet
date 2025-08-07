@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "minecraft:coals"
+        },
+        {
+            "tag": "minecraft:coals"
+        },
+        {
+            "item": "minecraft:flint"
+        },
+        {
+            "item": "minecraft:flint"
+        },
+        {
+            "item": "supplementaries:ash"
+        },
+        {
+            "item": "supplementaries:ash"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "thermal:sulfur_dust"
+        }
+    ],
+    "result":
+    {
+        "item": "tfmg:coal_coke_dust",
+        "count": 4
+    }
+}

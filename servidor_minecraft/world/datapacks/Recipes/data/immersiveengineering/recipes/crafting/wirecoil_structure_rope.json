@@ -1,0 +1,37 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "minecraft"
+      }
+    ],
+    "type": "natprog:damage_tools",
+    "ingredients": [
+      {
+        "item": "supplementaries:rope"
+      },
+      {
+        "item": "immersiveengineering:hemp_fiber"
+      },
+      {
+        "item": "immersiveengineering:hemp_fiber"
+      },
+      {
+        "item": "immersiveengineering:hemp_fiber"
+      },
+      {
+        "item": "immersiveengineering:hemp_fiber"
+      },
+      {
+        "item": "immersiveengineering:stick_treated"
+      },
+      {
+        "tag": "forge:tools/knives"
+      }
+    ],
+    "result": {
+      "item": "immersiveengineering:wirecoil_structure_rope",
+      "count": 1
+    },
+    "group": "planks"
+  }

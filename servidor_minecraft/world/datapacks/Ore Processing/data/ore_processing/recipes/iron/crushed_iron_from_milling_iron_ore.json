@@ -1,0 +1,19 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "minecraft:iron_ore"
+      }
+    ],
+    "results": [
+      {
+        "item": "create:crushed_raw_iron",
+        "chance": 1
+      },
+      {
+        "item": "create:crushed_raw_iron",
+        "chance": 0.5
+      }
+    ],
+    "processingTime": 250
+  }

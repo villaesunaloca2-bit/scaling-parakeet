@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iRi",
+        "EDE",
+        " i "
+    ],
+    "key": {
+        "i": {
+            "item": "tconstruct:queens_slime_ingot"
+        },
+        "R": {
+            "item": "thermal:electrum_gear"
+        },
+        "E": {
+            "item": "minecraft:emerald"
+        },
+        "D": {
+            "item": "oresabovediamonds:black_opal"
+        }
+    },
+    "result": {"item": "thermal:xp_crystal"}
+}

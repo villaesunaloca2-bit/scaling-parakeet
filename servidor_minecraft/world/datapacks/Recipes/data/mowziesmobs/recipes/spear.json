@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "B": {
+        "item": "minecraft:stick"
+      },
+      "C": {
+        "tag": "supplementaries:ropes"
+      },
+      "I": {
+        "tag": "forge:feathers"
+      },
+      "A": {
+        "item": "natprog:bone_shard"
+      }
+    },
+    "pattern": [
+      "AI",
+      "BC"
+
+    ],
+    "result": {
+      "item": "mowziesmobs:spear"
+    }
+  }

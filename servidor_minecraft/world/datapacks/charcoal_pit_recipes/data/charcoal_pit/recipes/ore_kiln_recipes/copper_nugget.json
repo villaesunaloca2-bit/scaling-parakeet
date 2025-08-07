@@ -1,0 +1,14 @@
+{
+  "type": "charcoal_pit:orekiln",
+  "ingredients": [
+    [
+        {
+          "item": "natprog:create_veridium_pebble"
+        }
+    ]
+  ],
+  "result": {
+    "item": "create:copper_nugget",
+    "count": 1
+  }
+}

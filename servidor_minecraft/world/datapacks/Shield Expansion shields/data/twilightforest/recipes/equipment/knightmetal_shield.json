@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OO#",
+        "OSL",
+        "OO#"
+    ],
+    "key": {
+        "#": {
+            "item": "tough_beginnings:tough_block_of_wood"
+        },
+        "O": {
+            "item": "twilightforest:knightmetal_ingot"
+        },
+        "S": {
+            "item": "minecraft:shield"
+        },
+        "L": {
+            "item": "twilightforest:knightmetal_ring"
+        }
+    },
+    "result": {
+        "item": "twilightforest:knightmetal_shield",
+        "count": 1
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "target": "enemyexpansion:direwolf",
+    "attributes": [
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "Direwolf health",
+            "amount": 14,
+            "operation": "addition"
+        },
+        {
+            "id": "minecraft:generic.attack_damage",
+            "modifier_name": "Direwolf damage",
+            "amount": 2,
+            "operation": "addition"
+        }
+    ],
+    "events": {
+        "on_attack": [
+            {
+                "target": "other",
+                "potion_effects": [
+                    {
+                        "id": "alexsmobs:exsanguination",
+                        "amplifier": 0,
+                        "duration": 6
+                    }
+                ]
+            }
+        ]
+    }
+}
+

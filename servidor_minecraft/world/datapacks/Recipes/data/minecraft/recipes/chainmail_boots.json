@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" E ",
+		"IAI",
+		"ILI"
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"item": "minecraft:chain"},
+		"L": {"item": "minecraft:leather"},
+		"E": {"item": "minecraft:iron_ingot"},
+		"A": {
+            "item": "minecraft:leather_boots"
+        }
+	},
+	
+	"result": {"item": "minecraft:chainmail_boots"}
+}

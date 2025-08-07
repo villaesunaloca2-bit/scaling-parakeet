@@ -1,0 +1,529 @@
+{
+  "profession": "minecraft:mason",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "multiRequest": [
+        {
+          "itemKey": "natprog:quark_jasper_pebble",
+          "amount": 1
+        },
+        {
+          "itemKey": "natprog:create_limestone_pebble",
+          "amount": 1
+        },
+        {
+          "itemKey": "natprog:create_crimsite_pebble",
+          "amount": 1
+        },
+        {
+          "itemKey": "natprog:create_veridium_pebble",
+          "amount": 1
+        },
+        {
+          "itemKey": "natprog:create_asurine_pebble",
+          "amount": 1
+        },
+        {
+          "itemKey": "natprog:create_ochrum_pebble",
+          "amount": 1
+        },
+        {
+          "itemKey": "natprog:create_scoria_pebble",
+          "amount": 1
+        }
+      ],
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:mason_emerald_for_multirequest_quark_jasper_pebble"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:clay",
+        "amount": 48
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:mason_emerald_for_clay"
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:daub",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:mason_daub_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "create:andesite_alloy",
+        "amount": 12
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:mason_andesite_alloy_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "immersive_weathering:deepslate_brick",
+        "amount": 12
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:mason_deepslate_brick_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "createdeco:dean_bricks",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:mason_dean_bricks_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "createdeco:umber_bricks",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:mason_umber_bricks_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "createdeco:pearl_bricks",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:mason_pearl_bricks_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "createdeco:verdant_bricks",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:mason_verdant_bricks_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "createdeco:scarlet_bricks",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:mason_scarlet_bricks_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "createdeco:dusk_bricks",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:mason_dusk_bricks_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "createdeco:blue_bricks",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:mason_blue_bricks_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:bricks",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:mason_bricks_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:quartz",
+        "amount": 24
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:mason_quartz_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "immersive_weathering:mortar",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:mason_mortar_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "tfmg:fireproof_brick",
+        "amount": 12
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:mason_fireproof_brick_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "create:limestone",
+        "amount": 16
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:mason_limestone_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "thermal:rich_slag",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:mason_rich_slag_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "immersiveengineering:blastbrick",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:mason_blastbrick_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "tfmg:fireclay",
+        "amount": 28
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:mason_emerald_for_fireclay"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "ae2:sky_stone_block",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:mason_emerald_for_sky_stone_block"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "born_in_chaos_v1:black_argillite_n",
+        "amount": 2
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:mason_emerald_for_black_argillite_n"
+    },
+    {
+      "offer": {
+        "itemKey": "legendary_monsters:ancient_dripstone_block",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:mason_ancient_dripstone_block_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:quartz_block",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:mason_quartz_block_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:diorite",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:mason_diorite_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:tuff",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:mason_tuff_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:granite",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:mason_granite_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:blackstone",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:mason_blackstone_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:dripstone_block",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:mason_dripstone_block_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:andesite",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:mason_andesite_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:calcite",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:mason_calcite_for_emerald"
+    }
+  ]
+}

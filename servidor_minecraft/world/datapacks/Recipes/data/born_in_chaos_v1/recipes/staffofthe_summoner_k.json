@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "born_in_chaos_v1:pieceofdarkmetal"
+    },
+    "b": {
+      "item": "born_in_chaos_v1:orbofthe_summoner"
+    },
+    "c": {
+      "item": "thermal:silver_ingot"
+    },
+    "d": {
+      "item": "born_in_chaos_v1:staff_of_magic_arrows"
+    },
+    "e": {
+      "item": "meetyourfight:mossy_tooth"
+    }
+  },
+  "result": {
+    "item": "born_in_chaos_v1:bonescaller_staff",
+    "count": 1
+  }
+}

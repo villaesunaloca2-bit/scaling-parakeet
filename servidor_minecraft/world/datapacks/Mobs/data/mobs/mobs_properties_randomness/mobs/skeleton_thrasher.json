@@ -1,0 +1,56 @@
+{
+    "target": "born_in_chaos_v1:skeleton_thrasher",
+    "attributes": [
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "Skeleton Thrasher health",
+            "amount": 50,
+            "operation": "addition"
+        },
+        {
+            "id": "minecraft:generic.attack_damage",
+            "modifier_name": "Skeleton Thrasher attack damage",
+            "amount": 2,
+            "operation": "addition"
+        },
+        {
+            "id": "minecraft:generic.armor",
+            "modifier_name": "Skeleton Thrasher armor",
+            "amount": 5,
+            "operation": "addition"
+        }
+    ],
+    "events": {
+        "on_attack": [
+            {
+                "target": "other",
+                "potion_effects": [
+                    {
+                        "id": "born_in_chaos_v1:bone_fracture",
+                        "amplifier": 0,
+                        "duration": 30
+                    },
+                    {
+                        "id": "born_in_chaos_v1:stun",
+                        "amplifier": 0,
+                        "duration": 3
+                    }
+                ]
+            }
+        ],
+        "on_damaged": [
+            {
+                "target": "entity",
+                "chance": 0.85,
+                "potion_effects": [
+                    {
+                        "id": "minecraft:speed",
+                        "amplifier": 2,
+                        "duration": 5
+                    }
+                ]
+            }
+        ]
+    }
+}
+

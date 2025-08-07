@@ -1,0 +1,62 @@
+{
+    "target": "twilightforest:lich_minion",
+    "attributes": [
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "Lich minion health",
+            "amount": 20,
+            "operation": "addition"
+        }
+    ],
+    "equipment": {
+        "head": {
+            "items": [
+                {
+                    "id": "twilightforest:ironwood_helmet",
+                    "drop_chance": 0,
+                    "enchantments": [
+                        {
+                            "id": "minecraft:blast_protection",
+                            "level": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        "chest": {
+            "items": [
+                {
+                    "id": "twilightforest:ironwood_chestplate",
+                    "drop_chance": 0,
+                    "enchantments": [
+                        {
+                            "id": "minecraft:blast_protection",
+                            "level": 4
+                        },
+                        {
+                            "id": "minecraft:protection",
+                            "level": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "main_hand": {
+            "chance": 1,
+            "items": [
+                {
+                    "id": "twilightforest:ironwood_sword",
+                    "drop_chance": 0,
+                    "enchantments": [
+                        {
+                            "id": "minecraft:knockback",
+                            "level": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
+
+

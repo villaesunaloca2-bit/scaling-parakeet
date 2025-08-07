@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "farmersdelight:tree_bark"
+        },
+        {
+            "item": "farmersdelight:tree_bark"
+        },
+        {
+            "item": "farmersdelight:straw"
+        },
+        {
+            "item": "farmersdelight:straw"
+        }
+    ],
+    "result": {
+      "item":"farmersdelight:canvas"
+    }
+  }

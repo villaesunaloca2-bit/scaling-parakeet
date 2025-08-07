@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IWI",
+        "WAW",
+        "IWI"
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:redstone"
+        },
+        "A": {
+            "item": "create:andesite_alloy"
+        },
+        "W": {
+            "item": "createdeco:zinc_sheet"
+        }
+    },
+    "result": {
+        "item": "thermal:redstone_servo",
+        "count": 1
+    }
+}

@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"GSG",
+		"GEG",
+		"GPG"
+	],
+	"key": {
+		"G": { "tag": "forge:ingots/gold" },
+		"P": { "item": "meetyourfight:phantoplasm" },
+        "E": { "item": "minecraft:ender_pearl" },
+		"S": { "item": "thermal:silver_ingot" }
+	},
+	"result": { "item": "meetyourfight:passages_toll" }
+}

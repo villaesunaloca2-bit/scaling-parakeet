@@ -1,0 +1,25 @@
+{
+    "target": "born_in_chaos_v1:siamese_skeletons",
+    "attributes": [
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "Siamese Skeletons health",
+            "amount": 12,
+            "operation": "addition"
+        },
+        {
+            "id": "minecraft:generic.attack_damage",
+            "modifier_name": "Siamese Skeletons damage",
+            "amount": 2,
+            "operation": "addition"
+        },
+        {
+            "id": "minecraft:generic.movement_speed",
+            "modifier_name": "Siamese Skeletons speed",
+            "amount": 0.1,
+            "operation": "addition"
+        }
+    ]
+}
+
+

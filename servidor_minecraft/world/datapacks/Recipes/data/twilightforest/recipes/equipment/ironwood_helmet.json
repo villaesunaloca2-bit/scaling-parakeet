@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "ironwood_armor",
+    "ingredients": [
+        {
+            "item": "minecraft:iron_helmet"
+        },
+        {
+            "item": "twilightforest:ironwood_ingot"
+        }
+    ],
+  "result": {
+    "nbt": "{Enchantments:[{lvl:1s,id:\"combatroll:multi_roll\"}]}",
+    "item": "twilightforest:ironwood_helmet",
+    "type": "minecraft:item_nbt"
+  }
+}

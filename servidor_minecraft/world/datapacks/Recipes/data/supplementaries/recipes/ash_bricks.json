@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LLO",
+        "LL "
+    ],
+    "key": {
+        "O": {
+            "item": "supplementaries:daub"
+        },
+        "L": {
+            "item": "supplementaries:ash_brick"
+        }
+    },
+    "result": {
+        "item": "supplementaries:ash_bricks",
+        "count": 1
+    }
+}

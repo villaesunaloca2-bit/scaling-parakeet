@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "FR",
+      "FS"
+    ],
+    "key": {
+      "F": {
+        "item": "minecraft:flint"
+      },
+      "S": {
+        "tag": "forge:rods/wooden"
+      },
+      "R": {
+        "tag": "supplementaries:ropes"
+      } 
+    },
+    "result": {
+      "item": "natprog:flint_hatchet"
+    }
+  }

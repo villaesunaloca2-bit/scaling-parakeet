@@ -1,0 +1,27 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "thermal:cinnabar"
+      }
+    ],
+    "results": [
+      {
+        "item": "thermal:cinnabar_dust",
+        "chance": 1
+      },
+      {
+        "item": "minecraft:redstone",
+        "chance": 0.5
+      },
+      {
+        "item": "minecraft:redstone",
+        "chance": 0.5
+      },
+      {
+        "item": "create:experience_nugget",
+        "chance": 0.5
+      }
+    ],
+    "processingTime": 250
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OOO",
+        "OAO"
+    ],
+    "key": {
+        "O": {
+            "item": "create:zinc_ingot"
+        },
+        "A": {
+            "item": "minecraft:leather_helmet"
+        }
+    },
+    "result": {
+        "item": "create_sa:zinc_helmet",
+        "count": 1
+    }
+}

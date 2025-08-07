@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " U ",
+        "RGR",
+        " R "
+    ],
+    "key": {
+        "R": {
+            "tag": "forge:plates/gold"
+        },
+        "U": {
+            "item": "thermal:silver_plate"
+        },
+        "G": {
+            "item": "thermal:rf_coil"
+        }
+    },
+    "result": {
+        "item": "thermal:rf_coil_storage_augment",
+        "count": 1
+    }
+}

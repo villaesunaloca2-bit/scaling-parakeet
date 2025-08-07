@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" EE",
+		"EBE",
+		"IE "
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"item": "create:andesite_alloy"},
+        "E": {"tag": "forge:plates/iron"},
+        "B": {"item": "createaddition:iron_rod"}
+	},
+	
+	"result": {"item": "create:whisk"}
+}

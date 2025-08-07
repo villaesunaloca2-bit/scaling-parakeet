@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S#",
+        "SiS",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gunpowder"
+        },
+        "S": {
+            "item": "minecraft:slime_ball"
+        },
+        "i": {
+            "item": "create:zinc_ingot"
+        }
+    },
+    "result": {
+        "item": "thermal:slime_grenade",
+        "count": 4
+    }
+}

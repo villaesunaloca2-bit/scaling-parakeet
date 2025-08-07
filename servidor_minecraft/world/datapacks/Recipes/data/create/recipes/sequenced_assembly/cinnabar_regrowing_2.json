@@ -1,0 +1,90 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "thermal:cinnabar_dust"
+    },
+    "loops": 1,
+    "results": [
+      {
+        "chance": 0.9,
+        "item": "thermal:cinnabar"
+      },
+      {
+        "chance": 0.1,
+        "item": "minecraft:redstone"
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "thermal:cinnabar_dust"
+          },
+          {
+            "amount": 125,
+            "fluid": "minecraft:lava"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:cinnabar_dust"
+          }
+        ]
+      },
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "thermal:cinnabar_dust"
+          },
+          {
+            "amount": 125,
+            "fluid": "minecraft:water"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:cinnabar_dust"
+          }
+        ]
+      },
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "thermal:cinnabar_dust"
+          },
+          {
+            "amount": 125,
+            "fluid": "minecraft:water"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:cinnabar_dust"
+          }
+        ]
+      },
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "thermal:cinnabar_dust"
+          },
+          {
+            "amount": 125,
+            "fluid": "thermal:resin"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:cinnabar_dust"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "thermal:cinnabar_dust"
+    }
+  }

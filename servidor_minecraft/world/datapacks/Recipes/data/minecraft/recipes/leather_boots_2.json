@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "O O",
+        "OLO"
+    ],
+    "key": {
+        "O": {
+            "item": "farmersdelight:canvas"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        }
+    },
+    "result": {
+        "item": "minecraft:leather_boots",
+        "count": 1
+    }
+}

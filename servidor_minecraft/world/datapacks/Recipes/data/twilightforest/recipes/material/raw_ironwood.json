@@ -1,0 +1,70 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "minecraft:raw_iron"
+      },
+      {
+        "item": "minecraft:raw_iron"
+      },
+      {
+        "item": "minecraft:raw_iron"
+      },
+      {
+        "item": "minecraft:raw_iron"
+      },
+      {
+        "item": "minecraft:raw_iron"
+      },
+      {
+        "item": "minecraft:raw_iron"
+      },
+      {
+        "item": "minecraft:raw_iron"
+      },
+      {
+        "item": "minecraft:raw_iron"
+      },
+      {
+        "item": "twilightforest:liveroot"
+      },
+      {
+        "item": "twilightforest:liveroot"
+      },
+      {
+        "item": "twilightforest:liveroot"
+      },
+      {
+        "item": "twilightforest:liveroot"
+      },
+      {
+        "item": "twilightforest:liveroot"
+      },
+      {
+        "item": "twilightforest:liveroot"
+      },
+      {
+        "item": "minecraft:raw_gold"
+      },
+      {
+        "item": "minecraft:raw_gold"
+      },
+      {
+        "item": "minecraft:raw_gold"
+      },
+      {
+        "item": "minecraft:raw_gold"
+      },
+      {
+        "item": "thermal:raw_silver"
+      },
+      {
+        "item": "thermal:raw_silver"
+      }
+    ],
+    "results": [
+      {
+        "item": "twilightforest:raw_ironwood"
+      }
+    ]
+  }

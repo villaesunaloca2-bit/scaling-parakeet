@@ -1,0 +1,32 @@
+{
+    "target": "born_in_chaos_v1:dread_hound",
+    "events": {
+        "on_tick": [
+            {
+                "target": "this",
+                "potion_effects": [
+                    {
+                        "id": "minecraft:invisibility",
+                        "amplifier": 0,
+                        "duration": 5
+                    }
+                ]
+            }
+        ],
+        "on_damaged": [
+            {
+                "target": "this",
+                "chance": 0.5,
+                "potion_effects": [
+                    {
+                        "id": "minecraft:invisibility",
+                        "amplifier": 0,
+                        "duration": 5
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+

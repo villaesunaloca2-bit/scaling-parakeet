@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S#",
+        "SiS",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "quark:gunpowder_sack"
+        },
+        "S": {
+            "item": "thermal:basalz_powder"
+        },
+        "i": {
+            "item": "create:zinc_ingot"
+        }
+    },
+    "result": {
+        "item": "thermal:earth_grenade",
+        "count": 2
+    }
+}

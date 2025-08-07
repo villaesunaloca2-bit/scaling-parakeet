@@ -1,0 +1,21 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "tag": "minecraft:cherry_logs"
+      }
+    ],
+    "tool": {
+      "type": "farmersdelight:tool_action",
+      "action": "axe_strip"
+    },
+    "result": [
+      {
+        "item": "minecraft:cherry_planks"
+      },
+      {
+        "item": "minecraft:cherry_planks"
+      }
+    ],
+    "sound": "minecraft:item.axe.strip"
+  }

@@ -1,0 +1,19 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "item": "twilightforest:time_log"
+      }
+    ],
+    "tool": {
+        "tag": "forge:tools/knives"
+    },
+    "result": [
+      {
+        "item": "twilightforest:stripped_time_log"
+      },
+      {
+        "item": "farmersdelight:tree_bark"
+      }
+    ]
+  }

@@ -1,0 +1,22 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "minecraft"
+      }
+    ],
+    "type": "natprog:damage_tools",
+    "ingredients": [
+      {
+        "item": "alexsmobs:kangaroo_hide"
+      },
+      {
+        "tag": "forge:tools/knives"
+      }
+    ],
+    "result": {
+      "item": "irons_spellbooks:hogskin",
+      "count": 3
+    },
+    "group": "planks"
+  }

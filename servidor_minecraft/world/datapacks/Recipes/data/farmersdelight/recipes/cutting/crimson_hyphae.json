@@ -1,0 +1,19 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:crimson_hyphae"
+      }
+    ],
+    "tool": {
+        "tag": "forge:tools/knives"
+    },
+    "result": [
+      {
+        "item": "minecraft:stripped_crimson_hyphae"
+      },
+      {
+        "item": "farmersdelight:tree_bark"
+      }
+    ]
+  }

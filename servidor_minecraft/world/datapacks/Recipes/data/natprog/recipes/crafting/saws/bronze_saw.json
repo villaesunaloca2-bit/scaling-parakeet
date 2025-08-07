@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LLO",
+        "SS#"
+    ],
+    "key": {
+        "#": {
+            "item": "farmersdelight:canvas"
+        },
+        "O": {
+            "item": "supplementaries:rope"
+        },
+        "S": {
+            "item": "alloyed:bronze_ingot"
+        },
+        "L": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "natprog:bronze_saw",
+        "count": 1
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "item": "twilightforest:darkwood_log"
+      }
+    ],
+    "tool": {
+        "tag": "forge:tools/knives"
+    },
+    "result": [
+      {
+        "item": "twilightforest:stripped_darkwood_log"
+      },
+      {
+        "item": "farmersdelight:tree_bark"
+      }
+    ]
+  }

@@ -1,0 +1,17 @@
+{
+    "values": [
+      "#forge:ores_in_ground/deepslate",
+      "minecraft:deepslate",
+      "thermal:silver_ore",
+      "thermal:deepslate_silver_ore",
+      "thermal:deepslate_cinnabar_ore",
+      "thermal:deepslate_sulfur_ore",
+      "#forge:ores/nickel",
+      "#forge:ores/lead",
+      "thermal:deepslate_niter_ore",
+      "thermal:deepslate_tin_ore",
+      "#forge:ores/emerald",
+      "iceandfire:sapphire_ore"
+    ],
+    "replace": true
+  }

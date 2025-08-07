@@ -1,0 +1,106 @@
+[
+  {
+    "mob": "enemyexpansion:sprinter",
+    "gamestage": "!stage_2",
+    "result": "deny"
+  },
+  {
+    "mob": "born_in_chaos_v1:barrel_zombie",
+    "gamestage": "!stage_2",
+    "result": "deny"
+  },
+  {
+    "mob": "enemyexpansion:goblin",
+    "gamestage": "!stage_2",
+    "result": "deny"
+  },
+  {
+    "mob": "born_in_chaos_v1:siamese_skeletons",
+    "gamestage": "!stage_2",
+    "result": "deny"
+  },
+  {
+    "mob": "enemyexpansion:meature",
+    "gamestage": "!stage_2",
+    "result": "deny"
+  },
+  {
+    "mob": "born_in_chaos_v1:bonescaller",
+    "gamestage": "!stage_2",
+    "result": "deny"
+  },
+  {
+    "mob": "born_in_chaos_v1:restless_spirit",
+    "gamestage": "!stage_2",
+    "result": "deny"
+  },
+  {
+    "mob": "born_in_chaos_v1:swarmer",
+    "gamestage": "!stage_2",
+    "result": "deny"
+  },
+  {
+    "mob": "born_in_chaos_v1:zombie_clown",
+    "gamestage": "!stage_2",
+    "result": "deny"
+  },
+  {
+    "mob": "born_in_chaos_v1:supreme_bonescaller",
+    "gamestage": "!stage_2",
+    "result": "deny"
+  },
+  {
+    "mob": "enemyexpansion:wasp",
+    "gamestage": "!stage_3",
+    "result": "deny"
+  },
+  {
+    "mob": "enemyexpansion:equestrian",
+    "gamestage": "!stage_3",
+    "result": "deny"
+  },
+  {
+    "mob": "enemyexpansion:huntsman",
+    "gamestage": "!stage_3",
+    "result": "deny"
+  },
+  {
+    "mob": "enemyexpansion:silverqueen",
+    "gamestage": "!stage_3",
+    "result": "deny"
+  },
+  {
+    "mob": "born_in_chaos_v1:zombie_lumberjack",
+    "gamestage": "!stage_3",
+    "result": "deny"
+  },
+  {
+    "mob": "enemyexpansion:slugger",
+    "gamestage": "!stage_3",
+    "result": "deny"
+  },
+  {
+    "mob": "enemyexpansion:direwolf",
+    "gamestage": "!stage_3",
+    "result": "deny"
+  },
+  {
+    "mob": "born_in_chaos_v1:skeleton_demoman",
+    "gamestage": "!stage_3",
+    "result": "deny"
+  },
+  {
+    "mob": "born_in_chaos_v1:seared_spirit",
+    "gamestage": "!stage_3",
+    "result": "deny"
+  },
+  {
+    "mob": "born_in_chaos_v1:missioner",
+    "gamestage": "!stage_3",
+    "result": "deny"
+  }
+
+
+
+
+]

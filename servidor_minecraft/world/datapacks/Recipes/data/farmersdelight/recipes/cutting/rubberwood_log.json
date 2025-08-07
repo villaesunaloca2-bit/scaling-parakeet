@@ -1,0 +1,21 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "tag": "forge:rubberwood_logs"
+      }
+    ],
+    "tool": {
+      "type": "farmersdelight:tool_action",
+      "action": "axe_strip"
+    },
+    "result": [
+      {
+        "item": "thermal:rubberwood_planks"
+      },
+      {
+        "item": "thermal:rubberwood_planks"
+      }
+    ],
+    "sound": "minecraft:item.axe.strip"
+  }

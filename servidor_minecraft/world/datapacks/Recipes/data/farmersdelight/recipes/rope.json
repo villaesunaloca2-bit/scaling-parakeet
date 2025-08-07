@@ -1,0 +1,28 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "minecraft"
+      }
+    ],
+    "type": "natprog:damage_tools",
+    "ingredients": [
+      {
+        "item": "farmersdelight:straw"
+      },
+      {
+        "item": "farmersdelight:straw"
+      },
+      {
+        "item": "farmersdelight:straw"
+      },
+      {
+        "tag": "forge:tools/knives"
+      }
+    ],
+    "result": {
+      "item": "farmersdelight:rope",
+      "count": 1
+    },
+    "group": "planks"
+  }

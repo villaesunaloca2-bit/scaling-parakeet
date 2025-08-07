@@ -1,0 +1,16 @@
+{
+    "type": "thermal:sawmill",
+    "ingredient": {
+      "item": "minecraft:diamond_block"
+    },
+    "result": [
+      {
+        "item": "thermal:diamond_gear"
+      },
+      {
+        "item":"minecraft:diamond",
+        "count": 2
+      }
+    ],
+    "energy": 6400
+  }

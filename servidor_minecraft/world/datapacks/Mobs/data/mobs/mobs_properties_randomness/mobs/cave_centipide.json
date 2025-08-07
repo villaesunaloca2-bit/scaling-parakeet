@@ -1,0 +1,18 @@
+{
+    "target": "alexsmobs:centipede_head",
+    "attributes": [
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "Cave centipide health",
+            "amount": 30,
+            "operation": "addition"
+        },
+        {
+            "id": "minecraft:generic.armor",
+            "modifier_name": "Cave centipide armor",
+            "amount": 2,
+            "operation": "addition"
+        }
+    ]
+}
+

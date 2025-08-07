@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LO",
+        "S "
+    ],
+    "key": {
+        "O": {
+            "item": "farmersdelight:canvas"
+        },
+        "L": {
+            "item": "born_in_chaos_v1:fire_dust"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:torch",
+        "count": 2
+    }
+}

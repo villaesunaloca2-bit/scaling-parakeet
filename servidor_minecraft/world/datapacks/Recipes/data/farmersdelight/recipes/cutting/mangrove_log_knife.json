@@ -1,0 +1,19 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:cherry_log"
+      }
+    ],
+    "tool": {
+        "tag": "forge:tools/knives"
+    },
+    "result": [
+      {
+        "item": "minecraft:stripped_cherry_log"
+      },
+      {
+        "item": "farmersdelight:tree_bark"
+      }
+    ]
+  }

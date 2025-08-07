@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "LAL",
+        " Q "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:redstone_torch"
+        },
+        "L": {
+            "item": "create:copper_sheet"
+        },
+        "A": {
+            "item": "thermal:copper_gear"
+        },
+        "Q": {
+            "item": "thermal:redstone_servo"
+        }
+    },
+    "result": {
+        "item": "create:transmitter"
+    }
+}

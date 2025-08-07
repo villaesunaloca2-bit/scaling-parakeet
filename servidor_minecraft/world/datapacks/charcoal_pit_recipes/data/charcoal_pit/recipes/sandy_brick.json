@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "forge:concrete_powders"
+        },
+        {
+            "item": "thermal:sawdust"
+        },
+        {
+            "item": "supplementaries:ash_brick"
+        }
+    ],
+    "result":
+    {
+        "item": "charcoal_pit:unfired_sandy_brick",
+        "count": 1
+    }
+}

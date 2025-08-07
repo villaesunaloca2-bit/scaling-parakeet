@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LOL",
+        "OSO",
+        "LOL"
+    ],
+    "key": {
+        "O": {
+            "item": "minecraft:gold_ingot"
+        },
+        "L": {
+            "item": "minecraft:ender_pearl"
+        },
+        "S": {
+            "item": "born_in_chaos_v1:ethereal_spirit"
+        }
+    },
+    "result": {
+        "item": "opolisutilities:home_stone",
+        "count": 1
+    }
+}

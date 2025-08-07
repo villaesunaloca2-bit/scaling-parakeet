@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " A ",
+        "LOL",
+        " A "
+    ],
+    "key": {
+        "O": {
+            "item": "immersiveengineering:stick_treated"
+        },
+        "L": {
+            "item": "farmersdelight:canvas"
+        },
+        "A": {
+            "item": "immersiveengineering:wirecoil_structure_rope"
+        }
+    },
+    "result": {
+        "item": "immersiveengineering:hemp_fabric",
+        "count": 1
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "forge:foods/meat/raw"
+        },
+        {
+            "item": "minecraft:rotten_flesh"
+        },
+        {
+            "item": "cold_sweat:filled_waterskin"
+        }
+    ],
+    "result":
+    {
+        "item": "hardcore_torches:animal_fat",
+        "count": 1
+    }
+}

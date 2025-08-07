@@ -1,0 +1,40 @@
+{
+    "target": "twilightforest:lich",
+    "events": {
+        "on_attack": [
+            {
+                "target": "other",
+                "damage_type": "indirect",
+                "chance": 0.25,
+                "potion_effects": [
+                    {
+                        "id": "alexsmobs:earthquake",
+                        "amplifier": 0,
+                        "duration": 2
+                    },
+                    {
+                        "id": "minecraft:slowness",
+                        "amplifier": 0,
+                        "duration": 3
+                    }
+                ]
+            }
+        ],
+        "on_damaged": [
+            {
+                "target": "this",
+                "damage_type": "indirect",
+                "chance": 0.75,
+                "potion_effects": [
+                    {
+                        "id": "minecraft:speed",
+                        "amplifier": 1,
+                        "duration": 3
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+

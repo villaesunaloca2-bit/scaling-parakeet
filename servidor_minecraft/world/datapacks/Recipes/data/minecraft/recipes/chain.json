@@ -1,0 +1,9 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"item": "createaddition:iron_rod"
+	},
+	"result": {
+		"item": "minecraft:chain"
+	}
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "legendary_monsters:cloudy_temple",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 105,
+    "separation": 72,
+    "salt": 443951123
+  }
+}

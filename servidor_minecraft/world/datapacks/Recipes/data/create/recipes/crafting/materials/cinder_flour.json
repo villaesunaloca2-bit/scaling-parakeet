@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "supplementaries:ash"
+        },
+        {
+            "item": "born_in_chaos_v1:fire_dust"
+        }
+    ],
+    "result":
+    {
+        "item": "create:cinder_flour",
+        "count": 1
+    }
+}

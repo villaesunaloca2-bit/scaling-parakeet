@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#c#",
+        "ABA",
+        "#I#"
+    ],
+    "key": {
+        "#": {
+            "item": "thermal:invar_ingot"
+        },
+        "c": {
+            "item": "thermal:constantan_gear"
+        },
+        "A": {
+            "item": "thermal:signalum_dust"
+        },
+        "B": {
+            "item": "thermal:drill_head"
+        },
+        "I": {
+            "item": "thermal:rf_coil"
+        }
+    },
+    "result": {"item":"thermal:device_rock_gen"}
+}

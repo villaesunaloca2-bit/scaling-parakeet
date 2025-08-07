@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "create:crushed_raw_zinc"
+    },
+    "result": {
+        "item":"create:zinc_nugget",
+        "count": 3 
+    },
+    "experience": 0.5,
+    "cookingtime": 200
+}

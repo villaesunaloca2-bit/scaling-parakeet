@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"IEI",
+		"IAI",
+		" L "
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"item": "minecraft:chain"},
+        "E": {"item": "minecraft:iron_ingot"},
+		"L": {"item": "minecraft:leather"},
+		"A": {
+            "item": "minecraft:leather_helmet"
+        }
+	},
+	
+	"result": {"item": "minecraft:chainmail_helmet"}
+}

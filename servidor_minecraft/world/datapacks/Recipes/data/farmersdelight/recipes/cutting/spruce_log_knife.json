@@ -1,0 +1,19 @@
+  {
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:spruce_log"
+      }
+    ],
+    "tool": {
+        "tag": "forge:tools/knives"
+    },
+    "result": [
+      {
+        "item": "minecraft:stripped_spruce_log"
+      },
+      {
+        "item": "farmersdelight:tree_bark"
+      }
+    ]
+  }

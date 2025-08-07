@@ -1,0 +1,22 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "minecraft"
+      }
+    ],
+    "type": "natprog:damage_tools",
+    "ingredients": [
+      {
+        "item": "regions_unexplored:stripped_blackwood_log"
+      },
+      {
+        "tag": "natprog:saw"
+      }
+    ],
+    "result": {
+      "item": "regions_unexplored:blackwood_planks",
+      "count": 2
+    },
+    "group": "planks"
+  }

@@ -1,0 +1,602 @@
+{
+  "profession": "minecraft:fletcher",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:flint",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "minecraft:gravel",
+        "amount": 16
+      },
+      "tradeExp": 1,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:fletcher_flint_for_gravel"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:feather",
+        "amount": 48
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:fletcher_emerald_for_feather"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:string",
+        "amount": 16
+      },
+      "tradeExp": 1,
+      "maxUses": 6,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:fletcher_emerald_for_string"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:arrow",
+        "amount": 12
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:fletcher_arrow_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:bow",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:fletcher_bow_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:crossbow",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:fletcher_crossbow_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "alexsmobs:shark_tooth",
+        "amount": 2
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:fletcher_shark_tooth_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "alexsmobs:emu_feather",
+        "amount": 16
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:fletcher_emerald_for_emu_feather"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "iceandfire:amphithere_feather",
+        "amount": 2
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:fletcher_emerald_for_amphithere_feather"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "alexsmobs:roadrunner_feather",
+        "amount": 8
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:fletcher_emerald_for_roadrunner_feather"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "twilightforest:raven_feather",
+        "amount": 28
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:fletcher_emerald_for_raven_feather"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "iceandfire:stymphalian_bird_feather",
+        "amount": 12
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:fletcher_emerald_for_stymphalian_bird_feather"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "iceandfire:wither_shard",
+        "amount": 16
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:fletcher_emerald_for_wither_shard"
+    },
+    {
+      "offer": {
+        "itemKey": "alexsmobs:shark_tooth_arrow",
+        "amount": 6
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:fletcher_shark_tooth_arrow_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "quark:torch_arrow",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:fletcher_torch_arrow_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "iceandfire:amphithere_arrow",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:fletcher_amphithere_arrow_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "iceandfire:stymphalian_arrow",
+        "amount": 6
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:fletcher_stymphalian_arrow_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:bow",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "additionalRequest": {
+        "itemKey": "thermal:ruby",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:fletcher_bow_for_emerald_and_ruby"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:bow",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "additionalRequest": {
+        "itemKey": "thermal:ruby",
+        "amount": 1
+      },
+      "tradeExp": 16,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:fletcher_bow_for_emerald_and_ruby"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:crossbow",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "additionalRequest": {
+        "itemKey": "thermal:ruby",
+        "amount": 1
+      },
+      "tradeExp": 16,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:fletcher_crossbow_for_emerald_and_ruby"
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:quiver",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:fletcher_quiver_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "iceandfire:dragonbone_arrow",
+        "amount": 2
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:fletcher_dragonbone_arrow_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "iceandfire:sea_serpent_arrow",
+        "amount": 2
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:fletcher_sea_serpent_arrow_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "cataclysm:void_scatter_arrow",
+        "amount": 2
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:fletcher_void_scatter_arrow_for_emerald"
+    },
+    {
+      "multiOffer": [
+        {
+            "itemKey": "minecraft:tipped_arrow",
+            "amount": 2,
+            "customColourR": 0,
+            "customColourG": 255,
+            "customColourB": 0,
+            "effects": [
+            { "effectKey": "minecraft:night_vision", "duration": 60000, "level": 1, "isVisible": true }
+            ]
+        },
+        {
+            "itemKey": "minecraft:tipped_arrow",
+            "amount": 2,
+            "customColourR": 0,
+            "customColourG": 255,
+            "customColourB": 0,
+            "effects": [
+            { "effectKey": "minecraft:invisibility", "duration": 60000, "level": 1, "isVisible": true }
+            ]
+        },
+        {
+            "itemKey": "minecraft:tipped_arrow",
+            "amount": 2,
+            "customColourR": 0,
+            "customColourG": 255,
+            "customColourB": 0,
+            "effects": [
+            { "effectKey": "minecraft:jump_boost", "duration": 60000, "level": 1, "isVisible": true }
+            ]
+        },
+        {
+            "itemKey": "minecraft:tipped_arrow",
+            "amount": 2,
+            "customColourR": 0,
+            "customColourG": 255,
+            "customColourB": 0,
+            "effects": [
+            { "effectKey": "minecraft:fire_resistance", "duration": 60000, "level": 1, "isVisible": true }
+            ]
+        },
+        {
+            "itemKey": "minecraft:tipped_arrow",
+            "amount": 2,
+            "customColourR": 0,
+            "customColourG": 255,
+            "customColourB": 0,
+            "effects": [
+            { "effectKey": "minecraft:speed", "duration": 60000, "level": 1, "isVisible": true }
+            ]
+        },
+        {
+            "itemKey": "minecraft:tipped_arrow",
+            "amount": 2,
+            "customColourR": 0,
+            "customColourG": 255,
+            "customColourB": 0,
+            "effects": [
+            { "effectKey": "minecraft:slowness", "duration": 60000, "level": 1, "isVisible": true }
+            ]
+        },
+        {
+            "itemKey": "minecraft:tipped_arrow",
+            "amount": 2,
+            "customColourR": 0,
+            "customColourG": 255,
+            "customColourB": 0,
+            "effects": [
+            { "effectKey": "minecraft:water_breathing", "duration": 60000, "level": 1, "isVisible": true }
+            ]
+        },
+        {
+            "itemKey": "minecraft:tipped_arrow",
+            "amount": 2,
+            "customColourR": 0,
+            "customColourG": 255,
+            "customColourB": 0,
+            "effects": [
+            { "effectKey": "minecraft:instant_health", "level": 1, "isVisible": true }
+            ]
+        },
+        {
+            "itemKey": "minecraft:tipped_arrow",
+            "amount": 2,
+            "customColourR": 0,
+            "customColourG": 255,
+            "customColourB": 0,
+            "effects": [
+            { "effectKey": "minecraft:instant_damage", "level": 1, "isVisible": true }
+            ]
+        },
+        {
+            "itemKey": "minecraft:tipped_arrow",
+            "amount": 2,
+            "customColourR": 0,
+            "customColourG": 255,
+            "customColourB": 0,
+            "effects": [
+            { "effectKey": "minecraft:poison", "duration": 60000, "level": 1, "isVisible": true }
+            ]
+        },
+        {
+            "itemKey": "minecraft:tipped_arrow",
+            "amount": 2,
+            "customColourR": 0,
+            "customColourG": 255,
+            "customColourB": 0,
+            "effects": [
+            { "effectKey": "minecraft:regeneration", "duration": 60000, "level": 1, "isVisible": true }
+            ]
+        },
+        {
+            "itemKey": "minecraft:tipped_arrow",
+            "amount": 2,
+            "customColourR": 0,
+            "customColourG": 255,
+            "customColourB": 0,
+            "effects": [
+            { "effectKey": "minecraft:strength", "duration": 60000, "level": 1, "isVisible": true }
+            ]
+        },
+        {
+            "itemKey": "minecraft:tipped_arrow",
+            "amount": 2,
+            "customColourR": 0,
+            "customColourG": 255,
+            "customColourB": 0,
+            "effects": [
+            { "effectKey": "minecraft:slow_falling", "duration": 60000, "level": 1, "isVisible": true }
+            ]
+        },
+        {
+            "itemKey": "minecraft:tipped_arrow",
+            "amount": 2,
+            "customColourR": 0,
+            "customColourG": 255,
+            "customColourB": 0,
+            "effects": [
+            { "effectKey": "alexsmobs:knockback_resistance", "duration": 60000, "level": 1, "isVisible": true }
+            ]
+        },
+        {
+            "itemKey": "minecraft:tipped_arrow",
+            "amount": 2,
+            "customColourR": 0,
+            "customColourG": 255,
+            "customColourB": 0,
+            "effects": [
+            { "effectKey": "irons_spellbooks:instant_mana", "level": 1, "isVisible": true }
+            ]
+        },
+        {
+            "itemKey": "minecraft:tipped_arrow",
+            "amount": 2,
+            "customColourR": 0,
+            "customColourG": 255,
+            "customColourB": 0,
+            "effects": [
+            { "effectKey": "cold_sweat:ice_resistance", "duration": 60000, "level": 1, "isVisible": true }
+            ]
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:arrow",
+        "amount": 2
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:fletcher_multioffer_tipped_arrow_for_emerald_and_arrow"
+    }
+  ]
+}

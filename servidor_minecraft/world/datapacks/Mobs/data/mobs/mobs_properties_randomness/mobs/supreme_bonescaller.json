@@ -1,0 +1,12 @@
+{
+    "target": "born_in_chaos_v1:supreme_bonescaller",
+    "attributes": [
+        {
+            "id": "minecraft:generic.follow_range",
+            "modifier_name": "Supreme Bonescaller follow range",
+            "amount": 24,
+            "operation": "addition"
+        }
+    ]
+}
+

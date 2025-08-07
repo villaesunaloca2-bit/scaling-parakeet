@@ -1,0 +1,15 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"item": "create:andesite_alloy"
+	},
+	"results": [
+        {
+          "item": "create:shaft"
+        },
+        {
+          "chance": 0.5,
+          "item": "create:shaft"
+        }
+      ]
+}

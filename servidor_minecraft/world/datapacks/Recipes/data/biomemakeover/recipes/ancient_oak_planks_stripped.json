@@ -1,0 +1,22 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "minecraft"
+      }
+    ],
+    "type": "natprog:damage_tools",
+    "ingredients": [
+      {
+        "item": "biomemakeover:stripped_ancient_oak_log"
+      },
+      {
+        "tag": "natprog:saw"
+      }
+    ],
+    "result": {
+      "item": "biomemakeover:ancient_oak_planks",
+      "count": 2
+    },
+    "group": "planks"
+  }

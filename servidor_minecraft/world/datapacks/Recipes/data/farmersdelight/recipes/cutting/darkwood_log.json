@@ -1,0 +1,21 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "tag": "twilightforest:darkwood_logs"
+      }
+    ],
+    "tool": {
+      "type": "farmersdelight:tool_action",
+      "action": "axe_strip"
+    },
+    "result": [
+      {
+        "item": "twilightforest:darkwood_planks"
+      },
+      {
+        "item": "twilightforest:darkwood_planks"
+      }
+    ],
+    "sound": "minecraft:item.axe.strip"
+  }

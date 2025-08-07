@@ -1,0 +1,90 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "thermal:ruby_dust"
+    },
+    "loops": 3,
+    "results": [
+      {
+        "chance": 0.75,
+        "item": "thermal:ruby"
+      },
+      {
+        "chance": 0.25,
+        "item": "thermal:cinnabar_dust"
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "thermal:ruby_dust"
+          },
+          {
+            "amount": 125,
+            "fluid": "minecraft:water"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:ruby_dust"
+          }
+        ]
+      },
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "thermal:ruby_dust"
+          },
+          {
+            "amount": 125,
+            "fluid": "minecraft:water"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:ruby_dust"
+          }
+        ]
+      },
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "thermal:ruby_dust"
+          },
+          {
+            "amount": 125,
+            "fluid": "minecraft:water"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:ruby_dust"
+          }
+        ]
+      },
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "thermal:ruby_dust"
+          },
+          {
+            "amount": 125,
+            "fluid": "minecraft:water"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:ruby_dust"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "thermal:ruby_dust"
+    }
+  }

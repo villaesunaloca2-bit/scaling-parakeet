@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "ironwood_armor",
+    "ingredients": [
+        {
+            "item": "minecraft:iron_boots"
+        },
+        {
+            "item": "twilightforest:ironwood_ingot"
+        }
+    ],
+  "result": {
+    "nbt": "{Enchantments:[{lvl:1s,id:\"combatroll:longfooted\"}]}",
+    "item": "twilightforest:ironwood_boots",
+    "type": "minecraft:item_nbt"
+  }
+}

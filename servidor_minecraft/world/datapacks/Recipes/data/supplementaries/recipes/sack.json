@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LOL",
+        "L L",
+        "LLL"
+    ],
+    "key": {
+        "O": {
+            "item": "minecraft:string"
+        },
+        "L": {
+            "item": "supplementaries:rope"
+        }
+    },
+    "result": {
+        "item": "supplementaries:sack",
+        "count": 1
+    }
+}

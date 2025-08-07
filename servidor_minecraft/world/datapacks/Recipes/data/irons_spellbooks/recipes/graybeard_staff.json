@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " RA",
+        "S/R",
+        "/S "
+    ],
+    "key": {
+        "S": {
+            "tag": "forge:plates/iron"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "R":
+        {
+            "item": "supplementaries:rope"
+        },
+        "A":
+        {
+            "item": "irons_spellbooks:arcane_essence"
+        }
+    },
+    "result": {
+        "item": "irons_spellbooks:graybeard_staff",
+        "count": 1
+    }
+}

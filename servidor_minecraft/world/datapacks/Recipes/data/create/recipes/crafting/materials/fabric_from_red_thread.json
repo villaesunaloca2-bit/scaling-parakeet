@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "immersiveengineering:hemp_fabric"
+        },
+        {
+            "item": "twilightforest:red_thread"
+        }
+    ],
+    "result":
+    {
+        "item": "thermal:hazmat_fabric",
+        "count": 1
+    }
+}

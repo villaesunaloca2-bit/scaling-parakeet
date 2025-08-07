@@ -1,0 +1,19 @@
+{
+    "type": "thermal:smelter",
+    "ingredient": {
+      "tag": "forge:raw_materials/tin"
+    },
+    "result": [
+      {
+        "item": "thermal:tin_nugget",
+        "chance": 1.0,
+        "locked": true
+      },
+      {
+        "item": "create:zinc_nugget",
+        "amount": "6",
+        "chance": 1.0
+      }
+    ],
+    "experience": 0.1
+  }

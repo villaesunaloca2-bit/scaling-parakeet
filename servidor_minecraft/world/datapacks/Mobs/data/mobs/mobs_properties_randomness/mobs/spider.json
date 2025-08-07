@@ -1,0 +1,40 @@
+{
+    "target": "minecraft:spider",
+    "attributes": [
+        {
+            "id": "minecraft:generic.movement_speed",
+            "modifier_name": "Spider speed",
+            "amount": {
+                "min": 0,
+                "max": 0.4
+            },
+            "operation": "multiply_base"
+        },
+        {
+            "id": "minecraft:generic.knockback_resistance",
+            "modifier_name": "Spider knockback_resistance",
+            "amount": 9,
+            "operation": "addition"
+        }
+    ],
+    "events": {
+        "on_attack": [
+            {
+                "target": "other",
+                "chance": 0.5,
+                "potion_effects": [
+                    {
+                        "id": "illageandspillage:webbed",
+                        "amplifier": 0,
+                        "duration": {
+                            "min": 2,
+                            "max": 5
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+

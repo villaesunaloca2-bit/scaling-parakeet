@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "## ",
+        "#H#",
+        " ##"
+    ],
+    "key": {
+        "#": {
+            "item": "thermal:constantan_ingot"
+        },
+        "H": {
+            "item": "create:andesite_alloy"
+        }
+    },
+    "result": {
+        "item": "thermal:constantan_gear",
+        "count": 1
+    }
+}

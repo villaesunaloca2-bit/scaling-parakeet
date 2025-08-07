@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[   
+        " C ",
+		"IEI",
+		"ABA"
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"tag": "minecraft:logs"},
+        "E": {"item": "createbigcannons:wrought_iron_cannon_end"},
+        "B": {"item": "thermal:nickel_gear"},
+        "C": {"item": "createbigcannons:wrought_iron_cannon_chamber"},
+		"A": {"item": "minecraft:smooth_stone"}
+	},
+	
+	"result": {"item": "create:schematicannon"}
+}

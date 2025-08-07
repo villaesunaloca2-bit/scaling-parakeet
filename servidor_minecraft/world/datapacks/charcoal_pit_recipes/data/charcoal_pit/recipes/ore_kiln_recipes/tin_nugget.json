@@ -1,0 +1,14 @@
+{
+  "type": "charcoal_pit:orekiln",
+  "ingredients": [
+    [
+        {
+          "item": "natprog:create_asurine_pebble"
+        }
+    ]
+  ],
+  "result": {
+    "item": "thermal:tin_nugget",
+    "count": 1
+  }
+}

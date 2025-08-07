@@ -1,0 +1,21 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "tag": "minecraft:birch_logs"
+      }
+    ],
+    "tool": {
+      "type": "farmersdelight:tool_action",
+      "action": "axe_strip"
+    },
+    "result": [
+      {
+        "item": "minecraft:birch_planks"
+      },
+      {
+        "item": "minecraft:birch_planks"
+      }
+    ],
+    "sound": "minecraft:item.axe.strip"
+  }

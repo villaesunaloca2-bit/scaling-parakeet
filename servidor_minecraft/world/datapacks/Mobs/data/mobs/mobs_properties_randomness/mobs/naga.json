@@ -1,0 +1,80 @@
+{
+    "target": "twilightforest:naga",
+    "attributes": [
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "Naga health",
+            "amount": 50,
+            "operation": "addition"
+        },
+        {
+            "id": "minecraft:generic.armor",
+            "modifier_name": "Naga armor",
+            "amount": 13,
+            "operation": "addition"
+        },
+        {
+            "id": "minecraft:generic.knockback_resistance",
+            "modifier_name": "Naga knockback resistance",
+            "amount": 0.85,
+            "operation": "addition"
+        }
+    ],
+    "equipment": {
+        "head": {
+            "items": [
+                {
+                    "id": "twilightforest:steeleaf_helmet",
+                    "drop_chance": 0,
+                    "enchantments": [
+                        {
+                            "id": "minecraft:thorns",
+                            "level": 8
+                        },
+                        {
+                            "id": "minecraft:projectile_protection",
+                            "level": 2
+                        },
+                        {
+                            "id": "minecraft:unbreaking",
+                            "level": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        "main_hand": {
+            "chance": 1,
+            "items": [
+                {
+                    "id": "minecraft:wooden_axe",
+                    "drop_chance": 0,
+                    "enchantments": [
+                        {
+                            "id": "minecraft:knockback",
+                            "level": 4
+                        },
+                        {
+                            "id": "minecraft:unbreaking",
+                            "level": 100
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "potion_effects": [
+        {
+            "id": "alexsmobs:soulsteal",
+            "amplifier": 1,
+            "ambient": true
+        },
+        {
+            "id": "minecraft:regeneration",
+            "amplifier": 0,
+            "ambient": true
+        }
+    ]
+}
+
+

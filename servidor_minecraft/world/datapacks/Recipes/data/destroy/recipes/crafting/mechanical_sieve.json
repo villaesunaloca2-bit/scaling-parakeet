@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[   
+		"IEI",
+		"CCC"
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"item": "create:andesite_alloy"},
+        "E": {"item": "destroy:mesh"},
+        "C": {"tag": "forge:treated_wood_slab"}
+	},
+	
+	"result": {"item": "destroy:mechanical_sieve"}
+}

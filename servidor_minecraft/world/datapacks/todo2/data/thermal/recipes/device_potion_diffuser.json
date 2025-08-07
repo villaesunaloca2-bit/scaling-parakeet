@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#c#",
+        "ABA",
+        "#I#"
+    ],
+    "key": {
+        "#": {
+            "item": "thermal:silver_ingot"
+        },
+        "c": {
+            "item": "thermal:copper_gear"
+        },
+        "A": {
+            "tag": "forge:glass"
+        },
+        "B": {
+            "item": "create:propeller"
+        },
+        "I": {
+            "item": "thermal:redstone_servo"
+        }
+    },
+    "result": {"item":"thermal:device_potion_diffuser"}
+}

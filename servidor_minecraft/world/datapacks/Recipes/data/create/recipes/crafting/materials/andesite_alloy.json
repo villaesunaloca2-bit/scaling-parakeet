@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "LL"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:andesite"
+        },
+        "L": {
+            "item": "thermal:slag"
+        }
+    },
+    "result": {
+        "item": "create:andesite_alloy",
+        "count": 2
+    }
+}

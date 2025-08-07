@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LLL",
+        "OSO",
+        "LLL"
+    ],
+    "key": {
+        "O": {
+            "item": "minecraft:string"
+        },
+        "S": {
+            "item": "create:iron_sheet"
+        },
+        "L": {
+            "item": "immersiveengineering:ersatz_leather"
+        }
+    },
+    "result": {
+        "item": "backpacked:backpack",
+        "count": 1
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": {
+        "item": "create_sa:copper_helmet"
+    },
+    "addition": {
+        "item": "alloyed:bronze_sheet"
+    },
+    "result": {
+        "item": "iceandfire:armor_copper_metal_helmet"
+    },
+      "template": {
+    "item": "minecraft:leather"
+  }
+}

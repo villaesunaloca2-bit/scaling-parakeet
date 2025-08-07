@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "A A",
+        "LQL",
+        "A#A"
+    ],
+    "key": {
+        "#": {
+            "item": "thermal:redstone_servo"
+        },
+        "L": {
+            "item": "immersiveengineering:stick_treated"
+        },
+        "A": {
+            "item": "create:andesite_casing"
+        },
+        "Q": {
+            "item": "thermal:bronze_plate"
+        }
+    },
+    "result": {
+        "item": "strainers:wooden_strainer"
+    }
+}

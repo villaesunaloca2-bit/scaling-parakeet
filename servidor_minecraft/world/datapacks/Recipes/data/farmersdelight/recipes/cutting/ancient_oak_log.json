@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "biomemakeover:ancient_oak_log"
+    }
+  ],
+  "tool": {
+    "type": "farmersdelight:tool_action",
+    "action": "axe_strip"
+  },
+  "result": [
+    {
+      "item": "biomemakeover:ancient_oak_planks"
+    },
+    {
+      "item": "biomemakeover:ancient_oak_planks"
+    }
+  ],
+  "sound": "minecraft:item.axe.strip"
+}

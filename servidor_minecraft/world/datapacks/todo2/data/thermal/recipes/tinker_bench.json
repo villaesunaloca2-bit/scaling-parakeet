@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "ABA",
+        "#I#"
+    ],
+    "key": {
+        "#": {
+            "item": "create:andesite_casing"
+        },
+        "c": {
+            "item": "thermal:tin_ingot"
+        },
+        "A": {
+            "item": "thermal:electrum_gear"
+        },
+        "B": {
+            "item": "minecraft:crafting_table"
+        },
+        "I": {
+            "item": "thermal:rf_coil"
+        }
+    },
+    "result": {"item":"thermal:tinker_bench"}
+}

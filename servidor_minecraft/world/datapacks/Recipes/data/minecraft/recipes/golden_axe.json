@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " ##",
+        "HI#",
+        "H/ "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gold_ingot"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "I": {
+            "item": "createaddition:gold_rod"
+        },
+        "H": {
+            "item": "minecraft:leather"
+        }
+    },
+    "result": {
+        "item": "minecraft:golden_axe",
+        "count": 1
+    }
+}

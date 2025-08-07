@@ -1,0 +1,19 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:crimson_stem"
+      }
+    ],
+    "tool": {
+        "tag": "forge:tools/knives"
+    },
+    "result": [
+      {
+        "item": "minecraft:stripped_crimson_stem"
+      },
+      {
+        "item": "farmersdelight:tree_bark"
+      }
+    ]
+  }

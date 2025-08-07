@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OAO",
+        "LSL",
+        "OAO"
+    ],
+    "key": {
+        "O": {
+            "item": "immersiveengineering:stick_treated"
+        },
+        "L": {
+            "tag": "minecraft:wool"
+        },
+        "A": {
+            "item": "immersiveengineering:hemp_fabric"
+        },
+        "S": {
+            "item": "create:andesite_alloy"
+        }
+    },
+    "result": {
+        "item": "create:white_sail",
+        "count": 2
+    }
+}

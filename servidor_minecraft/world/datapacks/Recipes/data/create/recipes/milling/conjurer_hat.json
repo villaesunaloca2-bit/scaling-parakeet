@@ -1,0 +1,39 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "conjurer_illager:conjurer_hat"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:emerald",
+        "count": 15,
+        "chance": 1
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 15,
+        "chance": 0.5
+      },
+      {
+        "item": "thermal:ruby",
+        "chance": 0.5
+      },
+      {
+        "item": "thermal:ruby",
+        "chance": 0.33
+      },
+      {
+        "item": "born_in_chaos_v1:ethereal_spirit",
+        "count": 4,
+        "chance": 1
+      },
+      {
+        "item": "born_in_chaos_v1:ethereal_spirit",
+        "count": 4,
+        "chance": 0.5
+      }
+    ],
+    "processingTime": 2500
+}

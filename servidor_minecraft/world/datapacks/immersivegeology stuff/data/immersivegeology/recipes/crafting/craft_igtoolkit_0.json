@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " AL",
+        "EOA",
+        "OE "
+    ],
+    "key": {
+        "O": {
+            "item": "minecraft:stick"
+        },
+        "L": {
+            "tag": "forge:string"
+        },
+        "A": {
+            "item": "alloyed:bronze_ingot"
+        },
+        "E": {
+            "tag": "forge:leather"
+        }
+    },
+    "result": {
+        "item": "immersivegeology:hammer_bronze",
+        "count": 1
+    }
+}

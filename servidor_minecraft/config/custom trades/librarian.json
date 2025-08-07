@@ -1,0 +1,579 @@
+{
+  "profession": "minecraft:librarian",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:paper",
+        "amount": 16
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 30,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:librarian_paper_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:glass",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:librarian_glass_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "hardcore_torches:lit_lantern",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:librarian_lit_lantern_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:ink_sac",
+        "amount": 32
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:librarian_emerald_for_ink_sac"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:book",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:librarian_book_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "supplementaries:antique_ink",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:librarian_emerald_for_antique_ink"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "supplementaries:globe",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:librarian_emerald_for_globe"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:glow_ink_sac",
+        "amount": 12
+      },
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:librarian_emerald_for_glow_ink_sac"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "irons_spellbooks:common_ink",
+        "amount": 2
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_emerald_for_common_ink"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "request": {
+        "itemKey": "irons_spellbooks:uncommon_ink",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_emerald_for_uncommon_ink"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "irons_spellbooks:rare_ink",
+        "amount": 1
+      },
+      "tradeExp": 8,
+      "maxUses": 2,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_emerald_for_rare_ink"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "irons_spellbooks:epic_ink",
+        "amount": 1
+      },
+      "tradeExp": 24,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_emerald_for_epic_ink"
+    },
+    {
+      "offer": {
+        "itemKey": "thermal:ruby",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "irons_spellbooks:legendary_ink",
+        "amount": 1
+      },
+      "tradeExp": 32,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_ruby_for_legendary_ink"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 16
+      },
+      "request": {
+        "itemKey": "obscure_api:astral_dust",
+        "amount": 1
+      },
+      "tradeExp": 16,
+      "maxUses": 2,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_emerald_for_astral_dust"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 16
+      },
+      "request": {
+        "itemKey": "obscure_api:astral_dust",
+        "amount": 1
+      },
+      "tradeExp": 16,
+      "maxUses": 2,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_emerald_for_astral_dust"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 16
+      },
+      "request": {
+        "itemKey": "obscure_api:astral_dust",
+        "amount": 1
+      },
+      "tradeExp": 16,
+      "maxUses": 2,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_emerald_for_astral_dust"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 16
+      },
+      "request": {
+        "itemKey": "obscure_api:astral_dust",
+        "amount": 1
+      },
+      "tradeExp": 16,
+      "maxUses": 2,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_emerald_for_astral_dust"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "iceandfire:sapphire_gem",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_emerald_for_sapphire_gem"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "iceandfire:sapphire_gem",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_emerald_for_sapphire_gem"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "iceandfire:sapphire_gem",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_emerald_for_sapphire_gem"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "iceandfire:sapphire_gem",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_emerald_for_sapphire_gem"
+    },
+    {
+      "offer": {
+        "itemKey": "iceandfire:sapphire_gem",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "thermal:ruby",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_sapphire_gem_for_ruby"
+    },
+    {
+      "offer": {
+        "itemKey": "iceandfire:sapphire_gem",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "thermal:ruby",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_sapphire_gem_for_ruby"
+    },
+    {
+      "offer": {
+        "itemKey": "iceandfire:sapphire_gem",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "thermal:ruby",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_sapphire_gem_for_ruby"
+    },
+    {
+      "offer": {
+        "itemKey": "iceandfire:sapphire_gem",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "thermal:ruby",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_sapphire_gem_for_ruby"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:lapis_lazuli",
+        "amount": 6
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_lapis_lazuli_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:lapis_lazuli",
+        "amount": 6
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_lapis_lazuli_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:lapis_lazuli",
+        "amount": 6
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_lapis_lazuli_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:lapis_lazuli",
+        "amount": 6
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_lapis_lazuli_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:enchanted_book",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "additionalRequest": {
+        "itemKey": "thermal:ruby",
+        "amount": 1
+      },
+      "tradeExp": 16,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:librarian_book_for_emerald_and_ruby"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:enchanted_book",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "additionalRequest": {
+        "itemKey": "thermal:ruby",
+        "amount": 1
+      },
+      "tradeExp": 16,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:librarian_book_for_emerald_and_ruby"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:enchanted_book",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "additionalRequest": {
+        "itemKey": "thermal:ruby",
+        "amount": 1
+      },
+      "tradeExp": 16,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:librarian_book_for_emerald_and_ruby"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:enchanted_book",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "additionalRequest": {
+        "itemKey": "thermal:ruby",
+        "amount": 1
+      },
+      "tradeExp": 16,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:librarian_book_for_emerald_and_ruby"
+    }
+  ]
+}

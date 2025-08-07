@@ -1,0 +1,26 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "twilightforest:zombie_scepter"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:bone",
+        "count": 1,
+        "chance": 1
+      },
+      {
+        "item": "born_in_chaos_v1:ethereal_spirit",
+        "count": 3,
+        "chance": 1
+      },
+      {
+        "item": "born_in_chaos_v1:orbofthe_summoner",
+        "count": 1,
+        "chance": 1
+      }
+    ],
+    "processingTime": 2500
+}

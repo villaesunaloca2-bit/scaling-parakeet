@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OOO",
+        "OLO",
+        "OOO"
+    ],
+    "key": {
+        "O": {
+            "item": "alloyed:bronze_sheet"
+        },
+        "L": {
+            "item": "charcoal_pit:sandy_brick"
+        }
+    },
+    "result": {
+        "item": "charcoal_pit:main_bloomery",
+        "count": 1
+    }
+}

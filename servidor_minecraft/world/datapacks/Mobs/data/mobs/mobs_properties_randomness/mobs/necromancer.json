@@ -1,0 +1,12 @@
+{
+    "target": "irons_spellbooks:necromancer",
+    "attributes": [
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "Necromancer health",
+            "amount": 20,
+            "operation": "addition"
+        }
+    ]
+}
+

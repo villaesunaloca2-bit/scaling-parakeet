@@ -1,0 +1,75 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "minecraft:gold_ingot"
+    },
+    "loops": 3,
+    "results": [
+      {
+        "chance": 0.25,
+        "item": "thermal:gold_plate"
+      },
+      {
+        "chance": 0.75,
+        "item": "minecraft:gold_nugget",
+        "count": 1
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "minecraft:gold_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "minecraft:gold_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "minecraft:gold_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "minecraft:gold_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "minecraft:gold_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "minecraft:gold_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "minecraft:gold_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "minecraft:gold_ingot"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "minecraft:gold_ingot"    
+    }
+}

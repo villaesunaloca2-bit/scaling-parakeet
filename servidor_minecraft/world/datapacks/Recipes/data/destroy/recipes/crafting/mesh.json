@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[   " C ",
+		"CEC",
+		" C "
+	],
+	
+	
+	
+	"key":
+	{
+        "E": {"item": "strainers:string_mesh"},
+        "C": {"item": "immersiveengineering:wirecoil_structure_rope"}
+	},
+	
+	"result": {"item": "destroy:mesh"}
+}

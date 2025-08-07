@@ -1,0 +1,22 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "minecraft"
+      }
+    ],
+    "type": "natprog:damage_tools",
+    "ingredients": [
+      {
+        "item": "twilightforest:stripped_sorting_log"
+      },
+      {
+        "item": "natprog:saw"
+      }
+    ],
+    "result": {
+      "item": "twilightforest:sorting_planks",
+      "count": 2
+    },
+    "group": "planks"
+  }

@@ -1,0 +1,18 @@
+{
+    "target": "minecraft:iron_golem",
+    "attributes": [
+        {
+            "id": "minecraft:generic.attack_damage",
+            "modifier_name": "Iron golem attack damage",
+            "amount": -6,
+            "operation": "addition"
+        },
+        {
+            "id": "minecraft:generic.armor",
+            "modifier_name": "Iron Golem armor",
+            "amount": 14,
+            "operation": "addition"
+        }
+    ]
+}
+

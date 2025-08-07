@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "I#I",
+        "#H#",
+        "I#I"
+    ],
+    "key": {
+        "#": {
+            "item": "tfmg:lead_sheet"
+        },
+        "H": {
+            "item": "create:andesite_alloy"
+        },
+        "I": {
+            "item": "thermal:lead_nugget"
+        }
+    },
+    "result": {
+        "item": "thermal:lead_gear",
+        "count": 1
+    }
+}

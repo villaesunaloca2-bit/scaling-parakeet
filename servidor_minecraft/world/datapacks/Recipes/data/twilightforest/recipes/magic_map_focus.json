@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "twilightforest:raven_feather"
+    },
+    {
+      "item": "twilightforest:torchberries"
+    },
+    {
+      "item": "enemyexpansion:phantom_eye"
+    },
+    {
+      "tag": "forge:dusts/glowstone"
+    }
+  ],
+  "result": {
+    "item": "twilightforest:magic_map_focus"
+  }
+}

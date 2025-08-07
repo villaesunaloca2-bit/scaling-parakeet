@@ -1,0 +1,92 @@
+{
+    "target": "born_in_chaos_v1:missioner",
+    "attributes": [
+        {
+            "id": "minecraft:generic.follow_range",
+            "modifier_name": "Missioner follow range",
+            "amount": 24,
+            "operation": "addition"
+        },
+        {
+            "id": "minecraft:generic.armor",
+            "modifier_name": "Missioner armor",
+            "amount": -5,
+            "operation": "addition"
+        }
+    ],
+    "events": {
+        "on_attack": [
+            {
+                "target": "other",
+                "chance": 0.33,
+                "potion_effects": [
+                    {
+                        "id": "minecraft:blindness",
+                        "amplifier": 0,
+                        "duration": 5
+                    },
+                    {
+                        "id": "born_in_chaos_v1:undead_summonun",
+                        "amplifier": 0,
+                        "duration": 10
+                    }
+                ]
+            }
+        ],
+        "on_damaged": [
+            {
+                "target": "other",
+                "damage_type": "indirect",
+                "potion_effects": [
+                    {
+                        "id": "minecraft:blindness",
+                        "amplifier": 0,
+                        "duration": 5
+                    },
+                    {
+                        "id": "born_in_chaos_v1:undead_summonun",
+                        "amplifier": 0,
+                        "duration": 5
+                    }
+                ]
+            }
+        ]
+    },
+    "equipment": {
+        "chest": {
+            "items": [
+                {
+                    "id": "minecraft:iron_chestplate",
+                    "drop_chance": 0,
+                    "enchantments": [
+                        {
+                            "id": "minecraft:projectile_protection",
+                            "level": 3
+                        },
+                        {
+                            "id": "minecraft:unbreaking",
+                            "level": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        "main_hand": {
+            "items": [
+                {
+                    "id": "minecraft:totem_of_undying",
+                    "amount": 3,
+                    "drop_chance": 0
+                }
+            ]
+        }
+    },
+    "potion_effects": [
+        {
+            "id": "minecraft:regeneration",
+            "amplifier": 0,
+            "ambient": true
+        }
+    ]
+}
+

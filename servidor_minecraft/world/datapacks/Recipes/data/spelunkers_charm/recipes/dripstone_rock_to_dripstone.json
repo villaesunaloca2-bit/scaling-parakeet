@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SS ",
+        "SS "
+    ],
+    "key": {
+        "S": {
+            "item": "spelunkers_charm:dripstone_rock"
+        }
+    },
+    "result": {
+        "item": "natprog:cobbled_dripstone_block",
+        "count": 1
+    }
+}

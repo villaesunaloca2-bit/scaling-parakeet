@@ -1,0 +1,22 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "minecraft"
+      }
+    ],
+    "type": "natprog:damage_tools",
+    "ingredients": [
+      {
+        "item": "twilightforest:stripped_mangrove_log"
+      },
+      {
+        "tag": "natprog:saw"
+      }
+    ],
+    "result": {
+      "item": "twilightforest:mangrove_planks",
+      "count": 2
+    },
+    "group": "planks"
+  }

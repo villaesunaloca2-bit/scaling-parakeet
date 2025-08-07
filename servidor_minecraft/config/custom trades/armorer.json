@@ -1,0 +1,414 @@
+{
+  "profession": "minecraft:armorer",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:leather",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:armorer_leather_for_emerald_0"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:charcoal",
+        "amount": 16
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:armorer_charcoal_for_emerald_0"
+    },
+    {
+      "offer": {
+        "itemKey": "createbigcannons:powder_charge",
+        "amount": 3
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:armorer_gunpowder_for_emerald_0"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "alloyed:bronze_ingot",
+        "amount": 8
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:armorer_emerald_for_bronze_ingot_0"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:coal",
+        "amount": 48
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:armorer_emerald_for_coal_0"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:iron_ingot",
+        "amount": 16
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:armorer_emerald_for_iron_ingot_0"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "create:brass_ingot",
+        "amount": 12
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:armorer_emerald_for_brass_ingot"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "immersiveengineering:coal_coke",
+        "amount": 40
+      },
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:armorer_emerald_for_coal_coke_0"
+    },
+    {
+      "offer": {
+        "itemKey": "createaddition:iron_rod",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:armorer_iron_rod_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "create_sa:copper_shovel",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:armorer_copper_shovel_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "create_sa:copper_axe",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:armorer_copper_axe_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "create_sa:copper_pickaxe",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:armorer_copper_pickaxe_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "iceandfire:copper_shovel",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:armorer_copper_shovel_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "iceandfire:copper_pickaxe",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:armorer_copper_pickaxe_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "iceandfire:copper_axe",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:armorer_copper_axe_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "natprog:iron_saw",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:armorer_iron_saw_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "immersiveengineering:hammer",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:armorer_hammer_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:iron_pickaxe",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3
+      },
+      "additionalRequest": {
+        "itemKey": "thermal:ruby",
+        "amount": 1
+      },
+      "tradeExp": 16,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:armorer_iron_pickaxe_for_emerald_and_ruby"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:iron_shovel",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3
+      },
+      "additionalRequest": {
+        "itemKey": "thermal:ruby",
+        "amount": 1
+      },
+      "tradeExp": 16,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:armorer_iron_shovel_for_emerald_and_ruby"
+    },
+    {
+      "offer": {
+        "itemKey": "create_sa:brass_pickaxe",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3
+      },
+      "additionalRequest": {
+        "itemKey": "thermal:ruby",
+        "amount": 1
+      },
+      "tradeExp": 16,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:armorer_brass_pickaxe_for_emerald_and_ruby"
+    },
+    {
+      "offer": {
+        "itemKey": "create_sa:brass_axe",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3
+      },
+      "additionalRequest": {
+        "itemKey": "thermal:ruby",
+        "amount": 1
+      },
+      "tradeExp": 16,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:armorer_brass_axe_for_emerald_and_ruby"
+    },
+    {
+      "offer": {
+        "itemKey": "create_sa:brass_shovel",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3
+      },
+      "additionalRequest": {
+        "itemKey": "thermal:ruby",
+        "amount": 1
+      },
+      "tradeExp": 16,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:armorer_brass_shovel_for_emerald_and_ruby"
+    }
+  ]
+}

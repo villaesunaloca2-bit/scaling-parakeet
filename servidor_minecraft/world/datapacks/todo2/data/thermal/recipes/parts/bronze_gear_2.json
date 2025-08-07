@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "I#I",
+        "#H#",
+        "I#I"
+    ],
+    "key": {
+        "#": {
+            "item": "alloyed:bronze_sheet"
+        },
+        "H": {
+            "item": "create:andesite_alloy"
+        },
+        "I": {
+            "item": "alloyed:bronze_nugget"
+        }
+    },
+    "result": {
+        "item": "thermal:bronze_gear",
+        "count": 1
+    }
+}

@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" C ",
+		"IEI",
+		" B "
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"item": "create:andesite_alloy"},
+        "E": {"item": "thermal:bronze_gear"},
+        "B": {"item": "minecraft:stone_bricks"},
+        "C": {"tag": "forge:fences/wooden"}
+	},
+	
+	"result": {"item": "createhorsepower:horse_crank"}
+}

@@ -1,0 +1,21 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "tag": "twilightforest:mining_logs"
+      }
+    ],
+    "tool": {
+      "type": "farmersdelight:tool_action",
+      "action": "axe_strip"
+    },
+    "result": [
+      {
+        "item": "twilightforest:mining_planks"
+      },
+      {
+        "item": "twilightforest:mining_planks"
+      }
+    ],
+    "sound": "minecraft:item.axe.strip"
+  }

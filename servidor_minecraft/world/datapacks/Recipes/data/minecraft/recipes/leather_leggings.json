@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LOL",
+        "O O",
+        "L L"
+    ],
+    "key": {
+        "O": {
+            "item": "farmersdelight:canvas"
+        },
+        "L": {
+            "item": "irons_spellbooks:hogskin"
+        }
+    },
+    "result": {
+        "item": "minecraft:leather_leggings",
+        "count": 1
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " E ",
+      "AIA",
+      " C "
+    ],
+    "key": {
+      "C": {
+        "item": "create:andesite_casing"
+      },
+      "A": {
+        "tag": "forge:plates/iron"
+      },
+      "I": {
+        "tag": "forge:gears/lead"
+      },
+      "E": {
+          "item": "thermal:saw_blade"
+      }
+    },
+    "result": {
+      "item": "create:mechanical_saw"
+    }
+  }

@@ -1,0 +1,22 @@
+{
+    "type": "thermal:pulverizer",
+    "ingredient": {
+      "item": "create:crushed_raw_tin"
+    },
+    "result": [
+      {
+        "item": "thermal:tin_dust",
+        "chance": 1
+      },
+      {
+        "item": "thermal:tin_dust",
+        "chance": 0.5,
+        "count": 2
+      },
+      {
+        "item": "thermal:iron_dust",
+        "chance": 0.1
+      }
+    ],
+    "experience": 0.1
+  }

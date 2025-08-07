@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "## ",
+        "#IR",
+        " Ri"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_nugget"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "I": {
+            "item": "thermal:iron_plate"
+        },
+        "R": {
+            "item": "thermal:lead_plate"
+        }
+    },
+    "result": {"item":"thermal:drill_head"}
+}

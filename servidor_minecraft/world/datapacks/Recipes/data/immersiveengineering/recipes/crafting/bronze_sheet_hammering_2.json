@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " O ",
+        "LLL"
+    ],
+    "key": {
+        "O": {
+            "item": "immersivegeology:hammer_bronze"
+        },
+        "L": {
+            "item": "alloyed:bronze_ingot"
+        }
+    },
+    "result": {
+        "item": "alloyed:bronze_sheet",
+        "count": 2
+    }
+}

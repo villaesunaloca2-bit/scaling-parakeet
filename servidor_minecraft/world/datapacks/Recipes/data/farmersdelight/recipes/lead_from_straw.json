@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" SS",
+		" SS",
+        "S  "
+	],
+	
+	
+	
+	"key":
+	{
+        "S": {"item": "supplementaries:rope"}
+	},
+	
+	"result": {"item": "minecraft:lead"}
+}

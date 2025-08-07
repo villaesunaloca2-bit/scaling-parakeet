@@ -1,0 +1,36 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "immersiveengineering:hemp_fabric"
+      },
+      {
+        "item": "thermal:cured_rubber"
+      },
+      {
+        "item": "thermal:cured_rubber"
+      },
+      {
+        "item": "thermal:cured_rubber"
+      },
+      {
+        "item": "createindustry:sulfur_dust"
+      },
+      {
+        "item": "createindustry:sulfur_dust"
+      },
+      {
+        "item": "createindustry:sulfur_dust"
+      },
+      {
+        "fluid": "thermal:resin",
+        "amount": 500
+      }
+    ],
+    "results": [
+      {
+        "item": "thermal:hazmat_fabric"
+      }
+    ]
+  }

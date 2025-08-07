@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"I",
+		"I"
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"item": "regions_unexplored:alpha_planks"}
+	},
+	
+	"result": {"item": "minecraft:stick",
+                "count": 4
+              }
+
+}

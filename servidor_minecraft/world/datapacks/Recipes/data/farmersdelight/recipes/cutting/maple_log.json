@@ -1,0 +1,21 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "tag": "regions_unexplored:maple_logs"
+      }
+    ],
+    "tool": {
+      "type": "farmersdelight:tool_action",
+      "action": "axe_strip"
+    },
+    "result": [
+      {
+        "item": "regions_unexplored:maple_planks"
+      },
+      {
+        "item": "regions_unexplored:maple_planks"
+      }
+    ],
+    "sound": "minecraft:item.axe.strip"
+  }

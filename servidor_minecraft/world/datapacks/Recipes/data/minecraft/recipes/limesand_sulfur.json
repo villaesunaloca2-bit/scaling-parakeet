@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "tag": "forge:pebbles"
+        },
+        {
+            "item": "minecraft:bone_meal"
+        },
+        {
+            "item": "thermal:sulfur_dust"
+        },
+        {
+            "tag": "forge:pebbles"
+        },
+        {
+            "item": "minecraft:bone_meal"
+        }
+    ],
+    "result":
+    {
+        "item": "tfmg:limesand",
+        "count": 4
+    }
+}

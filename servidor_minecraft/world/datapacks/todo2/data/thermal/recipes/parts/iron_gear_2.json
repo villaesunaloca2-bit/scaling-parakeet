@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "I#I",
+        "#H#",
+        "I#I"
+    ],
+    "key": {
+        "#": {
+            "item": "create:iron_sheet"
+        },
+        "H": {
+            "item": "create:andesite_alloy"
+        },
+        "I": {
+            "item": "minecraft:iron_nugget"
+        }
+    },
+    "result": {
+        "item": "thermal:iron_gear",
+        "count": 1
+    }
+}

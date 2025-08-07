@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[   
+        "CCC",
+		" E ",
+		" E "
+	],
+	
+	
+	
+	"key":
+	{
+        "E": {"item": "minecraft:smooth_stone"},
+        "C": {"tag": "forge:treated_wood_slab"}
+	},
+	
+	"result": {"item": "create:schematic_table"}
+}

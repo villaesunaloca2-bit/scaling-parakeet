@@ -1,0 +1,27 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "item": "createaddition:electrum_ingot"
+      },
+      {
+        "item": "irons_spellbooks:arcane_essence"
+      },
+      {
+        "item": "irons_spellbooks:arcane_essence"
+      },
+      {
+        "item": "irons_spellbooks:arcane_essence"
+      },
+      {
+        "item": "irons_spellbooks:arcane_essence"
+      }
+    ],
+    "results": [
+      {
+        "item": "irons_spellbooks:arcane_ingot",
+        "count": 1
+      }
+    ]
+  }

@@ -1,0 +1,22 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "minecraft"
+      }
+    ],
+    "type": "natprog:damage_tools",
+    "ingredients": [
+      {
+        "item": "biomemakeover:stripped_blighted_balsa_log"
+      },
+      {
+        "tag": "natprog:saw"
+      }
+    ],
+    "result": {
+      "item": "biomemakeover:blighted_balsa_planks",
+      "count": 2
+    },
+    "group": "planks"
+  }

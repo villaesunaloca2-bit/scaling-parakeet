@@ -1,0 +1,1101 @@
+{
+  "profession": "minecraft:farmer",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:hay_block",
+        "amount": 8
+      },
+      "additionalMultiRequest": [
+        {
+          "itemKey": "supplementaries:flax_block",
+          "amount": 8
+        },
+        {
+          "itemKey": "farmersdelight:tomato_crate",
+          "amount": 20
+        },
+        {
+          "itemKey": "farmersdelight:carrot_crate",
+          "amount": 20
+        },
+        {
+          "itemKey": "farmersdelight:potato_crate",
+          "amount": 20
+        },
+        {
+          "itemKey": "farmersdelight:beetroot_crate",
+          "amount": 8
+        },
+        {
+          "itemKey": "immersiveengineering:hemp_fiber",
+          "amount": 48
+        },
+        {
+          "itemKey": "quark:sugar_cane_block",
+          "amount": 8
+        }
+      ],
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:farmer_emerald_for_hay_block_and_additionalmultirequest_flax_block"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "farmersdelight:rice_bale",
+        "amount": 8
+      },
+      "additionalMultiRequest": [
+        {
+          "itemKey": "farmersdelight:beetroot_crate",
+          "amount": 8
+        },
+        {
+          "itemKey": "immersiveengineering:hemp_fiber",
+          "amount": 48
+        },
+        {
+          "itemKey": "farmersdelight:onion_crate",
+          "amount": 20
+        }
+      ],
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:farmer_emerald_for_rice_bale_and_additionalmultirequest_beetroot_crate"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "farmersdelight:carrot_crate",
+        "amount": 20
+      },
+      "additionalMultiRequest": [
+        {
+          "itemKey": "farmersdelight:beetroot_crate",
+          "amount": 8
+        },
+        {
+          "itemKey": "minecraft:hay_block",
+          "amount": 8
+        },
+        {
+          "itemKey": "farmersdelight:potato_crate",
+          "amount": 20
+        },
+        {
+          "itemKey": "supplementaries:flax_block",
+          "amount": 8
+        },
+        {
+          "itemKey": "immersiveengineering:hemp_fiber",
+          "amount": 48
+        },
+        {
+          "itemKey": "quark:sugar_cane_block",
+          "amount": 8
+        }
+      ],
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:farmer_emerald_for_carrot_crate_and_additionalmultirequest_beetroot_crate"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "farmersdelight:potato_crate",
+        "amount": 20
+      },
+      "additionalMultiRequest": [
+        {
+          "itemKey": "farmersdelight:beetroot_crate",
+          "amount": 8
+        },
+        {
+          "itemKey": "minecraft:hay_block",
+          "amount": 8
+        },
+        {
+          "itemKey": "farmersdelight:potato_crate",
+          "amount": 20
+        },
+        {
+          "itemKey": "supplementaries:flax_block",
+          "amount": 8
+        },
+        {
+          "itemKey": "immersiveengineering:hemp_fiber",
+          "amount": 48
+        },
+        {
+          "itemKey": "quark:sugar_cane_block",
+          "amount": 8
+        }
+      ],
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:farmer_emerald_for_potato_crate_and_additionalmultirequest_beetroot_crate"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "farmersdelight:cabbage_crate",
+        "amount": 40
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:farmer_emerald_for_cabbage_crate"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "farmersdelight:tomato_crate",
+        "amount": 20
+      },
+      "additionalMultiRequest": [
+        {
+          "itemKey": "farmersdelight:beetroot_crate",
+          "amount": 8
+        },
+        {
+          "itemKey": "supplementaries:flax_block",
+          "amount": 8
+        },
+        {
+          "itemKey": "immersiveengineering:hemp_fiber",
+          "amount": 48
+        },
+        {
+          "itemKey": "quark:sugar_cane_block",
+          "amount": 8
+        }
+      ],
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:farmer_emerald_for_tomato_crate_and_additionalmultirequest_beetroot_crate"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "farmersdelight:onion_crate",
+        "amount": 20
+      },
+      "additionalMultiRequest": [
+        {
+          "itemKey": "farmersdelight:beetroot_crate",
+          "amount": 8
+        },
+        {
+          "itemKey": "immersiveengineering:hemp_fiber",
+          "amount": 48
+        },
+        {
+          "itemKey": "farmersdelight:rice_bale",
+          "amount": 8
+        }
+      ],
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:farmer_emerald_for_onion_crate_and_additionalmultirequest_beetroot_crate"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "farmersdelight:beetroot_crate",
+        "amount": 8
+      },
+      "additionalMultiRequest": [
+        {
+          "itemKey": "supplementaries:flax_block",
+          "amount": 8
+        },
+        {
+          "itemKey": "minecraft:hay_block",
+          "amount": 8
+        },
+        {
+          "itemKey": "farmersdelight:rice_bale",
+          "amount": 8
+        },
+        {
+          "itemKey": "farmersdelight:tomato_crate",
+          "amount": 20
+        },
+        {
+          "itemKey": "farmersdelight:carrot_crate",
+          "amount": 20
+        },
+        {
+          "itemKey": "farmersdelight:potato_crate",
+          "amount": 20
+        },
+        {
+          "itemKey": "farmersdelight:onion_crate",
+          "amount": 20
+        },
+        {
+          "itemKey": "immersiveengineering:hemp_fiber",
+          "amount": 48
+        },
+        {
+          "itemKey": "quark:sugar_cane_block",
+          "amount": 8
+        }
+      ],
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:farmer_emerald_for_beetroot_crate_and_additionalmultirequest_flax_block"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "immersiveengineering:hemp_fiber",
+        "amount": 48
+      },
+      "additionalMultiRequest": [
+        {
+          "itemKey": "supplementaries:flax_block",
+          "amount": 8
+        },
+        {
+          "itemKey": "minecraft:hay_block",
+          "amount": 8
+        },
+        {
+          "itemKey": "farmersdelight:rice_bale",
+          "amount": 8
+        },
+        {
+          "itemKey": "farmersdelight:tomato_crate",
+          "amount": 20
+        },
+        {
+          "itemKey": "farmersdelight:carrot_crate",
+          "amount": 20
+        },
+        {
+          "itemKey": "farmersdelight:potato_crate",
+          "amount": 20
+        },
+        {
+          "itemKey": "farmersdelight:onion_crate",
+          "amount": 20
+        },
+        {
+          "itemKey": "farmersdelight:beetroot_crate",
+          "amount": 8
+        },
+        {
+          "itemKey": "quark:sugar_cane_block",
+          "amount": 8
+        }
+      ],
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:farmer_emerald_for_beetroot_crate_and_additionalmultirequest_flax_block"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "supplementaries:flax_block",
+        "amount": 8
+      },
+      "additionalMultiRequest": [
+        {
+          "itemKey": "farmersdelight:beetroot_crate",
+          "amount": 8
+        },
+        {
+          "itemKey": "minecraft:hay_block",
+          "amount": 8
+        },
+        {
+          "itemKey": "farmersdelight:tomato_crate",
+          "amount": 20
+        },
+        {
+          "itemKey": "farmersdelight:carrot_crate",
+          "amount": 20
+        },
+        {
+          "itemKey": "farmersdelight:potato_crate",
+          "amount": 20
+        },
+        {
+          "itemKey": "immersiveengineering:hemp_fiber",
+          "amount": 48
+        },
+        {
+          "itemKey": "quark:sugar_cane_block",
+          "amount": 8
+        }
+      ],
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:farmer_emerald_for_flax_block_and_additionalmultirequest_beetroot_crate"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "quark:sugar_cane_block",
+        "amount": 8
+      },
+      "additionalMultiRequest": [
+        {
+          "itemKey": "farmersdelight:beetroot_crate",
+          "amount": 8
+        },
+        {
+          "itemKey": "minecraft:hay_block",
+          "amount": 8
+        },
+        {
+          "itemKey": "farmersdelight:tomato_crate",
+          "amount": 20
+        },
+        {
+          "itemKey": "farmersdelight:carrot_crate",
+          "amount": 20
+        },
+        {
+          "itemKey": "farmersdelight:potato_crate",
+          "amount": 20
+        },
+        {
+          "itemKey": "immersiveengineering:hemp_fiber",
+          "amount": 48
+        },
+        {
+          "itemKey": "supplementaries:flax_block",
+          "amount": 8
+        }
+      ],
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:farmer_emerald_for_sugar_cane_block_and_additionalmultirequest_beetroot_crate"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:apple",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:farmer_apple_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "farmersdelight:straw",
+        "amount": 64
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:farmer_straw_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "alexsmobs:banana",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:farmer_banana_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "alexsmobs:acacia_blossom",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:farmer_acacia_blossom_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "born_in_chaos_v1:river_mint",
+        "amount": 16
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:farmer_river_mint_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "create:tree_fertilizer",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:farmer_tree_fertilizer_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "biomemakeover:rootling_seeds",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:farmer_rootling_seeds_for_emerald"
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "farmersrespite:green_tea",
+          "amount": 2
+        },
+        {
+          "itemKey": "farmersrespite:yellow_tea",
+          "amount": 2
+        },
+        {
+          "itemKey": "farmersrespite:gamblers_tea",
+          "amount": 2
+        },
+        {
+          "itemKey": "farmersrespite:black_tea",
+          "amount": 2
+        },
+        {
+          "itemKey": "farmersrespite:rose_hip_tea",
+          "amount": 2
+        },
+        {
+          "itemKey": "farmersrespite:dandelion_tea",
+          "amount": 2
+        },
+        {
+          "itemKey": "farmersrespite:purulent_tea",
+          "amount": 2
+        },
+        {
+          "itemKey": "farmersrespite:coffee",
+          "amount": 1
+        },
+        {
+          "itemKey": "farmersdelight:melon_juice",
+          "amount": 6
+        },
+        {
+          "itemKey": "farmersdelight:apple_cider",
+          "amount": 6
+        },
+        {
+          "itemKey": "farmersdelight:hot_cocoa",
+          "amount": 6
+        },
+        {
+          "itemKey": "create:builders_tea",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:farmer_multioffer_green_tea_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:poisonous_potato",
+        "amount": 4
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:farmer_emerald_for_poisonous_potato"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "farmersdelight:rotten_tomato",
+        "amount": 4
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:farmer_emerald_for_rotten_tomato"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:fermented_spider_eye",
+        "amount": 6
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:farmer_emerald_for_fermented_spider_eye"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:bone",
+        "amount": 10
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:farmer_emerald_for_bone_meal"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "twilightforest:liveroot",
+        "amount": 4
+      },
+      "tradeExp": 4,
+      "maxUses": 6,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:farmer_emerald_for_liveroot"
+    },
+    {
+      "offer": {
+        "itemKey": "thermal:ruby",
+        "amount": 3
+      },
+      "request": {
+        "itemKey": "born_in_chaos_v1:bagof_candy",
+        "amount": 1
+      },
+      "tradeExp": 16,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:farmer_ruby_for_bagof_candy"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "twilightforest:experiment_115",
+        "amount": 4
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:farmer_emerald_for_experiment_115"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "multiRequest": [
+        {
+          "itemKey": "farmersrespite:green_tea_leaves_sack",
+          "amount": 6
+        },
+        {
+          "itemKey": "farmersrespite:yellow_tea_leaves_sack",
+          "amount": 6
+        },
+        {
+          "itemKey": "farmersrespite:black_tea_leaves_sack",
+          "amount": 6
+        }
+      ],
+      "additionalMultiRequest": [
+        {
+          "itemKey": "farmersrespite:green_tea_leaves_sack",
+          "amount": 6
+        },
+        {
+          "itemKey": "farmersrespite:yellow_tea_leaves_sack",
+          "amount": 6
+        },
+        {
+          "itemKey": "farmersrespite:black_tea_leaves_sack",
+          "amount": 6
+        }
+      ],
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:farmer_emerald_for_multirequest_green_tea_leaves_sack_and_additionalmultirequest_green_tea_leaves_sack"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "quark:cocoa_beans_sack",
+        "amount": 24
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:farmer_emerald_for_cocoa_beans_sack"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:chorus_fruit",
+        "amount": 64
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:chorus_fruit",
+        "amount": 64
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:farmer_emerald_for_chorus_fruit_and_chorus_fruit"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "cold_sweat:soul_sprout",
+        "amount": 64
+      },
+      "additionalRequest": {
+        "itemKey": "cold_sweat:soul_sprout",
+        "amount": 32
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:farmer_emerald_for_soul_sprout_and_soul_sprout"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "farmersrespite:coffee_beans_sack",
+        "amount": 16
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:farmer_emerald_for_coffee_beans_sack"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:melon",
+        "amount": 64
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:melon",
+        "amount": 32
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:farmer_emerald_for_melon_and_melon"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:pumpkin",
+        "amount": 64
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:pumpkin",
+        "amount": 32
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:farmer_emerald_for_pumpkin_and_pumpkin"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "thermal:compost",
+        "amount": 48
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:farmer_emerald_for_compost"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "farmersdelight:red_mushroom_colony",
+        "amount": 8
+      },
+      "additionalRequest": {
+        "itemKey": "farmersdelight:brown_mushroom_colony",
+        "amount": 8
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:farmer_emerald_for_red_mushroom_colony_and_brown_mushroom_colony"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:honey_block",
+        "amount": 32
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:honeycomb_block",
+        "amount": 32
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:farmer_emerald_for_honey_block_and_honeycomb_block"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "thermal:niter",
+        "amount": 32
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:farmer_emerald_for_niter"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "quark:glowberry_sack",
+        "amount": 64
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:farmer_emerald_for_glowberry_sack"
+    },
+    {
+      "offer": {
+        "itemKey": "born_in_chaos_v1:pumpkin_bullet",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:farmer_pumpkin_bullet_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "thermal:phytogro",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:farmer_phytogro_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "immersiveengineering:fertilizer",
+        "amount": 12
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:farmer_fertilizer_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "twilightforest:transformation_powder",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:farmer_transformation_powder_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "twilightforest:steeleaf_ingot",
+        "amount": 2
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:farmer_emerald_for_steeleaf_ingot"
+    },
+    {
+      "offer": {
+        "itemKey": "born_in_chaos_v1:pumpkinstaffa",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 18
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:farmer_pumpkinstaffa_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "twilightforest:magic_beans",
+        "amount": 4
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:farmer_emerald_for_magic_beans"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "born_in_chaos_v1:smoldering_infernal_ember",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:farmer_emerald_for_smoldering_infernal_ember"
+    }
+  ]
+}

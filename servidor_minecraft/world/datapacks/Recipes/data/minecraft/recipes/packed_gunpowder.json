@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" E ",
+		"II ",
+		"AA "
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"item": "minecraft:gunpowder"},
+        "A": {"item": "minecraft:coal"},
+        "E": {"tag": "forge:ingots/brick"}
+	},
+	
+	"result": {"item": "createbigcannons:packed_gunpowder"}
+}

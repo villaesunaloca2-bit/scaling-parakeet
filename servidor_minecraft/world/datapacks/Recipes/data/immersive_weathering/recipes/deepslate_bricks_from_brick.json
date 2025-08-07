@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LLO",
+        "LL "
+    ],
+    "key": {
+        "O": {
+            "item": "supplementaries:daub"
+        },
+        "L": {
+            "item": "immersive_weathering:deepslate_brick"
+        }
+    },
+    "result": {
+        "item": "minecraft:deepslate_bricks",
+        "count": 1
+    }
+}

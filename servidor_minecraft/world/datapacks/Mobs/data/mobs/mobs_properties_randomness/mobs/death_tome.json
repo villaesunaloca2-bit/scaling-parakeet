@@ -1,0 +1,19 @@
+{
+    "target": "twilightforest:death_tome",
+    "events": {
+        "on_attack": [
+            {
+                "target": "other",
+                "potion_effects": [
+                    {
+                        "id": "minecraft:weakness",
+                        "amplifier": 0,
+                        "duration": 10
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+

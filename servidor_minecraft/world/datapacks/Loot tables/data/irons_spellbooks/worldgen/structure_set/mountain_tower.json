@@ -1,0 +1,21 @@
+{
+  "structures": [
+    {
+      "structure": "irons_spellbooks:mountain_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+
+    "salt": 194767080,
+
+
+    "spacing": 55,
+
+
+    "separation": 40,
+
+
+    "type": "minecraft:random_spread"
+  }
+}

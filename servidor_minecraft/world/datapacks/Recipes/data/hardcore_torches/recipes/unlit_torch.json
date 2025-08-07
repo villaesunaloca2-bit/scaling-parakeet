@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LO ",
+        "S  "
+    ],
+    "key": {
+        "O": {
+            "item": "farmersdelight:canvas"
+        },
+        "L": {
+            "tag": "minecraft:coals"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "hardcore_torches:unlit_torch",
+        "count": 2
+    }
+}

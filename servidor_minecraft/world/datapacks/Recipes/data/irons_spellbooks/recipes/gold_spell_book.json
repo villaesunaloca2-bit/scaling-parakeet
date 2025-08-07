@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SGG",
+        "S/A",
+        "SGG"
+    ],
+    "key": {
+        "S": {
+            "item": "create:brass_ingot"
+        },
+        "G": {
+            "item": "irons_spellbooks:magic_cloth"
+        },
+        "/": {
+            "item": "irons_spellbooks:iron_spell_book"
+        },
+        "A":
+        {
+            "item": "thermal:electrum_gear"
+        }
+    },
+    "result": {
+        "item": "irons_spellbooks:gold_spell_book",
+        "count": 1
+    }
+}

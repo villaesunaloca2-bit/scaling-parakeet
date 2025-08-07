@@ -1,0 +1,8 @@
+{
+  "type": "charcoal_pit:pottery",
+  "ingredient": {
+    "item": "supplementaries:ash"
+  },
+  "result": "supplementaries:ash_brick",
+  "experience": 0.3
+}

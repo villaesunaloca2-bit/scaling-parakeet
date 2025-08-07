@@ -1,0 +1,66 @@
+{
+    "target": "enemyexpansion:goblin",
+    "events": {
+        "on_attack": [
+            {
+                "target": "other",
+                "potion_effects": [
+                    {
+                        "id": "aquamirae:health_decrease",
+                        "amplifier": 3,
+                        "duration": 180
+                    }
+                ]
+            },
+            {
+                "target": "other",
+                "chance": 0.5,
+                "potion_effects": [
+                    {
+                        "id": "aquamirae:health_decrease",
+                        "amplifier": 5,
+                        "duration": 15
+                    }
+                ]
+            },
+            {
+                "target": "this",
+                "potion_effects": [
+                    {
+                        "id": "minecraft:health_boost",
+                        "amplifier": 1,
+                        "duration": 180
+                    },
+                    {
+                        "id": "minecraft:regeneration",
+                        "amplifier": 5,
+                        "duration": 2
+                    }
+                ]
+            },
+            {
+                "target": "this",
+                "chance": 0.5,
+                "potion_effects": [
+                    {
+                        "id": "minecraft:health_boost",
+                        "amplifier": 2,
+                        "duration": 15
+                    }
+                ]
+            },
+            {
+                "target": "other",
+                "potion_effects": [
+                    {
+                        "id": "minecraft:blindness",
+                        "amplifier": 0,
+                        "duration": 3
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SeS",
+    "aca",
+    "SeS"
+  ],
+  "key": {
+    "a": {
+      "item": "twilightforest:red_thread"
+    },
+    "S": {
+      "item": "thermal:silver_plate"
+    },
+    "c": {
+      "item": "meetyourfight:fortunes_favor"
+    },
+    "e": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "meetyourfight:slicers_dice",
+    "count": 1
+  }
+}

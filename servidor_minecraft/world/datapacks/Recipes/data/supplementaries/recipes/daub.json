@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "supplementaries:flax"
+        },
+        {
+            "item": "supplementaries:flax"
+        },
+        {
+            "item": "minecraft:clay_ball"
+        },
+        {
+            "item": "minecraft:clay_ball"
+        },
+        {
+            "item": "minecraft:clay_ball"
+        },
+        {
+            "item": "minecraft:clay_ball"
+        },
+        {
+            "item": "supplementaries:ash"
+        },
+        {
+            "item": "farmersdelight:canvas"
+        }
+    ],
+    "result": {
+      "item":"supplementaries:daub"
+    }
+  }

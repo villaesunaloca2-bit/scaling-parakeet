@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LLL",
+        "LLL",
+        "LLL"
+    ],
+    "key": {
+        "L": {
+            "item": "thermal:nickel_nugget"
+        }
+    },
+    "result": {
+        "item": "destroy:nickel_ingot",
+        "count": 1
+    }
+}

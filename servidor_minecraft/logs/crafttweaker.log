@@ -1,0 +1,16 @@
+[23:28:00.376][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
+[23:28:00.402][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[23:28:00.481][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[23:28:00.484][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[23:28:00.493][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[23:28:01.398][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[23:28:01.398][INFO][CraftTweaker]: - 'angrymobs' at version '4.1.0'
+[23:28:01.399][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.57'
+[23:28:01.399][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.8'
+[23:28:01.399][INFO][CraftTweaker]: - 'gamestages' at version '15.0.2'
+[23:28:01.399][INFO][CraftTweaker]: - 'immersiveengineering' at version '1.20.1-10.2.0-183'
+[23:28:01.399][INFO][CraftTweaker]: - 'sdmmobstages' at version '1.20.1-1.0.1'
+[23:28:20.611][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[23:28:21.444][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[23:28:21.477][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[23:28:21.552][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully

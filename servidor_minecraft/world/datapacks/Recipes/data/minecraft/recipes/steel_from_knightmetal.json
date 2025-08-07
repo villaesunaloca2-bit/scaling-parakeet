@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "twilightforest:knightmetal_ingot"
+        },
+        {
+            "item": "twilightforest:transformation_powder"
+        }
+    ],
+    "result":
+    {
+        "item": "createindustry:steel_ingot",
+        "count": 1
+    }
+}

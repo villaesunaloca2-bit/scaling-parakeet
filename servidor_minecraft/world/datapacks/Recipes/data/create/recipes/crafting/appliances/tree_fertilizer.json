@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "thermal:compost"
+        },
+        {
+            "item": "quark:moss_paste"
+        },
+        {
+            "item": "thermal:niter_dust"
+        },
+        {
+            "tag": "forge:dusts/sulfur"
+        }
+    ],
+    "result":
+    {
+        "item": "create:tree_fertilizer",
+        "count": 3
+    }
+}

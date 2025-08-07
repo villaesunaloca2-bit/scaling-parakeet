@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+        "I I",
+        "IAI"
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"item": "twilightforest:arctic_fur"},
+		"A": {
+            "item": "cold_sweat:goat_fur_boots"
+        }
+	},
+	
+	"result": {"item": "twilightforest:arctic_boots"}
+}

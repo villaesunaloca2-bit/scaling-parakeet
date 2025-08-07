@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"AA",
+		"SS"
+	],
+	
+	
+	
+	"key":
+	{
+        "S": {"item": "minecraft:clay"},
+        "A": {"item": "minecraft:clay_ball"}
+	},
+	
+	"result": {"item": "charcoal_pit:clay_pot"}
+}

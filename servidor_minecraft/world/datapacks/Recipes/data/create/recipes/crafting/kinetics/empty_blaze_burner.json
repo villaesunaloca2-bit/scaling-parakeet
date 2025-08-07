@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[   
+        "C C",
+		"IEI",
+		"CBC"
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"item": "create:brass_sheet"},
+        "E": {"item": "create:blaze_cake_base"},
+        "B": {"item": "thermal:iron_plate"},
+        "C": {"item": "createaddition:iron_rod"}
+	},
+	
+	"result": {"item": "create:empty_blaze_burner"}
+}

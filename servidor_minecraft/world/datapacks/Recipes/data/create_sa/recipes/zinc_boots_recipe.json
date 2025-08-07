@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OAO",
+        "O O"
+    ],
+    "key": {
+        "O": {
+            "item": "minecraft:copper_ingot"
+        },
+        "A": {
+            "item": "minecraft:leather_boots"
+        }
+    },
+    "result": {
+        "item": "create_sa:copper_boots",
+        "count": 1
+    }
+}

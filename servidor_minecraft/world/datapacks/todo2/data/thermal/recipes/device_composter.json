@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#c#",
+        "ABA",
+        "#I#"
+    ],
+    "key": {
+        "#": {
+            "item": "create:andesite_casing"
+        },
+        "c": {
+            "item": "thermal:iron_gear"
+        },
+        "A": {
+            "tag": "forge:glass"
+        },
+        "B": {
+            "item": "minecraft:composter"
+        },
+        "I": {
+            "item": "thermal:redstone_servo"
+        }
+    },
+    "result": {"item": "thermal:device_composter"}
+}

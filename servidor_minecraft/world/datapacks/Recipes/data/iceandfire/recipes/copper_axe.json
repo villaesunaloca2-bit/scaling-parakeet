@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": {
+        "item": "create_sa:copper_axe"
+    },
+    "addition": {
+        "item": "alloyed:bronze_sheet"
+    },
+    "result": {
+        "item": "iceandfire:copper_axe"
+    },
+      "template": {
+    "item": "supplementaries:rope"
+  }
+}

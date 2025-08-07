@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "twilightforest:transformation_powder"
+        },
+        {
+            "item": "twilightforest:naga_scale"
+        },
+        {
+            "item": "twilightforest:naga_scale"
+        },
+        {
+            "item": "twilightforest:naga_scale"
+        },
+        {
+            "item": "twilightforest:naga_scale"
+        }
+    ],
+    "result":
+    {
+        "item": "twilightforest:steeleaf_ingot",
+        "count": 4
+    }
+}

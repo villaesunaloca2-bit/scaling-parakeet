@@ -1,0 +1,58 @@
+{
+    "target": "born_in_chaos_v1:fallen_chaos_knight",
+    "attributes": [
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "Fallen Chaos Knight health",
+            "amount": 40,
+            "operation": "addition"
+        },
+        {
+            "id": "minecraft:generic.attack_damage",
+            "modifier_name": "Fallen Chaos Knight damage",
+            "amount": 3,
+            "operation": "addition"
+        }
+    ],
+    "events": {
+        "on_attack": [
+            {
+                "target": "other",
+                "potion_effects": [
+                    {
+                        "id": "born_in_chaos_v1:cursed_mark",
+                        "amplifier": 0,
+                        "duration": 10
+                    }
+                ]
+            }
+        ],
+        "on_damaged": [
+            {
+                "target": "this",
+                "chance": 0.85,
+                "potion_effects": [
+                    {
+                        "id": "minecraft:strength",
+                        "amplifier": 0,
+                        "duration": 5
+                    },
+                    {
+                        "id": "minecraft:speed",
+                        "amplifier": 1,
+                        "duration": 5
+                    }
+                ]
+            }
+        ]
+    },
+    "potion_effects": [
+        {
+            "id": "alexsmobs:soulsteal",
+            "amplifier": 1,
+            "hide_particles": true
+        }
+    ]
+}
+
+

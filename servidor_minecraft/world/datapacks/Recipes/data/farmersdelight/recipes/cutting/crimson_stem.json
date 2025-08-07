@@ -1,0 +1,21 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "tag": "minecraft:crimson_stems"
+      }
+    ],
+    "tool": {
+      "type": "farmersdelight:tool_action",
+      "action": "axe_strip"
+    },
+    "result": [
+      {
+        "item": "minecraft:crimson_planks"
+      },
+      {
+        "item": "minecraft:crimson_planks"
+      }
+    ],
+    "sound": "minecraft:item.axe.strip"
+  }

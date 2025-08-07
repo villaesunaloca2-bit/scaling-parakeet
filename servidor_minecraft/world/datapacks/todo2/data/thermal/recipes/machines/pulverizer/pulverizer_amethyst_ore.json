@@ -1,0 +1,17 @@
+{
+    "type": "thermal:pulverizer",
+    "ingredient": {
+      "tag": "forge:amethyst_ore"
+    },
+    "result": [
+      {
+        "item": "oresabovediamonds:amethyst",
+        "chance": 1
+      },
+      {
+        "item": "minecraft:gravel",
+        "chance": 0.2
+      }
+    ],
+    "experience": 1.5
+  }

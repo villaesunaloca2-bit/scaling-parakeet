@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R#",
+        "UGU",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "thermal:silver_plate"
+        },
+        "R": {
+            "item": "thermal:invar_gear"
+        },
+        "U": {
+            "item": "thermal:lumium_plate"
+        },
+        "G": {
+            "item": "thermal:rf_coil"
+        }
+    },
+    "result": {
+        "item": "thermal:machine_speed_augment",
+        "count": 1
+    }
+}

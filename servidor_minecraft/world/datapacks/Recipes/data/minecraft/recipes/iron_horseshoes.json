@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " ##",
+        "# /",
+        "#/H"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_nugget"
+        },
+        "/": {
+            "item": "minecraft:iron_ingot"
+        },
+        "H": {
+            "item": "thermal:iron_plate"
+        }
+    },
+    "result": {
+        "item": "horseshoes:iron_horseshoes",
+        "count": 1
+    }
+}

@@ -1,0 +1,11 @@
+
+[general]
+	#Chance for a crop growth event to succeed, default 1 (100%)
+	#Range: 0.0 ~ 1.0
+	crop_growth_chance = 0.07333
+	#Crops require sunlight to grow (default: true)
+	crops_require_sunlight = true
+	#Chance for a sapling to turn into a dead bush instead of growing default 0 (0%)
+	#Range: 0.0 ~ 1.0
+	sapling_death_chance = 0.5
+

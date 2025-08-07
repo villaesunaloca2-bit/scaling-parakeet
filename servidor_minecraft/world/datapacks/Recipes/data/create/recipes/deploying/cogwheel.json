@@ -1,0 +1,16 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "create:shaft"
+      },
+      {
+        "tag": "forge:treated_wood"
+      }
+    ],
+    "results": [
+      {
+        "item": "create:cogwheel"
+      }
+    ]
+  }

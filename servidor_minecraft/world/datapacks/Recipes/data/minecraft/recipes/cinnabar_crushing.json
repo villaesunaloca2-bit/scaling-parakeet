@@ -1,0 +1,28 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "thermal:cinnabar"
+      }
+    ],
+    "processingTime": 250,
+    "results": [
+        {
+            "item": "thermal:cinnabar_dust",
+            "chance": 1
+        },
+        {
+            "item": "minecraft:redstone",
+            "chance": 1
+        },
+        {
+            "item": "create:experience_nugget",
+            "count": 2,
+            "chance": 0.5
+        },
+        {   "item": "minecraft:redstone",
+            "count": 2,
+            "chance": 0.5
+        }
+    ]
+}

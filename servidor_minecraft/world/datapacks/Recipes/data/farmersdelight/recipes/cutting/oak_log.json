@@ -1,0 +1,21 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "tag": "minecraft:oak_logs"
+      }
+    ],
+    "tool": {
+      "type": "farmersdelight:tool_action",
+      "action": "axe_strip"
+    },
+    "result": [
+      {
+        "item": "minecraft:oak_planks"
+      },
+      {
+        "item": "minecraft:oak_planks"
+      }
+    ],
+    "sound": "minecraft:item.axe.strip"
+  }

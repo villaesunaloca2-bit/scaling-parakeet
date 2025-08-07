@@ -1,0 +1,27 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "thermal:hazmat_fabric"
+      },
+      {
+        "item": "irons_spellbooks:arcane_essence"
+      },
+      {
+        "item": "irons_spellbooks:arcane_essence"
+      },
+      {
+        "item": "irons_spellbooks:arcane_essence"
+      },
+      {
+        "item": "irons_spellbooks:arcane_essence"
+      }
+    ],
+    "results": [
+      {
+        "item": "irons_spellbooks:magic_cloth",
+        "count": 1
+      }
+    ]
+}

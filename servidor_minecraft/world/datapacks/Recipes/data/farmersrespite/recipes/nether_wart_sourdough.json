@@ -1,0 +1,49 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "tag": "forge:eggs"
+      },
+      {
+        "tag": "forge:eggs"
+      },
+      {
+        "tag": "forge:eggs"
+      },
+      {
+        "item": "minecraft:nether_wart"
+      },
+      {
+        "item": "minecraft:nether_wart"
+      },
+      {
+        "item": "minecraft:nether_wart"
+      },
+      {
+        "item": "create:cinder_flour"
+      },
+      {
+        "item": "minecraft:brown_mushroom"
+      },
+      {
+        "item": "minecraft:red_mushroom"
+      },
+      {
+        "item": "create:wheat_flour"
+      },
+      {
+        "item": "create:wheat_flour"
+      },
+      {
+        "item": "create:wheat_flour"
+      },
+      {
+        "item": "create:wheat_flour"
+      }
+    ],
+    "results": [
+      {
+        "item": "farmersrespite:nether_wart_sourdough"
+      }
+    ]
+  }

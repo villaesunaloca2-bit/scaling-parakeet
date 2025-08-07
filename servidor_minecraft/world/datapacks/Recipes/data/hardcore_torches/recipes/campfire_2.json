@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"SA",
+		"LC"
+	],
+	
+	
+	
+	"key":
+	{
+		"L": {"tag": "minecraft:logs"},
+        "S": {"item": "minecraft:stick"},
+        "A": {"item": "farmersdelight:canvas"},
+        "C": {"item": "hardcore_torches:animal_fat"}
+	},
+	
+	"result": {"item": "hardcore_torches:unlit_campfire"}
+}

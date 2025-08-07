@@ -1,0 +1,75 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "thermal:lead_ingot"
+    },
+    "loops": 3,
+    "results": [
+      {
+        "chance": 0.25,
+        "item": "thermal:lead_plate"
+      },
+      {
+        "chance": 0.75,
+        "item": "thermal:lead_nugget",
+        "count": 1
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "thermal:lead_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:lead_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "thermal:lead_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:lead_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "thermal:lead_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:lead_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "thermal:lead_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:lead_ingot"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "thermal:lead_ingot"    
+    }
+}

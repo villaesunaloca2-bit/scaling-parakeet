@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "///",
+        "/i/",
+        "PCP"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "i": {
+            "item": "alloyed:bronze_ingot"
+        },
+        "C": {
+            "item": "minecraft:chest"
+        },
+        "P":
+        {
+            "item": "minecraft:crimson_planks"
+        }
+    },
+    "result": {
+        "item": "storagedrawers:crimson_trim",
+        "count": 1
+    }
+}

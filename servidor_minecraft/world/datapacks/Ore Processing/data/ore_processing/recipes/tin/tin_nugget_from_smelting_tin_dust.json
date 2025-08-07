@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "thermal:tin_dust"
+    },
+    "result": { 
+        "item":"thermal:tin_nugget",
+        "count": 3 
+    },
+    "experience": 0.5,
+    "cookingtime": 200
+}

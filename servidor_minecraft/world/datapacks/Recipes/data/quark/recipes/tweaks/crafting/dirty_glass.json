@@ -1,0 +1,37 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "minecraft"
+      }
+    ],
+    "type": "natprog:damage_tools",
+    "ingredients": [
+      {
+        "item": "quark:dirty_glass_pane"
+      },
+      {
+        "item": "quark:dirty_glass_pane"
+      },
+      {
+        "item": "quark:dirty_glass_pane"
+      },
+      {
+        "item": "quark:dirty_glass_pane"
+      },
+      {
+        "item": "quark:dirty_glass_pane"
+      },
+      {
+        "item": "quark:dirty_glass_pane"
+      },
+      {
+        "item": "create:super_glue"
+      }
+    ],
+    "result": {
+      "item": "quark:dirty_glass",
+      "count": 1
+    },
+    "group": "planks"
+  }

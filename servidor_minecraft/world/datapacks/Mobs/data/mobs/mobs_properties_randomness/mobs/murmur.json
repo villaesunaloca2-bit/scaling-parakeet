@@ -1,0 +1,18 @@
+{
+    "target": "alexsmobs:murmur",
+    "attributes": [
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "Murmur health",
+            "amount": 15,
+            "operation": "addition"
+        },
+        {
+            "id": "minecraft:generic.attack_damage",
+            "modifier_name": "Murmur attack damage",
+            "amount": 1.5,
+            "operation": "addition"
+        }
+    ]
+}
+

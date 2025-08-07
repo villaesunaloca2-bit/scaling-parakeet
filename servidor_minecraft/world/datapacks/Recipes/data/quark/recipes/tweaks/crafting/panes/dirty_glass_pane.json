@@ -1,0 +1,31 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "minecraft"
+      }
+    ],
+    "type": "natprog:damage_tools",
+    "ingredients": [
+      {
+        "item": "quark:dirty_shard"
+      },
+      {
+        "item": "quark:dirty_shard"
+      },
+      {
+        "item": "quark:dirty_shard"
+      },
+      {
+        "item": "quark:dirty_shard"
+      },
+      {
+        "item": "create:super_glue"
+      }
+    ],
+    "result": {
+      "item": "quark:dirty_glass_pane",
+      "count": 1
+    },
+    "group": "planks"
+  }

@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "minecraft:deep_dark"
+  ],
+  "features": [
+    "extraores:silver_ore_extra",
+    "extraores:silver_rich_ore"
+  ],
+  "step": "underground_ores"
+}

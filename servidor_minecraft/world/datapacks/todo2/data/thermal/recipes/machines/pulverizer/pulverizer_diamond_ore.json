@@ -1,0 +1,17 @@
+{
+    "type": "thermal:pulverizer",
+    "ingredient": {
+      "tag": "forge:ores/diamond"
+    },
+    "result": [
+      {
+        "item": "thermal:diamond_dust",
+        "chance": 1.5
+      },
+      {
+        "item": "minecraft:gravel",
+        "chance": 0.2
+      }
+    ],
+    "experience": 0.5
+  }

@@ -1,0 +1,33 @@
+{
+    "target": "enemyexpansion:meature",
+    "attributes": [
+        {
+            "id": "minecraft:generic.attack_damage",
+            "modifier_name": "Meature attack damage",
+            "amount": 2.5,
+            "operation": "addition"
+        },
+        {
+            "id": "minecraft:generic.armor",
+            "modifier_name": "Meature armor",
+            "amount": 2,
+            "operation": "addition"
+        }
+    ],
+    "events": {
+        "on_attack": [
+            {
+                "target": "other",
+                "potion_effects": [
+                    {
+                        "id": "cofh_core:sundered",
+                        "amplifier": 0,
+                        "duration": 15
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+

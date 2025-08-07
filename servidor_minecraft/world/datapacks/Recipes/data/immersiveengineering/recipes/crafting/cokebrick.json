@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "immersive_weathering:deepslate_brick"
+        },
+        {
+            "item": "immersive_weathering:deepslate_brick"
+        },
+        {
+            "item": "immersive_weathering:deepslate_brick"
+        },
+        {
+            "item": "immersive_weathering:deepslate_brick"
+        },
+        {
+            "item": "immersive_weathering:deepslate_brick"
+        },
+        {
+            "item": "immersive_weathering:deepslate_brick"
+        },
+        {
+            "item": "immersive_weathering:deepslate_brick"
+        },
+        {
+            "item": "immersive_weathering:deepslate_brick"
+        },
+        {
+            "item": "supplementaries:daub"
+        }
+    ],
+    "result":
+    {
+        "item": "immersiveengineering:cokebrick",
+        "count": 1
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+        {
+            "item": "minecraft:clay_ball"
+        },
+        {
+            "item": "minecraft:clay_ball"
+        },
+        {
+            "item": "minecraft:clay_ball"
+        },
+        {
+            "item": "minecraft:clay_ball"
+        },
+        {
+            "item": "minecraft:nether_brick"
+        },
+        {
+            "item": "charcoal_pit:sandy_brick_item"
+        }
+    ],
+    "results": [
+      {
+        "item": "immersivegeology:raw_fire_clay",
+        "count": 1
+      }
+    ]
+  }

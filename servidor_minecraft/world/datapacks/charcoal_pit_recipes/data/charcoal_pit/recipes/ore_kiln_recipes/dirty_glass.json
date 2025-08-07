@@ -1,0 +1,14 @@
+{
+  "type": "charcoal_pit:orekiln",
+  "ingredients": [
+    [
+        {
+          "item": "minecraft:sand"
+        }
+    ]
+  ],
+  "result": {
+    "item": "quark:dirty_shard",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SBS",
+        "SCS",
+        "D/D"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:gold_ingot"
+        },
+        "/": {
+            "item": "born_in_chaos_v1:orbofthe_summoner"
+        },
+        "D": {
+            "item": "born_in_chaos_v1:ethereal_spirit"
+        },
+        "C": {
+            "item": "minecraft:bell"
+        },
+        "B": {
+            "item": "thermal:silver_ingot"
+        }
+    },
+    "result": {
+        "item": "meetyourfight:haunted_bell",
+        "count": 1
+    }
+}

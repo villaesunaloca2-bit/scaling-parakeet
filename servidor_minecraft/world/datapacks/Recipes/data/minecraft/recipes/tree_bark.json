@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "born_in_chaos_v1:smoked_flesh"
+    },
+    "result": { 
+        "item":"farmersdelight:tree_bark",
+        "count": 3 
+    },
+    "experience": 0.5,
+    "cookingtime": 200
+}

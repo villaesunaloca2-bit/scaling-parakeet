@@ -1,0 +1,21 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "tag": "minecraft:spruce_logs"
+      }
+    ],
+    "tool": {
+      "type": "farmersdelight:tool_action",
+      "action": "axe_strip"
+    },
+    "result": [
+      {
+        "item": "minecraft:spruce_planks"
+      },
+      {
+        "item": "minecraft:spruce_planks"
+      }
+    ],
+    "sound": "minecraft:item.axe.strip"
+  }

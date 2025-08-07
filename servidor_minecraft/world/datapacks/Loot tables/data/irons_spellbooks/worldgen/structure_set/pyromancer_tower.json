@@ -1,0 +1,21 @@
+{
+  "structures": [
+    {
+      "structure": "irons_spellbooks:pyromancer_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+
+    "salt": 1512684,
+
+
+    "spacing": 120,
+
+
+    "separation": 60,
+
+
+    "type": "minecraft:random_spread"
+  }
+}

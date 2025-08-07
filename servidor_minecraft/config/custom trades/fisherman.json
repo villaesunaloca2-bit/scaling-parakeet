@@ -1,0 +1,685 @@
+{
+  "profession": "minecraft:fisherman",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:string",
+        "amount": 16
+      },
+      "tradeExp": 1,
+      "maxUses": 6,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:fisherman_emerald_for_string"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:salmon",
+        "amount": 32
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:fisherman_emerald_for_salmon"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:cod",
+        "amount": 32
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:fisherman_emerald_for_cod"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:tropical_fish",
+        "amount": 28
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:fisherman_emerald_for_tropical_fish"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "alexsmobs:flying_fish",
+        "amount": 28
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:fisherman_emerald_for_flying_fish"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "alexsmobs:raw_catfish",
+        "amount": 28
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:fisherman_emerald_for_raw_catfish"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "born_in_chaos_v1:rotten_fish",
+        "amount": 12
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:fisherman_emerald_for_rotten_fish"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "biomemakeover:glowfish",
+        "amount": 24
+      },
+      "tradeExp": 2,
+      "maxUses": 6,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:fisherman_emerald_for_glowfish"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "alexscaves:lanternfish",
+        "amount": 12
+      },
+      "tradeExp": 2,
+      "maxUses": 6,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:fisherman_emerald_for_lanternfish"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "alexscaves:tripodfish",
+        "amount": 12
+      },
+      "tradeExp": 2,
+      "maxUses": 6,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:fisherman_emerald_for_tripodfish"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "aquamirae:spinefish",
+        "amount": 12
+      },
+      "tradeExp": 2,
+      "maxUses": 6,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:fisherman_emerald_for_spinefish"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "alexsmobs:fish_bones",
+        "amount": 3
+      },
+      "tradeExp": 2,
+      "maxUses": 6,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:fisherman_emerald_for_fish_bones"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "alexsmobs:rainbow_jelly",
+        "amount": 4
+      },
+      "tradeExp": 2,
+      "maxUses": 6,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:fisherman_emerald_for_rainbow_jelly"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "alexsmobs:crocodile_scute",
+        "amount": 4
+      },
+      "tradeExp": 4,
+      "maxUses": 6,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:fisherman_emerald_for_crocodile_scute"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "alexsmobs:spiked_scute",
+        "amount": 6
+      },
+      "tradeExp": 4,
+      "maxUses": 6,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:fisherman_emerald_for_spiked_scute"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "alexsmobs:serrated_shark_tooth",
+        "amount": 6
+      },
+      "tradeExp": 4,
+      "maxUses": 6,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:fisherman_emerald_for_serrated_shark_tooth"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "quark:crab_shell",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 6,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:fisherman_emerald_for_crab_shell"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "quark:crab_leg",
+        "amount": 4
+      },
+      "tradeExp": 4,
+      "maxUses": 6,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:fisherman_emerald_for_crab_leg"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "biomemakeover:raw_crab",
+        "amount": 4
+      },
+      "tradeExp": 4,
+      "maxUses": 6,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:fisherman_emerald_for_raw_crab"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "alexsmobs:lobster_tail",
+        "amount": 4
+      },
+      "tradeExp": 4,
+      "maxUses": 6,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:fisherman_emerald_for_lobster_tail"
+    },
+    {
+      "offer": {
+        "itemKey": "farmersdelight:fish_stew",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:fisherman_fish_stew_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "alexsmobs:fish_oil",
+        "amount": 2
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:fisherman_fish_oil_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:fishing_rod",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 3
+          },
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "additionalRequest": {
+        "itemKey": "thermal:ruby",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:fisherman_fishing_rod_for_emerald_and_ruby"
+    },
+    {
+      "offer": {
+        "itemKey": "alexsmobs:shark_tooth",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:fisherman_shark_tooth_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3
+      },
+      "request": {
+        "itemKey": "alexsmobs:bone_serpent_tooth",
+        "amount": 1
+      },
+      "tradeExp": 8,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:fisherman_emerald_for_bone_serpent_tooth"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3
+      },
+      "request": {
+        "itemKey": "alexsmobs:cachalot_whale_tooth",
+        "amount": 1
+      },
+      "tradeExp": 8,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:fisherman_emerald_for_cachalot_whale_tooth"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 12
+      },
+      "request": {
+        "itemKey": "iceandfire:siren_tear",
+        "amount": 1
+      },
+      "tradeExp": 8,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:fisherman_emerald_for_siren_tear"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "aquamirae:fin",
+        "amount": 4
+      },
+      "tradeExp": 8,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:fisherman_emerald_for_fin"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3
+      },
+      "request": {
+        "itemKey": "aquamirae:anglers_fang",
+        "amount": 1
+      },
+      "tradeExp": 8,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:fisherman_emerald_for_anglers_fang"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "born_in_chaos_v1:sea_terror_stomach",
+        "amount": 1
+      },
+      "tradeExp": 8,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:fisherman_emerald_for_sea_terror_stomach"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "request": {
+        "itemKey": "born_in_chaos_v1:sea_terror_eye",
+        "amount": 1
+      },
+      "tradeExp": 8,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:fisherman_emerald_for_sea_terror_eye"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "cataclysm:amethyst_crab_meat",
+        "amount": 1
+      },
+      "tradeExp": 8,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:fisherman_emerald_for_amethyst_crab_meat"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "request": {
+        "itemKey": "cataclysm:amethyst_crab_shell",
+        "amount": 1
+      },
+      "tradeExp": 8,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:fisherman_emerald_for_amethyst_crab_shell"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "iceandfire:shiny_scales",
+        "amount": 4
+      },
+      "tradeExp": 8,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:fisherman_emerald_for_shiny_scales"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "multiRequest": [
+        {
+          "itemKey": "iceandfire:sea_serpent_scales_bronze",
+          "amount": 1
+        },
+        {
+          "itemKey": "iceandfire:sea_serpent_scales_green",
+          "amount": 1
+        },
+        {
+          "itemKey": "iceandfire:sea_serpent_scales_deepblue",
+          "amount": 1
+        },
+        {
+          "itemKey": "iceandfire:sea_serpent_scales_purple",
+          "amount": 1
+        },
+        {
+          "itemKey": "iceandfire:sea_serpent_scales_teal",
+          "amount": 1
+        },
+        {
+          "itemKey": "iceandfire:sea_serpent_scales_red",
+          "amount": 1
+        }
+      ],
+      "tradeExp": 8,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:fisherman_emerald_for_multirequest_sea_serpent_scales_bronze"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:fishing_rod",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 3
+          },
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "additionalRequest": {
+        "itemKey": "thermal:ruby",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:fisherman_fishing_rod_for_emerald_and_ruby"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "alexsmobs:ambergris",
+        "amount": 1
+      },
+      "tradeExp": 8,
+      "maxUses": 2,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:fisherman_emerald_for_ambergris"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "alexsmobs:devils_hole_pupfish_bucket",
+        "amount": 1
+      },
+      "tradeExp": 8,
+      "maxUses": 2,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:fisherman_emerald_for_devils_hole_pupfish_bucket"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "alexsmobs:cosmic_cod",
+        "amount": 8
+      },
+      "tradeExp": 8,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:fisherman_emerald_for_cosmic_cod"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "AHA",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "item": "thermal:silver_ingot"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "A": {
+            "item": "minecraft:leather"
+        },
+        "H": {
+            "item": "createaddition:iron_rod"
+        }
+    },
+    "result": {
+        "item": "iceandfire:silver_pickaxe",
+        "count": 1
+    }
+}

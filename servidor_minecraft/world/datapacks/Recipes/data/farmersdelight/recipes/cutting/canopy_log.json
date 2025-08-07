@@ -1,0 +1,21 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "tag": "twilightforest:canopy_logs"
+      }
+    ],
+    "tool": {
+      "type": "farmersdelight:tool_action",
+      "action": "axe_strip"
+    },
+    "result": [
+      {
+        "item": "twilightforest:canopy_planks"
+      },
+      {
+        "item": "twilightforest:canopy_planks"
+      }
+    ],
+    "sound": "minecraft:item.axe.strip"
+  }

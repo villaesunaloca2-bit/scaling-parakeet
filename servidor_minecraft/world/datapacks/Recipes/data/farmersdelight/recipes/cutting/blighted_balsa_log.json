@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "biomemakeover:blighted_balsa_log"
+    }
+  ],
+  "tool": {
+    "type": "farmersdelight:tool_action",
+    "action": "axe_strip"
+  },
+  "result": [
+    {
+      "item": "biomemakeover:blighted_balsa_planks"
+    },
+    {
+      "item": "biomemakeover:blighted_balsa_planks"
+    }
+  ],
+  "sound": "minecraft:item.axe.strip"
+}

@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": {
+        "item": "minecraft:chainmail_chestplate"
+    },
+    "addition": {
+        "item": "thermal:gold_plate"
+    },
+    "result": {
+        "item": "minecraft:golden_chestplate"
+    },
+      "template": {
+    "item": "minecraft:leather"
+  }
+}

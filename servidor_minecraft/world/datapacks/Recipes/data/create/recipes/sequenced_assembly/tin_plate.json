@@ -1,0 +1,75 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "thermal:tin_ingot"
+    },
+    "loops": 3,
+    "results": [
+      {
+        "chance": 0.25,
+        "item": "thermal:tin_plate"
+      },
+      {
+        "chance": 0.75,
+        "item": "thermal:tin_nugget",
+        "count": 1
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "thermal:tin_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:tin_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "thermal:tin_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:tin_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "thermal:tin_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:tin_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "thermal:tin_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:tin_ingot"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "thermal:tin_ingot"    
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "thermal:tin_plate"
+      }
+    ],
+    "processingTime": 400,
+    "results": [
+      {
+        "item": "thermal:tin_gear",
+        "chance": 0.9
+      }
+    ]
+  }

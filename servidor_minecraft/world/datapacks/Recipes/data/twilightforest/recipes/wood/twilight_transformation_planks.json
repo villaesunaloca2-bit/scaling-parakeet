@@ -1,0 +1,22 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "minecraft"
+      }
+    ],
+    "type": "natprog:damage_tools",
+    "ingredients": [
+      {
+        "item": "twilightforest:stripped_transformation_log"
+      },
+      {
+        "item": "natprog:saw"
+      }
+    ],
+    "result": {
+      "item": "twilightforest:transformation_planks",
+      "count": 2
+    },
+    "group": "planks"
+  }

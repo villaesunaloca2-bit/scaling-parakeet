@@ -1,0 +1,22 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "minecraft"
+      }
+    ],
+    "type": "natprog:damage_tools",
+    "ingredients": [
+      {
+        "item": "iceandfire:troll_leather_forest"
+      },
+      {
+        "tag": "forge:tools/knives"
+      }
+    ],
+    "result": {
+      "item": "immersiveengineering:ersatz_leather",
+      "count": 4
+    },
+    "group": "planks"
+  }

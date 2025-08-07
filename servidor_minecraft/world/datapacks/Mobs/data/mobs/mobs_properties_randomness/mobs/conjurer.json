@@ -1,0 +1,112 @@
+{
+    "target": "conjurer_illager:conjurer",
+    "events": {
+        "on_attack": [
+            {
+                "target": "other",
+                "chance": 0.25,
+                "potion_effects": [
+                    {
+                        "id": "minecraft:levitation",
+                        "amplifier": 22,
+                        "duration": 3
+                    },
+                    {
+                        "id": "alexsmobs:sunbird_curse",
+                        "amplifier": 0,
+                        "duration": 5
+                    }
+                ]
+            },
+            {
+                "target": "other",
+                "chance": 0.25,
+                "potion_effects": [
+                    {
+                        "id": "minecraft:slowness",
+                        "amplifier": 2,
+                        "duration": 3
+                    }
+                ]
+            },
+            {
+                "target": "other",
+                "chance": 0.25,
+                "potion_effects": [
+                    {
+                        "id": "minecraft:weakness",
+                        "amplifier": 0,
+                        "duration": 15
+                    }
+                ]
+            },
+            {
+                "target": "other",
+                "chance": 0.25,
+                "health_left": {
+                "min": 0,
+                "max": 0.5
+                },
+                "potion_effects": [
+                    {
+                        "id": "minecraft:nausea",
+                        "amplifier": 0,
+                        "duration": 5
+                    }
+                ]
+            },
+            {
+                "target": "this",
+                "chance": 0.75,
+                "health_left": {
+                "min": 0,
+                "max": 0.5
+                 },
+                "potion_effects": [
+                    {
+                        "id": "minecraft:regeneration",
+                        "amplifier": 2,
+                        "duration": 2
+                    }
+                ]
+            }
+        ],
+        "on_damaged": [
+            {
+                "target": "other",
+                "damage_type": "indirect",
+                "chance": 0.25,
+                "potion_effects": [
+                    {
+                        "id": "minecraft:blindness",
+                        "amplifier": 0,
+                        "duration": 15
+                    },
+                    {
+                        "id": "minecraft:nausea",
+                        "amplifier": 0,
+                        "duration": 15
+                    }
+                ]
+            },
+            {
+                "target": "this",
+                "damage_type": "indirect",
+                "chance": 0.25,
+                "potion_effects": [
+                    {
+                        "id": "minecraft:regeneration",
+                        "amplifier": 2,
+                        "duration": 5
+                    },
+                    {
+                        "id": "minecraft:absorption",
+                        "amplifier": 0
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+

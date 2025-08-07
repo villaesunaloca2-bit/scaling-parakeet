@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OLO",
+        "OLO",
+        "OLO"
+    ],
+    "key": {
+        "O": {
+            "tag": "forge:treated_wood"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        }
+    },
+    "result": {
+        "item": "charcoal_pit:bellows",
+        "count": 1
+    }
+}

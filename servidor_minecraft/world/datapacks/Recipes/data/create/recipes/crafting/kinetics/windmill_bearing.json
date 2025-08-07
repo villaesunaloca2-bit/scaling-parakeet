@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"IEI",
+		"CBC"
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"item": "create:andesite_alloy"},
+        "E": {"item": "create:mechanical_bearing"},
+        "B": {"item": "thermal:iron_gear"},
+        "C": {"item": "minecraft:iron_ingot"}
+	},
+	
+	"result": {"item": "create:windmill_bearing"}
+}

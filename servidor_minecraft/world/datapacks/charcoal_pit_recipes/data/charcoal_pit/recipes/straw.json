@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "farmersdelight:canvas"
+        },
+        {
+            "item": "farmersdelight:canvas"
+        },
+        {
+            "item": "farmersdelight:canvas"
+        },
+        {
+            "item": "hardcore_torches:animal_fat"
+        }
+    ],
+    "result":
+    {
+        "item": "charcoal_pit:straw",
+        "count": 3
+    }
+}

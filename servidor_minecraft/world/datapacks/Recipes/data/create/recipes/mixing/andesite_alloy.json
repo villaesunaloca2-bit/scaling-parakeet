@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "minecraft:andesite"
+      },
+      {
+        "item": "thermal:slag"
+      }
+    ],
+    "results": [
+      {
+        "item": "create:andesite_alloy",
+        "count": 2
+      }
+    ]
+  }

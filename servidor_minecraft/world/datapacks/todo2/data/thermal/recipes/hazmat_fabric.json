@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "ob_core:cloth"
+        },
+        {
+            "item": "ob_core:cloth"
+        },
+        {
+            "item": "thermal:cured_rubber"
+        },
+        {
+            "item": "thermal:cured_rubber"
+        },
+        {
+            "item": "thermal:cured_rubber"
+        },
+        {
+            "item": "thermal:sulfur"
+        }
+    ],
+    "result": {"item": "thermal:hazmat_fabric",
+                "count": 1}
+}

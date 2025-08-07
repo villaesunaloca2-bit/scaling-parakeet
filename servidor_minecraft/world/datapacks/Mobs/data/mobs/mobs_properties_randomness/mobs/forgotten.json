@@ -1,0 +1,49 @@
+{
+    "target": "quark:forgotten",
+    "attributes": [
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "Forgotten health",
+            "amount": 20,
+            "operation": "addition"
+        }
+    ],
+    "events": {
+        "on_attack": [
+            {
+                "target": "other",
+                "damage_type": "indirect",
+                "potion_effects": [
+                    {
+                        "id": "alexsmobs:power_down",
+                        "amplifier": 0,
+                        "duration": 2
+                    }
+                ]
+            }
+        ],
+        "on_damaged": [
+            {
+                "target": "other",
+                "damage_type": "indirect",
+                "chance": 0.25,
+                "potion_effects": [
+                    {
+                        "id": "minecraft:blindness",
+                        "amplifier": 0,
+                        "duration": 8
+                    }
+                ]
+            }
+        ]
+    },
+    "potion_effects": [
+        {
+            "id": "alexsmobs:soulsteal",
+            "amplifier": 1,
+            "hidde_particles": true
+        }
+    ]
+}
+
+

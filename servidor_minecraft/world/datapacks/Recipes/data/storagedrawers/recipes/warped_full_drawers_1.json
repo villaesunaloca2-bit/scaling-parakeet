@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "storagedrawers:warped_trim"
+    },
+    "result": "storagedrawers:warped_full_drawers_1",
+    "count": 1
+}

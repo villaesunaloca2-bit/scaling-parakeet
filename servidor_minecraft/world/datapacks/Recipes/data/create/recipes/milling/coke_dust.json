@@ -1,0 +1,15 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "immersiveengineering:coal_coke"
+      }
+    ],
+    "results": [
+      {
+        "item": "immersiveengineering:dust_coke",
+        "chance": 1
+      }
+    ],
+    "processingTime": 250
+}

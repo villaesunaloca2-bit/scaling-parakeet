@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+      "item": "minecraft:blackstone"
+    },
+    "result": "immersive_weathering:blackstone_brick",
+    "count": 4
+  }

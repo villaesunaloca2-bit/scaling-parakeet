@@ -1,0 +1,22 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "minecraft"
+      }
+    ],
+    "type": "natprog:damage_tools",
+    "ingredients": [
+      {
+        "item": "create:andesite_alloy"
+      },
+      {
+        "tag": "natprog:saw"
+      }
+    ],
+    "result": {
+      "item": "create:shaft",
+      "count": 1
+    },
+    "group": "planks"
+}

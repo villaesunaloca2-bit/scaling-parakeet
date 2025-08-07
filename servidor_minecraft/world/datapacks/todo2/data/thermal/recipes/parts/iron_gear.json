@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "## ",
+        "#H#",
+        " ##"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_ingot"
+        },
+        "H": {
+            "item": "create:andesite_alloy"
+        }
+    },
+    "result": {
+        "item": "thermal:iron_gear",
+        "count": 1
+    }
+}

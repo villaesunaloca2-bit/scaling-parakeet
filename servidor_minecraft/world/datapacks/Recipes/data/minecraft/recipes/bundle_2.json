@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" S ",
+		"I I",
+        " I "
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"item": "minecraft:leather"},
+        "S": {"item": "minecraft:string"}
+	},
+	
+	"result": {"item": "minecraft:bundle"}
+}

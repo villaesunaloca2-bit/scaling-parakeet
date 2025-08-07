@@ -1,0 +1,14 @@
+{
+  "type": "charcoal_pit:orekiln",
+  "ingredients": [
+    [
+        {
+          "item": "thermal:bronze_dust"
+        }
+    ]
+  ],
+  "result": {
+    "item": "alloyed:bronze_nugget",
+    "count": 3
+  }
+}

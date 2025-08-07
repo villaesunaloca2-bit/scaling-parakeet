@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        },
+        {
+          "condition": "minecraft:block_state_property",
+          "block": "immersiveengineering:hemp",
+          "properties": {
+            "age": "4",
+            "top": "false"
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "immersiveengineering:hemp_fiber"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "immersiveengineering:blocks/hemp"
+}

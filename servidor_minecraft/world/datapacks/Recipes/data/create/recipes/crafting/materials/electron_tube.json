@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "LAL",
+        "QQQ"
+    ],
+    "key": {
+        "#": {
+            "item": "create:polished_rose_quartz"
+        },
+        "L": {
+            "item": "thermal:nickel_plate"
+        },
+        "A": {
+            "item": "thermal:lead_gear"
+        },
+        "Q": {
+            "item": "thermal:hazmat_fabric"
+        }
+    },
+    "result": {
+        "item": "create:electron_tube"
+    }
+}

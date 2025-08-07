@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "O#O",
+        "#S#",
+        "O#O"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:planks"
+        },
+        "O": {
+            "tag": "supplementaries:ropes"
+        },
+        "S": {
+            "item": "farmersdelight:canvas"
+        }
+    },
+    "result": {
+        "item": "shieldexp:wooden_shield",
+        "count": 1
+    }
+}

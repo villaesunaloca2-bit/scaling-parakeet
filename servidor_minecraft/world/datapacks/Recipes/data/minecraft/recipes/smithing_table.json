@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " A ",
+        " O ",
+        " E "
+    ],
+    "key": {
+        "O": {
+            "item": "minecraft:crafting_table"
+        },
+        "A": {
+            "item": "alloyed:bronze_ingot"
+        },
+        "E": {
+            "item": "immersivegeology:hammer_bronze"
+        }
+    },
+    "result": {
+        "item": "minecraft:smithing_table",
+        "count": 1
+    }
+}

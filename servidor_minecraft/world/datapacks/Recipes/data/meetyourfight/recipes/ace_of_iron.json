@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SeS",
+    "ScS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "thermal:iron_plate"
+    },
+    "c": {
+      "item": "meetyourfight:fortunes_favor"
+    },
+    "e": {
+      "item": "born_in_chaos_v1:pileof_dark_metal"
+    }
+  },
+  "result": {
+    "item": "meetyourfight:ace_of_iron",
+    "count": 1
+  }
+}

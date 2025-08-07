@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LLL",
+        "LLL",
+        "LLL"
+    ],
+    "key": {
+        "L": {
+            "item": "thermal:lead_nugget"
+        }
+    },
+    "result": {
+        "item": "destroy:lead_ingot",
+        "count": 1
+    }
+}

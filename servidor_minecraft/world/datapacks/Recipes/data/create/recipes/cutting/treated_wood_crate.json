@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "forge:treated_wood"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "immersiveengineering:crate",
+        "chance": 0.25
+      }
+    ]
+  }

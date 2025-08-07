@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " c ",
+        "ABA",
+        "#I#"
+    ],
+    "key": {
+        "#": {
+            "item": "thermal:bronze_gear"
+        },
+        "c": {
+            "tag": "forge:glass"
+        },
+        "A": {
+            "item": "minecraft:copper_ingot"
+        },
+        "B": {
+            "item": "thermal:machine_frame"
+        },
+        "I": {
+            "item": "thermal:rf_coil"
+        }
+    },
+    "result": {"item":"thermal:machine_refinery"}
+}

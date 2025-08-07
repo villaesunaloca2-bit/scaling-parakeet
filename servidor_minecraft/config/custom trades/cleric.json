@@ -1,0 +1,247 @@
+{
+  "profession": "minecraft:cleric",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "born_in_chaos_v1:stimulating_decoction",
+        "amount": 2
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:cleric_emerald_for_stimulating_decoction"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "born_in_chaos_v1:intoxicating_decoction",
+        "amount": 3
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:cleric_emerald_for_intoxicating_decoction"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:rotten_flesh",
+        "amount": 16
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:cleric_emerald_for_rotten_flesh"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:redstone",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:cleric_emerald_for_redstone"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:gold_ingot",
+        "amount": 12
+      },
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:cleric_emerald_for_gold_ingot"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "thermal:silver_ingot",
+        "amount": 8
+      },
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:cleric_emerald_for_silver_ingot"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:glowstone_dust",
+        "amount": 16
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:cleric_glowstone_dust_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "quark:nether_wart_sack",
+        "amount": 30
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:cleric_emerald_for_nether_wart_sack"
+    },
+    {
+      "offer": {
+        "itemKey": "cold_sweat:soul_sprout",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:cleric_soul_sprout_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 12
+      },
+      "request": {
+        "itemKey": "born_in_chaos_v1:nightmare_claw",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:cleric_emerald_for_nightmare_claw"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "born_in_chaos_v1:nightmare_stalker_skull",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:cleric_emerald_for_nightmare_stalker_skull"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:ender_pearl",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:cleric_ender_pearl_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "createaddition:electrum_ingot",
+        "amount": 4
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:cleric_emerald_for_electrum_ingot"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 48
+      },
+      "request": {
+        "itemKey": "born_in_chaos_v1:lifestealer_skull",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:cleric_emerald_for_lifestealer_skull"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "born_in_chaos_v1:lifestealer_bone",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:cleric_emerald_for_lifestealer_bone"
+    }
+  ]
+}

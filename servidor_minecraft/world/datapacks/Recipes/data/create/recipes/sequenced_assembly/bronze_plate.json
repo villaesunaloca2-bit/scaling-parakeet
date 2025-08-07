@@ -1,0 +1,75 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "alloyed:bronze_ingot"
+    },
+    "loops": 3,
+    "results": [
+      {
+        "chance": 0.25,
+        "item": "thermal:bronze_plate"
+      },
+      {
+        "chance": 0.75,
+        "item": "alloyed:bronze_nugget",
+        "count": 1
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "alloyed:bronze_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "alloyed:bronze_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "alloyed:bronze_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "alloyed:bronze_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "alloyed:bronze_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "alloyed:bronze_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "alloyed:bronze_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "alloyed:bronze_ingot"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "alloyed:bronze_ingot"    
+    }
+}

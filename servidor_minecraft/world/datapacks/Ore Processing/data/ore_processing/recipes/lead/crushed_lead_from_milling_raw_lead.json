@@ -1,0 +1,19 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "thermal:raw_lead"
+      }
+    ],
+    "results": [
+      {
+        "item": "create:crushed_raw_lead",
+        "chance": 1
+      },
+      {
+        "item": "create:crushed_raw_lead",
+        "chance": 0.5
+      }
+    ],
+    "processingTime": 250
+  }

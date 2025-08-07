@@ -1,0 +1,16 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:gold_ingot"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "thermal:gold_coin",
+        "count": 4,
+        "chance": 0.0825
+      }
+    ]
+  }

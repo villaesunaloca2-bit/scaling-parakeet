@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "O#O",
+        "#S#",
+        "O#O"
+    ],
+    "key": {
+        "#": {
+            "item": "thermal:iron_plate"
+        },
+        "O": {
+            "item": "supplementaries:rope"
+        },
+        "S": {
+            "item": "shieldexp:wooden_shield"
+        }
+    },
+    "result": {
+        "item": "shieldexp:iron_shield",
+        "count": 1
+    }
+}

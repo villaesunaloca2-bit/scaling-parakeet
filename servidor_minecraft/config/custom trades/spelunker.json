@@ -1,0 +1,519 @@
+{
+  "profession": "spelunkers_charm:spelunker",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:coal",
+        "amount": 48
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "spelunkers_charm:spelunker_emerald_for_coal"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:gunpowder",
+        "amount": 8
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "spelunkers_charm:spelunker_emerald_for_gunpowder"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:gunpowder",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "spelunkers_charm:spelunker_gunpowder_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "createbigcannons:powder_charge",
+        "amount": 3
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "spelunkers_charm:spelunker_gunpowder_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "hardcore_torches:lit_torch",
+        "amount": 24
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "spelunkers_charm:spelunker_lit_torch_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "farmersdelight:rope",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "spelunkers_charm:spelunker_rope_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "spelunkers_charm:candle_helmet",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "spelunkers_charm:spelunker_candle_helmet_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "create:crushed_raw_copper",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:raw_copper",
+        "amount": 16
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "spelunkers_charm:spelunker_crushed_raw_copper_for_multirequest_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "create:crushed_raw_gold",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:raw_gold",
+        "amount": 16
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "spelunkers_charm:spelunker_crushed_raw_gold_for_multirequest_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "create:crushed_raw_silver",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "additionalRequest": {
+        "itemKey": "thermal:raw_silver",
+        "amount": 16
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "spelunkers_charm:spelunker_crushed_raw_silver_for_multirequest_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "create:crushed_raw_nickel",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "additionalRequest": {
+        "itemKey": "thermal:raw_nickel",
+        "amount": 16
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "spelunkers_charm:spelunker_crushed_raw_nickel_for_multirequest_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "create:crushed_raw_lead",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "additionalRequest": {
+        "itemKey": "thermal:raw_lead",
+        "amount": 16
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "spelunkers_charm:spelunker_crushed_raw_lead_for_multirequest_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "create:crushed_raw_zinc",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "additionalRequest": {
+        "itemKey": "create:raw_zinc",
+        "amount": 16
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "spelunkers_charm:spelunker_crushed_raw_zinc_for_multirequest_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:bomb",
+        "amount": 6
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "spelunkers_charm:spelunker_bomb_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:rope",
+        "amount": 24
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "spelunkers_charm:spelunker_rope_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "immersiveengineering:gunpowder_barrel",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "spelunkers_charm:spelunker_gunpowder_barrel_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "request": {
+        "itemKey": "alexsmobs:elastic_tendon",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "spelunkers_charm:spelunker_emerald_for_elastic_tendon"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3
+      },
+      "request": {
+        "itemKey": "iceandfire:troll_tusk",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "spelunkers_charm:spelunker_emerald_for_troll_tusk"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3
+      },
+      "request": {
+        "itemKey": "alexsmobs:centipede_leg",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "spelunkers_charm:spelunker_emerald_for_centipede_leg"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 12
+      },
+      "request": {
+        "itemKey": "enemyexpansion:troll_molar",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "spelunkers_charm:spelunker_emerald_for_troll_molar"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "spelunkers_charm:geode",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "spelunkers_charm:spelunker_emerald_for_geode"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:tnt",
+        "amount": 2
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "spelunkers_charm:spelunker_tnt_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "thermal:explosive_grenade",
+        "amount": 3
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "spelunkers_charm:spelunker_explosive_grenade_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:torch",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "spelunkers_charm:spelunker_torch_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "spelunkers_charm:mining_helmet",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "spelunkers_charm:spelunker_mining_helmet_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:diamond",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 2,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "spelunkers_charm:spelunker_emerald_for_diamond"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "request": {
+        "itemKey": "thermal:cinnabar",
+        "amount": 1
+      },
+      "tradeExp": 4,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "spelunkers_charm:spelunker_emerald_for_cinnabar"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:amethyst_shard",
+        "amount": 12
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "spelunkers_charm:spelunker_emerald_for_amethyst_shard"
+    },
+    {
+      "offer": {
+        "itemKey": "create:crushed_raw_iron",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:raw_iron",
+        "amount": 16
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "spelunkers_charm:spelunker_crushed_raw_iron_for_emerald_and_raw_iron"
+    },
+    {
+      "offer": {
+        "itemKey": "create:crushed_raw_tin",
+        "amount": 32
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "additionalRequest": {
+        "itemKey": "thermal:raw_tin",
+        "amount": 16
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "spelunkers_charm:spelunker_crushed_raw_tin_for_emerald_and_raw_tin"
+    }
+  ]
+}

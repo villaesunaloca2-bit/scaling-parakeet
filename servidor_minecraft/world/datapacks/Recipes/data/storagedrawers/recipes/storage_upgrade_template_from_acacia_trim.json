@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " gi",
+        "/Rg",
+        "// "
+    ],
+    "key": {
+        "g": {
+            "item": "create:zinc_ingot"
+        },
+        "i": {
+            "item": "thermal:silver_gear"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "R": {
+            "item": "storagedrawers:acacia_trim"
+        }
+    },
+    "result": {
+        "item": "storagedrawers:upgrade_template",
+        "count": 4
+    }
+}

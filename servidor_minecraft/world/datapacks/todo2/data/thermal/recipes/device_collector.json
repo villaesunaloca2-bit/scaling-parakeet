@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#c#",
+        "ABA",
+        "#I#"
+    ],
+    "key": {
+        "#": {
+            "item": "thermal:tin_ingot"
+        },
+        "c": {
+            "item": "create:propeller"
+        },
+        "A": {
+            "item": "thermal:enderium_dust"
+        },
+        "B": {
+            "item": "minecraft:hopper"
+        },
+        "I": {
+            "item": "thermal:rf_coil"
+        }
+    },
+    "result": {"item":"thermal:device_collector"}
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " c ",
+        "ABA",
+        "#I#"
+    ],
+    "key": {
+        "#": {
+            "item": "thermal:constantan_gear"
+        },
+        "c": {
+            "item": "minecraft:blast_furnace"
+        },
+        "A": {
+            "item": "thermal:signalum_dust"
+        },
+        "B": {
+            "item": "thermal:machine_frame"
+        },
+        "I": {
+            "item": "thermal:rf_coil"
+        }
+    },
+    "result": {"item":"thermal:machine_smelter"}
+}

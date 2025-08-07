@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "SbS",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "born_in_chaos_v1:shattered_skull"
+    },
+    "S": {
+      "item": "thermal:silver_ingot"
+    },
+    "b": {
+      "item": "born_in_chaos_v1:orbofthe_summoner"
+    },
+    "c": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "born_in_chaos_v1:staff_of_magic_arrows",
+    "count": 1
+  }
+}

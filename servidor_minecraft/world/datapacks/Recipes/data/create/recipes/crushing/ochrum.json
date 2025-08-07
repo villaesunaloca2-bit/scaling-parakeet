@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "create:ochrum"
+      }
+    ],
+    "processingTime": 250,
+    "results": [
+      {
+        "chance": 0.4,
+        "item": "create:crushed_raw_nickel"
+      },
+      {
+        "chance": 0.4,
+        "item": "thermal:nickel_nugget"
+      }
+    ]
+  }

@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SAA",
+        "S/G",
+        "SAA"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:chain"
+        },
+        "G": {
+            "item": "thermal:silver_gear"
+        },
+        "/": {
+            "item": "irons_spellbooks:copper_spell_book"
+        },
+        "A":
+        {
+            "item": "thermal:iron_plate"
+        }
+    },
+    "result": {
+        "item": "irons_spellbooks:iron_spell_book",
+        "count": 1
+    }
+}

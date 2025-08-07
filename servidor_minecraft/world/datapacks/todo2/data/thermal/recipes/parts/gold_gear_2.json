@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "I#I",
+        "#H#",
+        "I#I"
+    ],
+    "key": {
+        "#": {
+            "item": "create:gold_sheet"
+        },
+        "H": {
+            "item": "create:andesite_alloy"
+        },
+        "I": {
+            "item": "minecraft:gold_nugget"
+        }
+    },
+    "result": {
+        "item": "thermal:gold_gear",
+        "count": 1
+    }
+}

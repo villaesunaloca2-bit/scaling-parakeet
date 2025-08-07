@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CCC",
+        "ABA",
+        "#A#"
+    ],
+    "key": {
+        "#": {
+            "item": "thermal:lead_ingot"
+        },
+        "C": {
+            "item": "thermal:electrum_ingot"
+        },
+        "A": {
+            "item": "thermal:rf_coil"
+        },
+        "B": {
+            "item": "thermal:tin_gear"
+        }
+    },
+    "result": {"item": "thermal:charge_bench" }
+}

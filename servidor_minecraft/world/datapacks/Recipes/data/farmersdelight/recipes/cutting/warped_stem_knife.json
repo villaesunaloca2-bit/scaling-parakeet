@@ -1,0 +1,19 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:warped_stem"
+      }
+    ],
+    "tool": {
+        "tag": "forge:tools/knives"
+    },
+    "result": [
+      {
+        "item": "minecraft:stripped_warped_stem"
+      },
+      {
+        "item": "farmersdelight:tree_bark"
+      }
+    ]
+  }

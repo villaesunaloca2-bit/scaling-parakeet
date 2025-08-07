@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OLA",
+        "SSS"
+    ],
+    "key": {
+        "O": {
+            "item": "farmersdelight:canvas"
+        },
+        "A": {
+            "tag": "minecraft:wool"
+        },
+        "L": {
+            "item": "immersiveengineering:creosote_bucket"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "hardcore_torches:unlit_torch",
+        "count": 6
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:stick"
+        },
+        {
+            "tag": "supplementaries:ropes"
+        },
+        {
+            "item": "minecraft:stick"
+        },
+        {
+            "item": "minecraft:stick"
+        }
+    ],
+    "result": {
+      "item":"farmersdelight:cutting_board"
+    }
+  }

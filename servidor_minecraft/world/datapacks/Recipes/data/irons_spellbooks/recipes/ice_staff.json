@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " RA",
+        " /R",
+        "/  "
+    ],
+    "key": {
+        "/": {
+            "item": "irons_spellbooks:frosted_helve"
+        },
+        "R":
+        {
+            "item": "thermal:silver_ingot"
+        },
+        "A":
+        {
+            "item": "irons_spellbooks:permafrost_shard"
+        }
+    },
+    "result": {
+        "item": "irons_spellbooks:ice_staff",
+        "count": 1
+    }
+}

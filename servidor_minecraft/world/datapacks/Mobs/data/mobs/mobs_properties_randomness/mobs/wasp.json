@@ -1,0 +1,12 @@
+{
+    "target": "enemyexpansion:wasp",
+    "attributes": [
+        {
+            "id": "minecraft:generic.attack_damage",
+            "modifier_name": "Wasp attack damage",
+            "amount": 1,
+            "operation": "addition"
+        }
+    ]
+}
+

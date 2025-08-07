@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" E ",
+		" I ",
+		" B "
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"item": "minecraft:barrel"},
+        "E": {"item": "thermal:lead_plate"},
+        "B": {"item": "create:andesite_alloy"}
+	},
+	
+	"result": {"item": "create:item_vault", "count": 2}
+}

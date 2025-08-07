@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LLO",
+        "LL "
+    ],
+    "key": {
+        "O": {
+            "item": "supplementaries:daub"
+        },
+        "L": {
+            "item": "immersive_weathering:stone_brick"
+        }
+    },
+    "result": {
+        "item": "minecraft:stone_bricks",
+        "count": 1
+    }
+}

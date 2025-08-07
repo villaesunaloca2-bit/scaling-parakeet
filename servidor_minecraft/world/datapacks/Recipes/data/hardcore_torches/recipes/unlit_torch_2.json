@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LOA",
+        "SS "
+    ],
+    "key": {
+        "O": {
+            "item": "farmersdelight:canvas"
+        },
+        "A": {
+            "item": "farmersdelight:straw"
+        },
+        "L": {
+            "item": "hardcore_torches:animal_fat"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "hardcore_torches:unlit_torch",
+        "count": 4
+    }
+}

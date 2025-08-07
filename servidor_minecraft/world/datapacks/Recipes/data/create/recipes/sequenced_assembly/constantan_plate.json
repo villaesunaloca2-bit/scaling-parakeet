@@ -1,0 +1,75 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "thermal:constantan_ingot"
+    },
+    "loops": 3,
+    "results": [
+      {
+        "chance": 0.25,
+        "item": "thermal:constantan_plate"
+      },
+      {
+        "chance": 0.75,
+        "item": "thermal:constantan_nugget",
+        "count": 1
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "thermal:constantan_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:constantan_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "thermal:constantan_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:constantan_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "thermal:constantan_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:constantan_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "thermal:constantan_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "thermal:constantan_ingot"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "thermal:constantan_ingot"    
+    }
+}

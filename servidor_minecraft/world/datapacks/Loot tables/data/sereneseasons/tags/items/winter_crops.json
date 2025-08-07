@@ -1,0 +1,19 @@
+{
+  "replace": true,
+  "values": [
+	"minecraft:red_mushroom",
+	"minecraft:brown_mushroom",
+	"minecraft:crimson_fungus",
+	"minecraft:warped_fungus",
+	"minecraft:crimson_nylium",
+	"minecraft:warped_nylium",
+	"minecraft:twisting_vines",
+	"minecraft:weeping_vines",
+	"minecraft:seagrass",
+	"minecraft:sea_pickle",
+    "minecraft:chorus_fruit",
+    "farmersdelight:cabbage_seeds",
+    "regions_unexplored:alpha_sapling",
+    "farmersrespite:tea_seeds"
+  ]
+}

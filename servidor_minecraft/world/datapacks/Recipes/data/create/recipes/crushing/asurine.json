@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "create:asurine"
+      }
+    ],
+    "processingTime": 250,
+    "results": [
+      {
+        "chance": 0.4,
+        "item": "create:crushed_raw_tin"
+      },
+      {
+        "chance": 0.4,
+        "item": "thermal:tin_nugget"
+      }
+    ]
+  }

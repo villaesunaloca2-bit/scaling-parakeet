@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R#",
+        "UGU",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "thermal:cured_rubber"
+        },
+        "R": {
+            "item": "thermal:silver_plate"
+        },
+        "U": {
+            "tag": "forge:plates/copper"
+        },
+        "G": {
+            "item": "thermal:bronze_gear"
+        }
+    },
+    "result": {
+        "item": "thermal:fluid_tank_augment",
+        "count": 1
+    }
+}

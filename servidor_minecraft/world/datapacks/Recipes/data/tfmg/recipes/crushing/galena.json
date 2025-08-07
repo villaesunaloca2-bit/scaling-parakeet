@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "createindustry:galena"
+      }
+    ],
+    "processingTime": 250,
+    "results": [
+      {
+        "item": "create:crushed_raw_lead",
+        "chance": 0.5
+      },
+      {
+        "item": "thermal:lead_nugget",
+        "chance": 0.5
+      }
+    ]
+  }

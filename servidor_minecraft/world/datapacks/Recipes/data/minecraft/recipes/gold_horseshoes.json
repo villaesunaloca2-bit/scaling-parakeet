@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " ##",
+        "# /",
+        "#/H"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gold_nugget"
+        },
+        "/": {
+            "item": "minecraft:gold_ingot"
+        },
+        "H": {
+            "item": "thermal:gold_plate"
+        }
+    },
+    "result": {
+        "item": "horseshoes:gold_horseshoes",
+        "count": 1
+    }
+}

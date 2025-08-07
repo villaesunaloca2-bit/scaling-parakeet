@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"S S",
+		"LCL",
+        "SLS"
+	],
+	
+	
+	
+	"key":
+	{
+		"L": {"item": "farmersdelight:canvas"},
+        "S": {"item": "minecraft:stick"},
+        "C": {"tag": "supplementaries:ropes"}
+	},
+	
+	"result": {"item": "farmersdelight:basket"}
+}

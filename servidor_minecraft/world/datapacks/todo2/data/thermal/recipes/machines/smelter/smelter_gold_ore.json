@@ -1,0 +1,26 @@
+{
+    "type": "thermal:smelter",
+    "ingredient": {
+      "tag": "forge:ores/gold"
+    },
+    "result": [
+      {
+        "item": "minecraft:gold_nugget",
+        "chance": 1.0
+      },
+      {
+        "item": "thermal:apatite",
+        "chance": 0.8
+      },
+      {
+        "item": "create:copper_nugget", 
+        "chance": 1.0,
+        "count": "6"
+      },
+      {
+        "item": "thermal:rich_slag",
+        "chance": 0.2
+      }
+    ],
+    "experience": 0.2
+  }

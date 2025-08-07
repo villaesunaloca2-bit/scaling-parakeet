@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "SF",
+      "SR"
+    ],
+    "key": {
+      "F": {
+        "item": "natprog:bone_shard"
+      },
+      "S": {
+        "tag": "forge:rods/wooden"
+      },
+      "R": {
+        "tag": "supplementaries:ropes"
+      } 
+    },
+    "result": {
+      "item": "natprog:bone_pickaxe"
+    }
+  }

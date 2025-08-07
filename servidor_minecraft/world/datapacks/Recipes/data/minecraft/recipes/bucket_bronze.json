@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "L L",
+        " L "
+    ],
+    "key": {
+        "L": {
+            "item": "alloyed:bronze_sheet"
+        }
+    },
+    "result": {
+        "item": "minecraft:bucket",
+        "count": 1
+    }
+}

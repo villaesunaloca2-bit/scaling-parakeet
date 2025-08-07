@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " c ",
+        "ABA",
+        "#I#"
+    ],
+    "key": {
+        "#": {
+            "item": "thermal:silver_gear"
+        },
+        "c": {
+            "item": "minecraft:brewing_stand"
+        },
+        "A": {
+            "tag": "forge:plates/copper"
+        },
+        "B": {
+            "item": "thermal:machine_frame"
+        },
+        "I": {
+            "item": "thermal:rf_coil"
+        }
+    },
+    "result": {"item":"thermal:machine_brewer"}
+}

@@ -1,0 +1,32 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "create:crushed_raw_copper"
+      }
+    ],
+    "results": [
+      {
+        "item": "thermal:copper_dust"
+      },
+      {
+        "item": "thermal:copper_dust",
+        "chance": 0.25
+      },
+      {
+        "item": "create:copper_nugget",
+        "count": 2,
+        "chance": 0.5
+      },
+      {
+        "item": "create:copper_nugget",
+        "count": 1,
+        "chance": 0.5
+      },
+      {
+        "item": "minecraft:clay",
+        "chance": 0.5,
+        "count": 3
+      }
+    ]
+  }

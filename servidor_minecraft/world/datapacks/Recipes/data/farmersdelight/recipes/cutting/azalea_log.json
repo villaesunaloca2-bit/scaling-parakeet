@@ -1,0 +1,21 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "tag": "quark:azalea_logs"
+      }
+    ],
+    "tool": {
+      "type": "farmersdelight:tool_action",
+      "action": "axe_strip"
+    },
+    "result": [
+      {
+        "item": "quark:azalea_planks"
+      },
+      {
+        "item": "quark:azalea_planks"
+      }
+    ],
+    "sound": "minecraft:item.axe.strip"
+  }

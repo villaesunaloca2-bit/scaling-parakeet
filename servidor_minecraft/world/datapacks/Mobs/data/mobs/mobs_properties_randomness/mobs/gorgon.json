@@ -1,0 +1,58 @@
+{
+    "target": "iceandfire:gorgon",
+        "attributes": [
+        {
+            "id": "minecraft:generic.knockback_resistance",
+            "modifier_name": "Gorgon knockback resistance",
+            "amount": 3,
+            "operation": "addition"
+        }
+    ],
+        "potion_effects": [
+        {
+            "id": "alexsmobs:soulsteal",
+            "amplifier": 1,
+            "ambient": true
+        }
+    ],
+    "events": {
+        "on_attack": [
+            {
+                "target": "other",
+                "potion_effects": [
+                    {
+                        "id": "minecraft:nausea",
+                        "amplifier": 0,
+                        "duration": 5
+                    }
+                ]
+            }
+        ],
+        "on_damaged": [
+            {
+                "target": "other",
+                "damage_type": "indirect",
+                "potion_effects": [
+                    {
+                        "id": "minecraft:nausea",
+                        "amplifier": 0,
+                        "duration": 10
+                    }
+                ]
+            },
+            {
+                "target": "this",
+                "damage_type": "indirect",
+                "potion_effects": [
+                    {
+                        "id": "minecraft:resistance",
+                        "amplifier": 3,
+                        "duration": 15
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+

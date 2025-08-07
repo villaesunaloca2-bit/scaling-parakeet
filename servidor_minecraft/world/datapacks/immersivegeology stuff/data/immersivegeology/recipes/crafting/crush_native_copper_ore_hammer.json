@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "minecraft:raw_copper"
+        },
+        {
+            "tag": "forge:hammer"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "item": "create:crushed_raw_copper"
+    }
+}

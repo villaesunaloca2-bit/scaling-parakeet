@@ -1,0 +1,26 @@
+{
+    "type": "thermal:smelter",
+    "ingredient": {
+      "tag": "forge:ores/nickel"
+    },
+    "result": [
+      {
+        "item": "thermal:nickel_nugget",
+        "chance": 1.0
+      },
+      {
+        "item": "thermal:apatite",
+        "chance": 0.8
+      },
+      {
+        "item": "minecraft:iron_nugget", 
+        "chance": 1.0,
+        "count": "6"
+      },
+      {
+        "item": "thermal:rich_slag",
+        "chance": 0.2
+      }
+    ],
+    "experience": 0.2
+  }

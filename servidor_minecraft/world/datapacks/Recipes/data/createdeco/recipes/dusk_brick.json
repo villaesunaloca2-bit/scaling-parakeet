@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "forge:concrete_powders"
+        },
+        {
+            "tag": "forge:concrete_powders"
+        },
+        {
+            "tag": "forge:concrete_powders"
+        },
+        {
+            "item": "supplementaries:daub"
+        },
+        {
+            "item": "create:andesite_alloy"
+        },
+        {
+            "item": "create:andesite_alloy"
+        },
+        {
+            "item": "supplementaries:ash_brick"
+        },
+        {
+            "item": "supplementaries:ash_brick"
+        },
+        {
+            "item": "tfmg:coal_coke_dust"
+        }
+    ],
+    "result":
+    {
+        "item": "immersive_weathering:deepslate_brick",
+        "count": 4
+    }
+}

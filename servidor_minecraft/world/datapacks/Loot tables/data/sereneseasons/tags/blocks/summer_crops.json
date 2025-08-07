@@ -1,0 +1,29 @@
+{
+  "replace": true,
+  "values": [
+	"minecraft:red_mushroom",
+	"minecraft:brown_mushroom",
+	"minecraft:crimson_fungus",
+	"minecraft:warped_fungus",
+	"minecraft:crimson_nylium",
+	"minecraft:warped_nylium",
+	"minecraft:twisting_vines",
+	"minecraft:twisting_vines_plant",
+	"minecraft:weeping_vines",
+	"minecraft:weeping_vines_plant",
+	"minecraft:seagrass",
+	"minecraft:sea_pickle",
+	"minecraft:grass_block",
+	"minecraft:grass",
+	"minecraft:fern",
+	"minecraft:bamboo",
+	"minecraft:bamboo_sapling",
+	"minecraft:cactus",
+	"minecraft:sugar_cane",
+	"minecraft:wheat",
+	"minecraft:melon_stem",
+	"minecraft:beetroots",
+	"minecraft:cocoa",
+	"supplementaries:flax"
+  ]
+}

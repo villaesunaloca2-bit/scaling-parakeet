@@ -1,0 +1,19 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "thermal:raw_tin"
+      }
+    ],
+    "results": [
+      {
+        "item": "create:crushed_raw_tin",
+        "chance": 1
+      },
+      {
+        "item": "create:crushed_raw_tin",
+        "chance": 0.5
+      }
+    ],
+    "processingTime": 250
+  }

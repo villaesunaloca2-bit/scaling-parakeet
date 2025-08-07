@@ -1,0 +1,31 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "create:crushed_raw_nickel"
+      }
+    ],
+    "results": [
+      {
+        "item": "thermal:nickel_dust"
+      },
+      {
+        "item": "thermal:nickel_dust",
+        "chance": 0.25
+      },
+      {
+        "item": "thermal:nickel_nugget",
+        "count": 2,
+        "chance": 0.5
+      },
+      {
+        "item": "thermal:nickel_nugget",
+        "count": 1,
+        "chance": 0.5
+      },
+      {
+        "item": "minecraft:glowstone_dust",
+        "chance": 0.5
+      }
+    ]
+  }

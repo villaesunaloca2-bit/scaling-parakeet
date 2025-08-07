@@ -1,0 +1,27 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "fluid": "minecraft:milk",
+        "amount": 1000
+      },
+      {
+        "item": "farmersrespite:nether_wart_sourdough"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ],
+    "results": [
+      {
+        "item": "create:blaze_cake_base",
+        "count": 1
+      }
+    ]
+  }

@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"AS",
+		"FA"
+	],
+	
+	
+	
+	"key":
+	{
+        "S": {"item": "charcoal_pit:fire_starter"},
+        "A": {"item": "supplementaries:flax"},
+        "F": {"item": "minecraft:flint"}
+	},
+	
+	"result": {"item": "lititup:sparkling_flint"}
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R#",
+        "UGU",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "thermal:silver_plate"
+        },
+        "R": {
+            "item": "thermal:signalum_gear"
+        },
+        "U": {
+            "item": "thermal:bronze_ingot"
+        },
+        "G": {
+            "item": "thermal:lumium_gear"
+        }
+    },
+    "result": {
+        "item": "thermal:potion_amplifier_augment",
+        "count": 1
+    }
+}

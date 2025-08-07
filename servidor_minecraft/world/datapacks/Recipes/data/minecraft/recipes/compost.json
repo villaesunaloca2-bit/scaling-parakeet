@@ -1,0 +1,26 @@
+{
+    "type": "create:mixingt",    
+    "ingredients": [
+      {
+        "item": "minecraft:rotten_flesh"
+      },
+      {
+        "item": "minecraft:bone_meal"
+      },
+      {
+        "item": "farmersdelight:straw"
+      },
+      {
+        "tag": "forge:crops"
+      },
+      {
+        "item": "farmersdelight:tree_bark"
+      }
+    ],
+    "results": [
+      {
+        "item": "thermal:compost",
+        "count": 2
+      }
+    ]
+  }

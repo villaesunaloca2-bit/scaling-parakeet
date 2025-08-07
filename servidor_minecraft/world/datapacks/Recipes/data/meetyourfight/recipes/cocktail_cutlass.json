@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"DS",
+		"DG",
+		"F "
+	],
+	"key": {
+		"D": { "tag": "forge:gems/diamond" },
+		"G": { "item": "born_in_chaos_v1:intoxicating_decoction" },
+        "S": { "item": "born_in_chaos_v1:stimulating_decoction" },
+		"F": { "item": "meetyourfight:fortunes_favor" }
+	},
+	"result": { "item": "meetyourfight:cocktail_cutlass" }
+}

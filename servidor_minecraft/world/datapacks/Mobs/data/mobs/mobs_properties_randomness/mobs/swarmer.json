@@ -1,0 +1,27 @@
+{
+    "target": "born_in_chaos_v1:swarmer",
+    "events": {
+        "on_damaged": [
+            {
+                "target": "entity",
+                "potion_effects": [
+                    {
+                        "id": "born_in_chaos_v1:rotten_smell",
+                        "amplifier": 0,
+                        "duration": 180
+                    }
+                ]
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "id": "minecraft:generic.armor",
+            "modifier_name": "Swarmer armor",
+            "amount": 4,
+            "operation": "addition"
+        }
+    ]
+}
+
+

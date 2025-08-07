@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ASB",
+        "/C/",
+        "DSA"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:fermented_spider_eye"
+        },
+        "/": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "A": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "D": {
+            "item": "born_in_chaos_v1:bloody_gadfly_eye"
+        },
+        "C": {
+            "item": "born_in_chaos_v1:gnawed_bones"
+        },
+        "B": {
+            "item": "alexsmobs:shark_tooth"
+        }
+    },
+    "result": {
+        "item": "meetyourfight:fossil_bait",
+        "count": 1
+    }
+}

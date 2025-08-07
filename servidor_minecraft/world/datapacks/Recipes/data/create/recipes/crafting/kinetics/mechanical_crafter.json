@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "L#L",
+        "LAL",
+        "QFQ"
+    ],
+    "key": {
+        "#": {
+            "item": "create:cogwheel"
+        },
+        "L": {
+            "item": "create:brass_sheet"
+        },
+        "A": {
+            "item": "create:brass_casing"
+        },
+        "Q": {
+            "item": "thermal:iron_gear"
+        },
+        "F": {
+            "item": "thermal:rf_coil"
+        }
+    },
+    "result": {
+        "item": "create:mechanical_crafter",
+        "count": 3
+    }
+}

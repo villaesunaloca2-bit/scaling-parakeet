@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " RA",
+        "S/R",
+        "/S "
+    ],
+    "key": {
+        "S": {
+            "item": "irons_spellbooks:magic_cloth"
+        },
+        "/": {
+            "item": "minecraft:crimson_planks"
+        },
+        "R":
+        {
+            "item": "createaddition:electrum_sheet"
+        },
+        "A":
+        {
+            "item": "minecraft:amethyst_shard"
+        }
+    },
+    "result": {
+        "item": "irons_spellbooks:artificer_cane",
+        "count": 1
+    }
+}

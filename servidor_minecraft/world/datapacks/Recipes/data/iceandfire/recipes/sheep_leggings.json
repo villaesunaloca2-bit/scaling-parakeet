@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+        "IAI",
+        " I "
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"tag": "minecraft:wool"},
+		"A": {
+            "item": "minecraft:leather_leggings"
+        }
+	},
+	
+	"result": {"item": "iceandfire:sheep_leggings"}
+}

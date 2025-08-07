@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OOO",
+        "O O",
+        "OOO"
+    ],
+    "key": {
+        "O": {
+            "tag": "forge:treated_wood_slab"
+        }
+    },
+    "result": {
+        "item": "charcoal_pit:barrel",
+        "count": 1
+    }
+}

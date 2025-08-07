@@ -1,0 +1,37 @@
+{
+    "type": "create:compacting",    
+    "ingredients": [
+      {
+        "tag": "minecraft:dirt"
+      },
+      {
+        "item": "minecraft:rotten_flesh"
+      },
+      {
+        "item": "minecraft:rotten_flesh"
+      },
+      {
+        "item": "minecraft:rotten_flesh"
+      },
+      {
+        "item": "minecraft:bone"
+      },
+      {
+        "item": "minecraft:bone"
+      },
+      {
+        "item": "thermal:compost"
+      },
+      {
+        "item": "thermal:compost"
+      },
+      {
+        "item": "thermal:compost"
+      }
+    ],
+    "results": [
+      {
+        "item": "farmersdelight:organic_compost"
+      }
+    ]
+  }

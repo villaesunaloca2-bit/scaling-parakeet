@@ -1,0 +1,13 @@
+{
+    "type": "thermal:sawmill",
+    "ingredient": {
+      "tag": "minecraft:jungle_logs"
+    },
+    "result": [
+      {
+        "item": "minecraft:jungle_planks",
+        "count": 6
+      }
+    ],
+    "energy": 1000
+  }

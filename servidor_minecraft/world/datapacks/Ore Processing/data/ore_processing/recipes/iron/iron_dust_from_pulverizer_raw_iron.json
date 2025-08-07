@@ -1,0 +1,22 @@
+{
+    "type": "thermal:pulverizer",
+    "ingredient": {
+      "item": "minecraft:raw_iron"
+    },
+    "result": [
+      {
+        "item": "thermal:iron_dust",
+        "chance": 1
+      },
+      {
+        "item": "thermal:iron_dust",
+        "chance": 0.5,
+        "count": 2
+      },
+      {
+        "item": "thermal:nickel_dust",
+        "chance": 0.1
+      }
+    ],
+    "experience": 0.1
+  }

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iES",
+        "EDE",
+        " i "
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:redstone"
+        },
+        "E": {
+            "item": "thermal:lead_ingot"
+        },
+        "S": {
+            "item": "thermal:tin_gear"
+        },
+        "D": {
+            "item": "thermal:rf_coil"
+        }
+    },
+    "result": {"item": "thermal:flux_capacitor"}
+}

@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "immersive_weathering:bark"
+        }
+    ],
+    "result":
+    {
+        "item": "farmersdelight:tree_bark",
+        "count": 1
+    }
+}

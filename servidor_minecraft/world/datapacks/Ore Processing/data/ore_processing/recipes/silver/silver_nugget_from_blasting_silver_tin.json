@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "thermal:raw_silver"
+    },
+    "result": { 
+        "item":"minecraft:silver_nugget",
+        "count": 3 
+    },
+    "experience": 0.7,
+    "cookingtime": 200
+}

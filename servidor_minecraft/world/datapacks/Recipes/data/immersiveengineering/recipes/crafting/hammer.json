@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " AL",
+        "EOA",
+        "OE "
+    ],
+    "key": {
+        "O": {
+            "item": "immersiveengineering:stick_treated"
+        },
+        "L": {
+            "tag": "forge:string"
+        },
+        "A": {
+            "tag": "forge:ingots/steel"
+        },
+        "E": {
+            "tag": "forge:leather"
+        }
+    },
+    "result": {
+        "item": "immersiveengineering:hammer",
+        "count": 1
+    }
+}

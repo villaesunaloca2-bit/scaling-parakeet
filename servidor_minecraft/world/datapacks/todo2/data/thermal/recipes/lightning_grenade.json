@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S#",
+        "SiS",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gunpowder"
+        },
+        "S": {
+            "item": "thermal:blitz_powder"
+        },
+        "i": {
+            "item": "create:zinc_ingot"
+        }
+    },
+    "result": {
+        "item": "thermal:lightning_grenade",
+        "count": 4
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R#",
+        "UGU",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "thermal:silver_plate"
+        },
+        "R": {
+            "item": "thermal:constantan_gear"
+        },
+        "U": {
+            "item": "thermal:signalum_gear"
+        },
+        "G": {
+            "tag": "thermal:glass/hardened"
+        }
+    },
+    "result": {
+        "item": "thermal:dynamo_fuel_augment",
+        "count": 1
+    }
+}

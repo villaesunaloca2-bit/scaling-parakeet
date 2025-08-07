@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"IAI",
+		"IEI",
+		"ILI"
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"item": "minecraft:chain"},
+		"L": {"item": "minecraft:leather"},
+        "E": {"item": "minecraft:iron_ingot"},
+		"A": {
+            "item": "minecraft:leather_chestplate"
+        }
+	},
+	
+	"result": {"item": "minecraft:chainmail_chestplate"}
+}

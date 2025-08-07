@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"III",
+		"IEI",
+		"IBI"
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"tag": "minecraft:planks"},
+        "E": {"item": "create:gearbox"},
+        "B": {"item": "thermal:bronze_gear"}
+	},
+	
+	"result": {"item": "create:water_wheel"}
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aSc",
+    "abS",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "born_in_chaos_v1:smoldering_infernal_ember"
+    },
+    "S": {
+      "item": "born_in_chaos_v1:holiday_candy"
+    },
+    "b": {
+      "item": "born_in_chaos_v1:staff_of_magic_arrows"
+    },
+    "c": {
+      "item": "born_in_chaos_v1:cultivated_pumpkin"
+    }
+  },
+  "result": {
+    "item": "born_in_chaos_v1:pumpkinstaffa",
+    "count": 1
+  }
+}

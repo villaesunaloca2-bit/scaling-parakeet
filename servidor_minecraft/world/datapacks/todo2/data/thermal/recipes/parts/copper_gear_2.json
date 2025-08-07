@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "I#I",
+        "#H#",
+        "I#I"
+    ],
+    "key": {
+        "#": {
+            "item": "create:copper_sheet"
+        },
+        "H": {
+            "item": "create:andesite_alloy"
+        },
+        "I": {
+            "item": "create:copper_nugget"
+        }
+    },
+    "result": {
+        "item": "thermal:copper_gear",
+        "count": 1
+    }
+}

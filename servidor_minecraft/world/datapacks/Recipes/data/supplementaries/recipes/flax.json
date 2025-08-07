@@ -1,0 +1,28 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "minecraft"
+      }
+    ],
+    "type": "natprog:damage_tools",
+    "ingredients": [
+      {
+        "item": "farmersdelight:straw"
+      },
+      {
+        "item": "farmersdelight:straw"
+      },
+      {
+        "item": "minecraft:string"
+      },
+      {
+        "tag": "forge:tools/knives"
+      }
+    ],
+    "result": {
+      "item": "supplementaries:flax",
+      "count": 4
+    },
+    "group": "planks"
+  }

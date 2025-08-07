@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        " /H",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "item": "immersive_weathering:stone_brick"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "H": {
+            "tag": "supplementaries:ropes"
+        }
+    },
+    "result": {
+        "item": "minecraft:stone_shovel",
+        "count": 1
+    }
+}

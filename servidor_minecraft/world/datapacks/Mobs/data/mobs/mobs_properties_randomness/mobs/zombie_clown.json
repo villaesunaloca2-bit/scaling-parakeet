@@ -1,0 +1,13 @@
+{
+    "target": "born_in_chaos_v1:zombie_clown",
+    "attributes": [
+        {
+            "id": "minecraft:generic.attack_damage",
+            "modifier_name": "Clown Zombie attack damage",
+            "amount": 1.5,
+            "operation": "addition"
+        }
+    ]
+}
+
+

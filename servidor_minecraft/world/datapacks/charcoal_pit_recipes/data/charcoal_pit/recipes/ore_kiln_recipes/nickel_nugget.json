@@ -1,0 +1,14 @@
+{
+  "type": "charcoal_pit:orekiln",
+  "ingredients": [
+    [
+        {
+          "item": "natprog:create_ochrum_pebble"
+        }
+    ]
+  ],
+  "result": {
+    "item": "thermal:nickel_nugget",
+    "count": 1
+  }
+}

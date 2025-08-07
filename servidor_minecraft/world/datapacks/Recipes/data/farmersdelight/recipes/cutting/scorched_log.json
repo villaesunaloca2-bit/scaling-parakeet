@@ -1,0 +1,21 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "item":"born_in_chaos_v1:scorched_log"
+      }
+    ],
+    "tool": {
+      "type": "farmersdelight:tool_action",
+      "action": "axe_strip"
+    },
+    "result": [
+      {
+        "item": "born_in_chaos_v1:scorched_planks"
+      },
+      {
+        "item": "born_in_chaos_v1:scorched_planks"
+      }
+    ],
+    "sound": "minecraft:item.axe.strip"
+  }

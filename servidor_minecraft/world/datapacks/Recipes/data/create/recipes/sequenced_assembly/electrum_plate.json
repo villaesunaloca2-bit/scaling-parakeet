@@ -1,0 +1,75 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "createaddition:electrum_ingot"
+    },
+    "loops": 3,
+    "results": [
+      {
+        "chance": 0.25,
+        "item": "thermal:electrum_plate"
+      },
+      {
+        "chance": 0.75,
+        "item": "createaddition:electrum_nugget",
+        "count": 1
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "createaddition:electrum_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "createaddition:electrum_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "createaddition:electrum_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "createaddition:electrum_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "createaddition:electrum_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "createaddition:electrum_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "createaddition:electrum_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "createaddition:electrum_ingot"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "createaddition:electrum_ingot"    
+    }
+}

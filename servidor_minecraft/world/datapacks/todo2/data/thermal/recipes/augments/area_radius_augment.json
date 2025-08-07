@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R#",
+        "#G#",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "thermal:silver_plate"
+        },
+        "R": {
+            "item": "thermal:tin_gear"
+        },
+        "G": {
+            "item": "thermal:drill_head"
+        }
+    },
+    "result": {
+        "item": "thermal:area_radius_augment",
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        " /H",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "item": "create:zinc_ingot"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "H": {
+            "item": "supplementaries:rope"
+        }
+    },
+    "result": {
+        "item": "create_sa:zinc_shovel",
+        "count": 1
+    }
+}

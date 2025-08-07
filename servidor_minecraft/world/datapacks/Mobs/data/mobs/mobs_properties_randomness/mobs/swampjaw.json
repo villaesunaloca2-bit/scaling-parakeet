@@ -1,0 +1,19 @@
+{
+    "target": "meetyourfight:swampjaw",
+    "attributes": [
+        {
+            "id": "minecraft:generic.attack_damage",
+            "modifier_name": "Swampjaw damage",
+            "amount": -2,
+            "operation": "addition"
+        },
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "Swampjaw health",
+            "amount": 50,
+            "operation": "addition"
+        }
+    ]
+}
+
+

@@ -1,0 +1,12 @@
+{
+    "values": [
+        "thermal:niter_ore",
+        "minecraft:redstone_ore",
+        "thermal:cinnabar_ore",
+        "minecraft:gold_ore",
+        "minecraft:iron_ore",
+        "minecraft:gold_ore",
+        "alexscaves:galena_iron_ore",
+        "alexscaves:guanostone_redstone_ore"
+    ]
+  }

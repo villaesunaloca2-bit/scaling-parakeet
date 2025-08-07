@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[   
+        " C ",
+		"IEI",
+		" B "
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"item": "thermal:lead_gear"},
+        "E": {"item": "create:andesite_casing"},
+        "B": {"item": "create:cogwheel"},
+        "C": {"item": "minecraft:sticky_piston"}
+	},
+	
+	"result": {"item": "create:gantry_carriage"}
+}

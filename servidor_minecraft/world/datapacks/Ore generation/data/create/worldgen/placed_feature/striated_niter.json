@@ -1,0 +1,27 @@
+{
+  "feature": "create:striated_niter",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 15
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "max_inclusive": {
+          "absolute": 498
+        },
+        "min_inclusive": {
+          "absolute": 140
+        }
+      }
+    },
+    {
+      "type": "create:config_filter"
+    }
+  ]
+}

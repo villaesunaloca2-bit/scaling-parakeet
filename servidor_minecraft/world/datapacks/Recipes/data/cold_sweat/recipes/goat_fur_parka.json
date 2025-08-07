@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+        "IAI",
+        " I "
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"item": "cold_sweat:goat_fur"},
+		"A": {
+            "item": "iceandfire:sheep_chestplate"
+        }
+	},
+	
+	"result": {"item": "cold_sweat:goat_fur_parka"}
+}

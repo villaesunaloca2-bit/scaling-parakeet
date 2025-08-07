@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": {
+        "item": "create_sa:copper_shovel"
+    },
+    "addition": {
+        "item": "alloyed:bronze_sheet"
+    },
+    "result": {
+        "item": "iceandfire:copper_shovel"
+    },
+      "template": {
+    "item": "supplementaries:rope"
+  }
+}

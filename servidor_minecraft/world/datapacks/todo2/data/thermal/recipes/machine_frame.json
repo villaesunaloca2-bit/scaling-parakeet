@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "CBC",
+        "#I#"
+    ],
+    "key": {
+        "#": {
+            "item": "thermal:invar_ingot"
+        },
+        "C": {
+            "tag": "forge:glass"
+        },
+        "B": {
+            "item": "thermal:invar_gear"
+        },
+        "I": {
+            "item": "thermal:rf_coil"
+        }
+    },
+    "result": {"item":"thermal:machine_frame"}
+}

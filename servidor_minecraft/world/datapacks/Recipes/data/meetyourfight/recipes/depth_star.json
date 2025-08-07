@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"DID",
+		"ITI",
+		" B "
+	],
+	"key": {
+		"B": { "tag": "forge:bones" },
+		"I": { "tag": "forge:ingots/iron" },
+        "D": { "item": "born_in_chaos_v1:pieceofdarkmetal" },
+		"T": { "item": "meetyourfight:mossy_tooth" }
+	},
+	"result": { "item": "meetyourfight:depth_star" }
+}

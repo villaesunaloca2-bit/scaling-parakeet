@@ -1,0 +1,58 @@
+{
+    "target": "born_in_chaos_v1:restless_spirit",
+    "attributes": [
+        {
+            "id": "minecraft:generic.attack_damage",
+            "modifier_name": "Restless Spirit attack damage",
+            "amount": 3,
+            "operation": "addition"
+        },
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "Restless Spirit health",
+            "amount": 24,
+            "operation": "addition"
+        }
+    ],
+    "events": {
+        "on_attack": [
+            {
+                "target": "other",
+                "potion_effects": [
+                    {
+                        "id": "born_in_chaos_v1:cursed_mark",
+                        "amplifier": 0,
+                        "duration": 180
+                    }
+                ]
+            },
+            {
+                "target": "other",
+                "potion_effects": [
+                    {
+                        "id": "minecraft:wither",
+                        "amplifier": 0,
+                        "duration": 12
+                    },
+                    {
+                        "id": "minecraft:weakness",
+                        "amplifier": 0,
+                        "duration": 240
+                    }
+                ]
+            },
+            {
+                "target": "this",
+                "potion_effects": [
+                    {
+                        "id": "minecraft:instant_damage",
+                        "amplifier": 0,
+                        "duration": 1
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+

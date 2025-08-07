@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[   
+        "CBC",
+		"BIB",
+		"CEC"
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"item": "thermal:bronze_gear"},
+        "E": {"item": "create:copper_casing"},
+        "B": {"item": "thermal:hazmat_fabric"},
+        "C": {"item": "minecraft:copper_ingot"}
+	},
+	
+	"result": {"item": "destroy:centrifuge"}
+}

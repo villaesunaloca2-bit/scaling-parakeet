@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LL ",
+        "OO "
+    ],
+    "key": {
+        "O": {
+            "tag": "forge:nuggets/iron"
+        },
+        "L": {
+            "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "item": "minecraft:crafting_table",
+        "count": 1
+    }
+}

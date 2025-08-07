@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "thermal:nickel_plate"
+      }
+    ],
+    "processingTime": 400,
+    "results": [
+      {
+        "item": "thermal:nickel_gear",
+        "chance": 0.9
+      }
+    ]
+  }

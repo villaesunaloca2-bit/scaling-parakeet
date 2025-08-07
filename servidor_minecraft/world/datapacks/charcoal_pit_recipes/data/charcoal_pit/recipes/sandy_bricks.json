@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LLO",
+        "LL "
+    ],
+    "key": {
+        "O": {
+            "item": "supplementaries:daub"
+        },
+        "L": {
+            "item": "charcoal_pit:sandy_brick_item"
+        }
+    },
+    "result": {
+        "item": "charcoal_pit:sandy_brick",
+        "count": 1
+    }
+}

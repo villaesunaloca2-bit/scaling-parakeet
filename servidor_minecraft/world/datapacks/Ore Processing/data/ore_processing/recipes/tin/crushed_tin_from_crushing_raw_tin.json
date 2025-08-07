@@ -1,0 +1,28 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "thermal:raw_tin"
+      }
+    ],
+    "results": [
+      {
+        "item": "create:crushed_raw_tin"
+      },
+      {
+        "item": "create:crushed_raw_tin",
+        "chance": 0.5,
+        "count": 3
+      },
+      {
+        "item": "create:crushed_raw_tin",
+        "chance": 0.25,
+        "count": 2
+    },
+      {
+        "item": "create:experience_nugget",
+        "chance": 0.75
+      }
+    ],
+    "processingTime": 400
+  }

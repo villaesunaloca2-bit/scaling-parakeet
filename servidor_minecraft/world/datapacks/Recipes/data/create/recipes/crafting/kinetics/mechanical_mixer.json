@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" C ",
+		"EIE",
+		" B "
+	],
+	
+	
+	
+	"key":
+	{
+		"I": {"item": "create:andesite_casing"},
+        "E": {"item": "thermal:bronze_gear"},
+        "B": {"item": "create:whisk"},
+        "C": {"item": "create:cogwheel"}
+	},
+	
+	"result": {"item": "create:mechanical_mixer"}
+}

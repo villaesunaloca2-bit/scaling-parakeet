@@ -1,0 +1,31 @@
+{
+    "target": "enemyexpansion:tarantula",
+    "attributes": [
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "Tarantula health",
+            "amount": 4,
+            "operation": "addition"
+        }
+    ],
+    "events": {
+        "on_attack": [
+            {
+                "target": "other",
+                "chance": 0.5,
+                "potion_effects": [
+                    {
+                        "id": "illageandspillage:webbed",
+                        "amplifier": 0,
+                        "duration": {
+                            "min": 2,
+                            "max": 5
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+

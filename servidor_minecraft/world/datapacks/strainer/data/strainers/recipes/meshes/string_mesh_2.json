@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LSL",
+    "SMS",
+    "LSL"
+  ],
+  "key": {
+    "L": {
+      "tag": "forge:rods/wooden"
+    },
+    "S": {
+      "tag": "supplementaries:ropes"
+    },
+    "M": {
+      "item": "farmersdelight:safety_net"
+    }
+  },
+  "result": {
+    "item": "strainers:string_mesh"
+  }
+}

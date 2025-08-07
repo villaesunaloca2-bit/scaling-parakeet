@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "storagedrawers:cherry_trim"
+    },
+    "result": "storagedrawers:cherry_full_drawers_4",
+    "count": 1
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " G ",
+    "ICI",
+    "IHI"
+  ],
+  "key":
+  {
+    "I":
+    {
+      "item": "thermal:silver_plate"
+    },
+    "G":
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    "H":
+    {
+      "item": "minecraft:heart_of_the_sea"
+    },
+    "C":
+    {
+      "item": "meetyourfight:phantoplasm"
+    }
+  },
+  "result": {
+    "item": "cold_sweat:soulspring_lamp",
+    "count": 1,
+    "nbt": {
+      "Fuel": 64
+    }
+  }
+}

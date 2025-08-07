@@ -1,0 +1,50 @@
+{
+    "target": "born_in_chaos_v1:zombie_bruiser",
+    "attributes": [
+        {
+            "id": "minecraft:generic.armor",
+            "modifier_name": "Zombie Bruiser armor",
+            "amount": 2,
+            "operation": "addition"
+        },
+        {
+            "id": "minecraft:generic.attack_damage",
+            "modifier_name": "Zombie Bruiser damage",
+            "amount": 4,
+            "operation": "addition"
+        },
+        {
+            "id": "minecraft:generic.knockback_resistance",
+            "modifier_name": "Zombie Bruiser knockback resistance",
+            "amount": 0.1,
+            "operation": "addition"
+        }
+    ],
+    "events": {
+        "on_attack": [
+            {
+                "target": "other",
+                "potion_effects": [
+                    {
+                        "id": "born_in_chaos_v1:stun",
+                        "amplifier": 0,
+                        "duration": 3
+                    }
+                ]
+            },
+            {
+                "target": "other",
+                "chance": 0.5,
+                "potion_effects": [
+                    {
+                        "id": "born_in_chaos_v1:bone_fracture",
+                        "amplifier": 0,
+                        "duration": 30
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+

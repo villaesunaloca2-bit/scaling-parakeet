@@ -1,0 +1,43 @@
+{
+    "target": "meetyourfight:bellringer",
+    "events": {
+        "on_damaged": [
+            {
+                "target": "this",
+                "damage_type": "indirect",
+                "health_left": {
+                    "min": 0,
+                    "max": 0.5
+                },
+                "chance": 1,
+                "potion_effects": [
+                    {
+                        "id": "minecraft:resistance",
+                        "amplifier": 3,
+                        "duration": 20
+                    }
+                ]
+            },
+            {
+                "target": "this",
+                "health_left": {
+                "min": 0,
+                "max": 0.5
+                },
+                "chance": 1,
+                "potion_effects": [
+                    {
+                        "id": "alexsmobs:soulsteal",
+                        "amplifier": 5,
+                        "health_left": {
+                            "min": 0,
+                            "max": 0.5
+                        },
+                        "ambient": true
+                    }
+                ]
+            }
+        ]
+    }
+}
+

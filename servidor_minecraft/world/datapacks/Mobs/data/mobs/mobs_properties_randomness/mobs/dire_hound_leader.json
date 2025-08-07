@@ -1,0 +1,40 @@
+{
+    "target": "born_in_chaos_v1:dire_hound_leader",
+    "attributes": [
+        {
+            "id": "minecraft:generic.armor",
+            "modifier_name": "Dire Hound Leader armor",
+            "amount": 3,
+            "operation": "addition"
+        }
+    ],
+    "equipment": {
+        "chest": {
+            "items": [
+                {
+                    "id": "minecraft:iron_chestplate",
+                    "drop_chance": 0,
+                    "enchantments": [
+                        {
+                            "id": "minecraft:projectile_protection",
+                            "level": 3
+                        },
+                        {
+                            "id": "minecraft:unbreaking",
+                            "level": 100
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "potion_effects": [
+        {
+            "id": "minecraft:regeneration",
+            "amplifier": 0,
+            "ambient": true
+        }
+    ]
+}
+
+

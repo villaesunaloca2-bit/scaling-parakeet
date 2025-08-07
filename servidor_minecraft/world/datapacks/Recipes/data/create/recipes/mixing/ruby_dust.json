@@ -1,0 +1,65 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "thermal:emerald_dust"
+      },
+      {
+        "item": "thermal:emerald_dust"
+      },
+      {
+        "item": "thermal:emerald_dust"
+      },
+      {
+        "item": "thermal:emerald_dust"
+      },
+      {
+        "item": "thermal:emerald_dust"
+      },
+      {
+        "item": "thermal:emerald_dust"
+      },
+      {
+        "item": "thermal:emerald_dust"
+      },
+      {
+        "item": "thermal:emerald_dust"
+      },
+      {
+        "item": "thermal:cinnabar_dust"
+      },
+      {
+        "item": "thermal:cinnabar_dust"
+      },
+      {
+        "item": "thermal:cinnabar_dust"
+      },
+      {
+        "item": "thermal:cinnabar_dust"
+      },
+      {
+        "item": "born_in_chaos_v1:spiritual_dust"
+      },
+      {
+        "item": "born_in_chaos_v1:spiritual_dust"
+      },
+      {
+        "item": "born_in_chaos_v1:spiritual_dust"
+      },
+      {
+        "item": "born_in_chaos_v1:spiritual_dust"
+      },
+      {
+        "item": "born_in_chaos_v1:spiritual_dust"
+      },
+      {
+        "item": "born_in_chaos_v1:spiritual_dust"
+      }
+    ],
+    "results": [
+      {
+        "item": "thermal:ruby_dust",
+        "count": 1
+      }
+    ]
+  }

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " AO",
+        " S ",
+        "SSS"
+    ],
+    "key": {
+        "O": {
+            "item": "farmersdelight:canvas"
+        },
+        "A": {
+            "tag": "forge:coal_coke"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "hardcore_torches:unlit_torch",
+        "count": 8
+    }
+}

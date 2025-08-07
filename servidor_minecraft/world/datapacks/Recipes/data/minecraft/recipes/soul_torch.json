@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "minecraft:soul_fire_base_blocks"
+        },
+        {
+            "item": "minecraft:torch"
+        }
+    ],
+    "result":
+    {
+        "item": "minecraft:soul_torch",
+        "count": 1
+    }
+}
