@@ -73,13 +73,16 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-08-07 23:51:01 +0000",
       "shrubland": "2025-08-04 01:06:34 +0000",
       "autumnal_maple_forest": "2025-08-04 00:30:55 +0000",
       "muddy_river": "2025-08-04 00:56:13 +0000",
       "redstone_caves": "2025-08-07 20:05:09 +0000",
+      "highland_fields": "2025-08-08 02:53:08 +0000",
       "maple_forest": "2025-08-04 00:54:21 +0000",
       "boreal_forest": "2025-08-04 02:42:38 +0000",
       "temperate_grove": "2025-08-04 00:56:27 +0000",
+      "pumpkin_fields": "2025-08-08 02:30:34 +0000",
       "pine_slopes": "2025-08-04 02:28:40 +0000",
       "icy_heights": "2025-08-04 02:29:59 +0000"
     },
@@ -87,12 +90,15 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-08-07 23:51:01 +0000",
       "shrubland": "2025-08-04 01:06:34 +0000",
       "autumnal_maple_forest": "2025-08-04 00:30:55 +0000",
       "muddy_river": "2025-08-04 00:56:13 +0000",
+      "highland_fields": "2025-08-08 02:53:08 +0000",
       "maple_forest": "2025-08-04 00:54:21 +0000",
       "boreal_forest": "2025-08-04 02:42:38 +0000",
       "temperate_grove": "2025-08-04 00:56:27 +0000",
+      "pumpkin_fields": "2025-08-08 02:30:34 +0000",
       "pine_slopes": "2025-08-04 02:28:40 +0000",
       "icy_heights": "2025-08-04 02:29:59 +0000"
     },
@@ -827,9 +833,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-08-08 02:49:35 +0000",
       "minecraft:river": "2025-08-04 00:56:15 +0000",
       "minecraft:swamp": "2025-08-04 00:56:40 +0000",
-      "minecraft:meadow": "2025-08-07 22:56:42 +0000"
+      "minecraft:grove": "2025-08-07 23:50:17 +0000",
+      "minecraft:meadow": "2025-08-07 22:56:42 +0000",
+      "minecraft:plains": "2025-08-08 02:29:27 +0000"
     },
     "done": false
   },
@@ -1550,10 +1559,13 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-08-04 02:38:22 +0000",
+      "cooked_mutton": "2025-08-08 02:27:53 +0000",
       "beef": "2025-08-04 02:21:35 +0000",
       "porkchop": "2025-08-04 02:13:56 +0000",
       "mutton": "2025-08-04 01:23:15 +0000",
-      "rotten_flesh": "2025-08-04 01:28:05 +0000"
+      "rotten_flesh": "2025-08-04 01:28:05 +0000",
+      "cooked_chicken": "2025-08-08 02:43:27 +0000",
+      "carrot": "2025-08-08 02:43:20 +0000"
     },
     "done": false
   },
@@ -2932,30 +2944,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2025-08-07 23:01:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-08-07 23:01:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-07 23:01:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-08-07 23:01:22 +0000"
-    },
-    "done": true
-  },
   "createbigcannons:recipes/misc/wrought_iron_cannon_chamber": {
     "criteria": {
       "has_gunpowder": "2025-08-07 23:01:21 +0000"
@@ -2974,27 +2962,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-08-07 23:01:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-08-07 23:01:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-08-07 23:01:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/blindfold": {
-    "criteria": {
-      "has_item": "2025-08-07 23:01:22 +0000"
     },
     "done": true
   },
@@ -3016,18 +2986,6 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/conveyor_basic": {
-    "criteria": {
-      "has_leather": "2025-08-07 23:01:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-08-07 23:01:41 +0000"
-    },
-    "done": true
-  },
   "createbigcannons:recipes/misc/wrought_iron_drop_mortar_end_mirrored": {
     "criteria": {
       "has_gunpowder": "2025-08-07 23:01:21 +0000"
@@ -3040,21 +2998,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-07 23:01:42 +0000"
-    },
-    "done": true
-  },
   "createbigcannons:recipes/misc/wrought_iron_cannon_end": {
     "criteria": {
       "has_gunpowder": "2025-08-07 23:01:21 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-07 23:01:42 +0000"
     },
     "done": true
   },
@@ -3088,12 +3034,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-08-07 23:01:22 +0000"
-    },
-    "done": true
-  },
   "createbigcannons:recipes/misc/gunpowder_pinch": {
     "criteria": {
       "has_gunpowder": "2025-08-07 23:01:21 +0000"
@@ -3106,21 +3046,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_leggings": {
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-07 23:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-08-07 23:01:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
+  "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
-      "has_potato": "2025-08-07 23:01:41 +0000"
+      "has_leather": "2025-08-07 23:01:22 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
+  "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
-      "has_any_ingredient": "2025-08-07 23:01:42 +0000"
+      "has_leather": "2025-08-07 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-07 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-08-07 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2025-08-07 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-07 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-07 23:01:22 +0000"
     },
     "done": true
   },
@@ -3130,21 +3106,33 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-07 23:01:42 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/powerpack": {
     "criteria": {
       "has_leather": "2025-08-07 23:01:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
-      "has_carrot": "2025-08-07 23:01:42 +0000"
+      "has_any_ingredient": "2025-08-07 23:01:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-07 23:01:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-07 23:01:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-07 23:01:41 +0000"
     },
     "done": true
   },
@@ -3154,9 +3142,363 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
-      "has_gunpowder": "2025-08-07 23:01:21 +0000"
+      "has_any_ingredient": "2025-08-07 23:01:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-07 23:01:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-07 23:01:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-07 23:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-07 23:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-08-07 23:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-08-07 23:54:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_item": "2025-08-07 23:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-07 23:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-08-07 23:54:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-07 23:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-07 23:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-08-07 23:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-08-07 23:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-07 23:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-07 23:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-08-08 00:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-08-08 00:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-08-08 00:00:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-08-08 00:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-08-08 00:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-08-08 00:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-08-08 00:00:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-08 02:20:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-08-08 02:20:03 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-08-08 02:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-08-08 02:30:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-08-08 02:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-08-08 02:21:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-08-08 02:49:08 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-08 02:29:58 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-08 02:49:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-08-08 02:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-08 02:20:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-08-08 02:30:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-08 02:20:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-08 02:37:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-08-08 02:49:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
+    "criteria": {
+      "has_tassel": "2025-08-08 02:43:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-08-08 02:37:46 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/smoke_shell": {
+    "criteria": {
+      "has_hay_block": "2025-08-08 03:00:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-08-08 03:00:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_brick_slab": "2025-08-08 02:57:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-08 02:49:08 +0000"
+    },
+    "done": true
+  },
+  "natprog:knap_bone_shard": {
+    "criteria": {
+      "get_bone_shard": "2025-08-08 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2025-08-08 02:21:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-08-08 02:27:45 +0000"
+    },
+    "done": true
+  },
+  "natprog:craft_bone_pick": {
+    "criteria": {
+      "get_bone_pickaxe": "2025-08-08 02:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-08 02:21:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-08 02:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-08 02:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-08 02:30:36 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-08-08 03:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-08-08 02:30:38 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-08-08 02:18:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-08-08 02:20:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-08 02:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-08 03:00:13 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-08 02:29:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-08-08 02:49:08 +0000"
     },
     "done": true
   },

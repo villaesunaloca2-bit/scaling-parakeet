@@ -1149,6 +1149,7 @@
     "criteria": {
       "cooked_porkchop": "2025-08-07 04:26:26 +0000",
       "chicken": "2025-08-04 00:51:13 +0000",
+      "cooked_mutton": "2025-08-08 02:27:30 +0000",
       "sweet_berries": "2025-08-07 23:08:27 +0000",
       "beef": "2025-08-04 00:52:45 +0000",
       "porkchop": "2025-08-04 00:41:59 +0000",
@@ -1157,6 +1158,7 @@
       "glow_berries": "2025-08-07 03:58:01 +0000",
       "salmon": "2025-08-07 03:55:38 +0000",
       "melon_slice": "2025-08-07 04:10:52 +0000",
+      "cooked_chicken": "2025-08-08 02:32:57 +0000",
       "carrot": "2025-08-04 04:07:07 +0000"
     },
     "done": false
@@ -1702,7 +1704,8 @@
       "minecraft:dripstone_caves": "2025-08-04 03:17:50 +0000",
       "minecraft:swamp": "2025-08-04 01:45:50 +0000",
       "minecraft:lush_caves": "2025-08-07 03:57:50 +0000",
-      "minecraft:meadow": "2025-08-07 04:09:44 +0000"
+      "minecraft:meadow": "2025-08-07 04:09:44 +0000",
+      "minecraft:plains": "2025-08-08 02:29:32 +0000"
     },
     "done": false
   },
@@ -3744,12 +3747,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
-    "criteria": {
-      "has_sweet_berries": "2025-08-07 23:01:44 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_onion": "2025-08-07 22:40:33 +0000"
@@ -3762,33 +3759,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-08-07 23:02:50 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "onion": "2025-08-07 22:40:33 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
-    "criteria": {
-      "has_white_trillium": "2025-08-07 22:42:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-08-07 23:02:50 +0000"
-    },
-    "done": true
-  },
-  "brewinandchewin:recipes/cooking/sweet_berry_jam": {
-    "criteria": {
-      "has_sweet_berries": "2025-08-07 23:01:44 +0000"
     },
     "done": true
   },
@@ -3798,15 +3771,111 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-08-07 22:40:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
+    "criteria": {
+      "has_white_trillium": "2025-08-07 22:42:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-08-07 23:01:44 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/cooking/sweet_berry_jam": {
+    "criteria": {
+      "has_sweet_berries": "2025-08-07 23:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-08-07 23:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-08-07 23:02:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-08-07 23:02:50 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
-      "has_onion": "2025-08-07 22:40:33 +0000"
+      "has_mutton": "2025-08-08 00:01:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-08-08 00:01:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-08-08 00:01:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-08 00:02:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-08 00:02:38 +0000"
+    },
+    "done": true
+  },
+  "natprog:knap_bone_shard": {
+    "criteria": {
+      "get_bone_shard": "2025-08-08 00:09:31 +0000"
+    },
+    "done": true
+  },
+  "natprog:craft_bone_pick": {
+    "criteria": {
+      "get_bone_pickaxe": "2025-08-08 02:20:16 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-08-08 02:35:21 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-08 03:14:59 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-08 03:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-08-08 03:33:59 +0000"
     },
     "done": true
   },
