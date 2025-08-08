@@ -4979,3 +4979,28 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08Aug2025 23:39:02.970] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.61176872253418) to VERY_LOW (avg. 16.745624542236328)
 [08Aug2025 23:41:10.481] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.261955261230469) to LOW (avg. 25.370365142822266)
 [08Aug2025 23:41:17.970] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.370365142822266) to VERY_LOW (avg. 16.018009185791016)
+[08Aug2025 23:44:02.970] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.531238555908203) to LOW (avg. 20.393362045288086)
+[08Aug2025 23:44:06.688] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[08Aug2025 23:44:40.470] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.173961639404297) to VERY_LOW (avg. 16.62137794494629)
+[08Aug2025 23:45:17.970] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.35330581665039) to NORMAL (avg. 43.64533615112305)
+[08Aug2025 23:45:25.646] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.64533615112305) to LOW (avg. 29.008981704711914)
+[08Aug2025 23:45:40.470] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.008981704711914) to VERY_LOW (avg. 18.24378204345703)
+[08Aug2025 23:46:59.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zack_201 lost connection: Disconnected
+[08Aug2025 23:46:59.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 left the game
+[08Aug2025 23:46:59.655] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zack_201
+[08Aug2025 23:52:30.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zack_201[/127.74.115.109:44173] logged in with entity id 2591 at (-308.23228078065296, 151.4375, -648.8337749809511)
+[08Aug2025 23:52:30.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 joined the game
+[08Aug2025 23:52:31.014] [Server thread/INFO] [APTweaks(Player)/]: Player Zack_201 ServerPlayer['Zack_201'/2591, l='ServerLevel[world]', x=-308.23, y=151.44, z=-648.83] logged in and will be protected for 90 secs.
+[08Aug2025 23:52:31.794] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player zack_201 has successfully logged in.
+[08Aug2025 23:52:31.803] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zack_201 (18)
+[08Aug2025 23:52:31.804] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zack_201
+[08Aug2025 23:52:32.989] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 0.5070213079452515) to LOW (avg. 30.420345306396484)
+[08Aug2025 23:52:40.470] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.420345306396484) to VERY_LOW (avg. 16.368986129760742)
+[08Aug2025 23:52:58.127] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3fa830de-284c-3e51-b197-89bb104c814a
+[08Aug2025 23:52:59.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3fa830de-284c-3e51-b197-89bb104c814a
+[08Aug2025 23:52:59.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zack_201 (3fa830de-284c-3e51-b197-89bb104c814a) successfully connected to voice chat
+[08Aug2025 23:53:00.870] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Zack_201 was successful validated after 29 secs.
+[08Aug2025 23:53:00.871] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Zack_201!
+[08Aug2025 23:53:04.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zack_201 lost connection: Disconnected
+[08Aug2025 23:53:04.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 left the game
+[08Aug2025 23:53:04.433] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zack_201
