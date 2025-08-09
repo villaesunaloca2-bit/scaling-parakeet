@@ -74,10 +74,13 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2025-08-07 22:17:24 +0000",
+      "shrubland": "2025-08-09 02:01:05 +0000",
       "pine_taiga": "2025-08-07 22:28:42 +0000",
+      "bayou": "2025-08-09 03:26:51 +0000",
       "autumnal_maple_forest": "2025-08-06 23:28:44 +0000",
       "prismachasm": "2025-08-07 22:26:16 +0000",
       "ancient_delta": "2025-08-07 22:13:46 +0000",
+      "willow_forest": "2025-08-09 03:19:55 +0000",
       "frozen_tundra": "2025-08-07 03:46:53 +0000",
       "rocky_reef": "2025-08-08 03:54:39 +0000",
       "poppy_fields": "2025-08-07 03:22:44 +0000",
@@ -88,20 +91,25 @@
       "maple_forest": "2025-08-06 23:29:17 +0000",
       "magnolia_highlands": "2025-08-08 03:57:31 +0000",
       "mountains": "2025-08-07 22:17:40 +0000",
+      "towering_cliffs": "2025-08-09 03:34:38 +0000",
       "chalk_cliffs": "2025-08-08 03:55:13 +0000",
       "temperate_grove": "2025-08-07 22:32:46 +0000",
       "cold_river": "2025-08-06 23:43:26 +0000",
       "pumpkin_fields": "2025-08-07 00:23:31 +0000",
       "pine_slopes": "2025-08-08 03:46:59 +0000",
-      "redwoods": "2025-08-07 22:30:19 +0000"
+      "redwoods": "2025-08-07 22:30:19 +0000",
+      "lupine_plains": "2025-08-09 03:08:57 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2025-08-07 22:17:24 +0000",
+      "shrubland": "2025-08-09 02:01:05 +0000",
       "pine_taiga": "2025-08-07 22:28:42 +0000",
+      "bayou": "2025-08-09 03:26:51 +0000",
       "autumnal_maple_forest": "2025-08-06 23:28:44 +0000",
+      "willow_forest": "2025-08-09 03:19:55 +0000",
       "frozen_tundra": "2025-08-07 03:46:53 +0000",
       "rocky_reef": "2025-08-08 03:54:39 +0000",
       "poppy_fields": "2025-08-07 03:22:44 +0000",
@@ -112,12 +120,14 @@
       "maple_forest": "2025-08-06 23:29:17 +0000",
       "magnolia_highlands": "2025-08-08 03:57:31 +0000",
       "mountains": "2025-08-07 22:17:40 +0000",
+      "towering_cliffs": "2025-08-09 03:34:38 +0000",
       "chalk_cliffs": "2025-08-08 03:55:13 +0000",
       "temperate_grove": "2025-08-07 22:32:46 +0000",
       "cold_river": "2025-08-06 23:43:26 +0000",
       "pumpkin_fields": "2025-08-07 00:23:31 +0000",
       "pine_slopes": "2025-08-08 03:46:59 +0000",
-      "redwoods": "2025-08-07 22:30:19 +0000"
+      "redwoods": "2025-08-07 22:30:19 +0000",
+      "lupine_plains": "2025-08-09 03:08:57 +0000"
     },
     "done": false
   },
@@ -1349,7 +1359,9 @@
       "cooked_porkchop": "2025-08-08 02:35:39 +0000",
       "apple": "2025-08-08 01:17:04 +0000",
       "cooked_cod": "2025-08-08 01:32:48 +0000",
+      "pumpkin_pie": "2025-08-09 03:43:27 +0000",
       "cookie": "2025-08-08 04:37:55 +0000",
+      "melon_slice": "2025-08-09 02:09:44 +0000",
       "cooked_chicken": "2025-08-07 00:34:43 +0000"
     },
     "done": false
@@ -2292,7 +2304,11 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "red_mushroom": "2025-08-07 04:06:46 +0000"
+      "onion": "2025-08-09 02:11:36 +0000",
+      "sweet_berries": "2025-08-09 02:17:12 +0000",
+      "sugar_cane": "2025-08-09 02:24:00 +0000",
+      "red_mushroom": "2025-08-07 04:06:46 +0000",
+      "wheat": "2025-08-09 02:15:51 +0000"
     },
     "done": false
   },
@@ -4628,6 +4644,426 @@
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-08-09 01:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-09 02:10:20 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/cooking/tea_curry": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-09 02:11:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-08-09 02:11:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-09 02:11:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-09 02:11:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-09 02:11:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-08-09 02:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "supplementaries:flax": "2025-08-09 02:14:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-08-09 02:16:41 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/cooking/sweet_berry_jam": {
+    "criteria": {
+      "has_sweet_berries": "2025-08-09 02:16:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-09 02:28:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-08-09 02:28:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-08-09 02:28:56 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/cocoa_fudge": {
+    "criteria": {
+      "has_cocoa_beans": "2025-08-09 02:28:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-08-09 02:29:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2025-08-09 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-08-09 02:29:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
+    "criteria": {
+      "has_milk_bottle": "2025-08-09 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+    "criteria": {
+      "has_milk_bottle": "2025-08-09 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/apple_pie": {
+    "criteria": {
+      "has_pie_crust": "2025-08-09 02:32:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chocolate_pie": {
+    "criteria": {
+      "has_pie_crust": "2025-08-09 02:32:32 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/food/quiche_from_bacon": {
+    "criteria": {
+      "has_crust": "2025-08-09 02:32:32 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/food/rose_hip_pie": {
+    "criteria": {
+      "has_pie_crust": "2025-08-09 02:32:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cheesecake": {
+    "criteria": {
+      "has_pie_crust": "2025-08-09 02:32:32 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/food/quiche_from_mushroom": {
+    "criteria": {
+      "has_crust": "2025-08-09 02:32:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-08-09 02:33:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_sugar": "2025-08-09 02:33:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-09 02:34:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-09 02:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-08-09 02:47:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-08-09 02:47:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-08-09 02:47:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_button": {
+    "criteria": {
+      "has_magnolia_planks": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-09 03:59:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/magnolia_window": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/hollow_magnolia_log": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_trapdoor": {
+    "criteria": {
+      "has_magnolia_planks": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_fence": {
+    "criteria": {
+      "has_magnolia_planks": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2025-08-09 03:33:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2025-08-09 03:38:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-08-09 03:59:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_magnolia": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/magnolia_trapped_chest": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/regions_unexplored/magnolia_cabinet": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/magnolia_ladder": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/magnolia_half_drawers_2": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/magnolia_half_drawers_1": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/magnolia_half_drawers_4": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/hollow_magnolia_log": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/magnolia_bookshelf": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/vertical_magnolia_planks": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_sign": {
+    "criteria": {
+      "has_magnolia_planks": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/magnolia_full_drawers_4": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/magnolia_full_drawers_1": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/magnolia_full_drawers_2": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/magnolia_trim": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/regions_unexplored/magnolia_backpack_shelf": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_fence_gate": {
+    "criteria": {
+      "has_magnolia_planks": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/magnolia_window_pane": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_slab": {
+    "criteria": {
+      "has_magnolia_planks": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/magnolia_vertical_slab_revert": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/magnolia_banister": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-09 03:59:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_stairs": {
+    "criteria": {
+      "has_magnolia_planks": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_door": {
+    "criteria": {
+      "has_magnolia_planks": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/stripped_magnolia_post": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/magnolia_chest": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_pressure_plate": {
+    "criteria": {
+      "has_magnolia_planks": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/magnolia_vertical_slab": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/magnolia_post": {
+    "criteria": {
+      "has_item": "2025-08-09 03:16:03 +0000"
     },
     "done": true
   },
