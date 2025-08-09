@@ -85,3 +85,22 @@
 [09Aug2025 00:26:10.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToxicElah left the game
 [09Aug2025 00:26:10.837] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ToxicElah
 [09Aug2025 00:26:25.470] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.21320915222168) to VERY_LOW (avg. 14.840301513671875)
+[09Aug2025 00:28:35.784] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[09Aug2025 00:30:25.470] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.953054428100586) to LOW (avg. 22.434932708740234)
+[09Aug2025 00:30:32.970] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.434932708740234) to VERY_LOW (avg. 16.402984619140625)
+[09Aug2025 00:31:57.821] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToxicElah[/127.65.248.166:45997] logged in with entity id 6300 at (-298.06500692581, 148.9375, -644.5245489484586)
+[09Aug2025 00:31:57.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToxicElah joined the game
+[09Aug2025 00:31:57.900] [Server thread/INFO] [APTweaks(Player)/]: Player ToxicElah ServerPlayer['ToxicElah'/6300, l='ServerLevel[world]', x=-298.07, y=148.94, z=-644.52] logged in and will be protected for 90 secs.
+[09Aug2025 00:31:59.110] [Netty Epoll Server IO #4/INFO] [simplelogin/]: Player toxicelah has successfully logged in.
+[09Aug2025 00:31:59.118] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ToxicElah (18)
+[09Aug2025 00:31:59.118] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ToxicElah
+[09Aug2025 00:32:01.739] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[09Aug2025 00:32:02.970] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.321523666381836) to LOW (avg. 21.493614196777344)
+[09Aug2025 00:32:10.470] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.493614196777344) to VERY_LOW (avg. 17.885271072387695)
+[09Aug2025 00:32:12.522] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d76394e-1016-3784-baa8-6080ae2cb123
+[09Aug2025 00:32:20.420] [Server thread/INFO] [APTweaks(Player)/]: Protected Player ToxicElah was successful validated after 22 secs.
+[09Aug2025 00:32:20.420] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player ToxicElah!
+[09Aug2025 00:33:57.583] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[09Aug2025 00:35:40.470] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.64565086364746) to LOW (avg. 21.67180061340332)
+[09Aug2025 00:35:47.988] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[09Aug2025 00:36:02.970] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.733016967773438) to VERY_LOW (avg. 16.823137283325195)
