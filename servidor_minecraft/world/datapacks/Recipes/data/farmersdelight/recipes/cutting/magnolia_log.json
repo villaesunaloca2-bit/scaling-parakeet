@@ -2,7 +2,7 @@
     "type": "farmersdelight:cutting",
     "ingredients": [
       {
-        "tag": "regions_unexplored:magnolia_logs_item"
+        "tag": "regions_unexplored:baobab_logs"
       }
     ],
     "tool": {

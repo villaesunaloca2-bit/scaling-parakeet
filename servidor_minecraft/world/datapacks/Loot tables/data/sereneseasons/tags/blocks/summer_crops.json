@@ -24,6 +24,8 @@
 	"minecraft:melon_stem",
 	"minecraft:beetroots",
 	"minecraft:cocoa",
+	"dynamictrees:cocoa",
+	"dtalexsmobs:banana",
 	"supplementaries:flax"
   ]
 }

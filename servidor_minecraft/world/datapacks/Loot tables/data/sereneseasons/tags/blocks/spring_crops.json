@@ -19,7 +19,6 @@
 	"minecraft:weeping_vines_plant",
 	"minecraft:seagrass",
 	"minecraft:sea_pickle",
-	"minecraft:sweet_berry_bush",
 	"minecraft:sugar_cane",
 	"minecraft:grass_block",
 	"minecraft:grass",
@@ -81,6 +80,7 @@
 	"biomemakeover:swamp_cypress_sapling",
 	"biomemakeover:willow_sapling",
 	"biomemakeover:blighted_balsa_sapling",
-	"thermal:rubberwood_sapling"
+	"thermal:rubberwood_sapling",
+	"dynamictrees:apple"
   ]
 }

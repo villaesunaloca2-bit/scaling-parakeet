@@ -10,7 +10,7 @@
 		can_spawn_min = 900
 		#Maximum time between spawns in seconds
 		#Range: 0 ~ 86400
-		can_spawn_max = 54000
+		can_spawn_max = 36000
 		#Chance for a spawn cooldown to occur
 		#Range: 0.0 ~ 1.0
 		can_spawn_cooldown_chance = 0.05

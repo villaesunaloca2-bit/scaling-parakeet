@@ -168,12 +168,12 @@
 		"create_sa:zinc_shovel" = 199
 		"create_sa:zinc_hoe" = 199
 		"create_things_and_misc:zinc_knife" = 199
-		"minecraft:golden_pickaxe" = 160
+		"minecraft:golden_pickaxe" = 250
 		"minecraft:golden_sword" = 250
 		"minecraft:golden_axe" = 250
 		"minecraft:golden_shovel" = 250
 		"minecraft:golden_hoe" = 250
-		"farmersdelight:gold_knife" = 250
+		"farmersdelight:golden_knife" = 250
 		"natprog:gold_saw" = 250
 		"minecraft:iron_pickaxe" = 350
 		"minecraft:iron_sword" = 350
@@ -297,7 +297,7 @@
 			"irons_spellbooks:wandering_magician_helmet" = 2
 			"irons_spellbooks:wandering_magician_chestplate" = 4
 			"irons_spellbooks:wandering_magician_leggings" = 3
-			"irons_spellbooks:wandering_magician_boots" = 1
+			"irons_spellbooks:wandering_magician_boots" = 2
 			"minecraft:leather_horse_armor" = 8
 			"minecraft:iron_horse_armor" = 12
 			"minecraft:golden_horse_armor" = 10
