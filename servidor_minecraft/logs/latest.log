@@ -108,3 +108,34 @@
 [10Aug2025 00:47:54.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 left the game
 [10Aug2025 00:47:54.155] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zack_201
 [10Aug2025 00:47:57.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.574682235717773) to VERY_LOW (avg. 13.750097274780273)
+[10Aug2025 00:51:10.532] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[10Aug2025 00:52:22.569] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zack_201[/127.74.115.109:43281] logged in with entity id 19431 at (-307.2041997205959, 151.0, -647.8503600138359)
+[10Aug2025 00:52:22.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 joined the game
+[10Aug2025 00:52:22.628] [Server thread/INFO] [APTweaks(Player)/]: Player Zack_201 ServerPlayer['Zack_201'/19431, l='ServerLevel[world]', x=-307.20, y=151.00, z=-647.85] logged in and will be protected for 90 secs.
+[10Aug2025 00:52:26.219] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player zack_201 has successfully logged in.
+[10Aug2025 00:52:26.253] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zack_201 (18)
+[10Aug2025 00:52:26.253] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zack_201
+[10Aug2025 00:52:27.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.563828468322754) to LOW (avg. 27.1497802734375)
+[10Aug2025 00:52:36.989] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3fa830de-284c-3e51-b197-89bb104c814a
+[10Aug2025 00:52:37.991] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3fa830de-284c-3e51-b197-89bb104c814a
+[10Aug2025 00:52:37.991] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zack_201 (3fa830de-284c-3e51-b197-89bb104c814a) successfully connected to voice chat
+[10Aug2025 00:53:11.720] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Zack_201 was successful validated after 49 secs.
+[10Aug2025 00:53:11.720] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Zack_201!
+[10Aug2025 00:53:23.599] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[10Aug2025 00:53:23.600] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[10Aug2025 00:53:27.203] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[10Aug2025 00:53:28.955] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 17c02a80-287c-36f3-8d5b-017a749af7a7 timed out
+[10Aug2025 00:53:28.955] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Thes912
+[10Aug2025 00:53:28.955] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Thes912
+[10Aug2025 00:53:44.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thes912 lost connection: Timed out
+[10Aug2025 00:53:44.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 left the game
+[10Aug2025 00:53:44.208] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Thes912
+[10Aug2025 00:53:44.264] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Aug2025 00:54:20.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.638044357299805) to VERY_LOW (avg. 19.887741088867188)
+[10Aug2025 00:54:35.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.887741088867188) to LOW (avg. 22.143007278442383)
+[10Aug2025 00:55:35.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.304826736450195) to VERY_LOW (avg. 19.73363494873047)
+[10Aug2025 00:55:50.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.73363494873047) to LOW (avg. 27.97759246826172)
+[10Aug2025 00:55:57.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.97759246826172) to VERY_LOW (avg. 19.811813354492188)
+[10Aug2025 00:56:20.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.428558349609375) to LOW (avg. 22.14505958557129)
+[10Aug2025 00:57:35.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.46141815185547) to VERY_LOW (avg. 19.161212921142578)
+[10Aug2025 00:57:42.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.161212921142578) to LOW (avg. 21.879772186279297)
