@@ -139,3 +139,24 @@
 [10Aug2025 00:56:20.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.428558349609375) to LOW (avg. 22.14505958557129)
 [10Aug2025 00:57:35.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.46141815185547) to VERY_LOW (avg. 19.161212921142578)
 [10Aug2025 00:57:42.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.161212921142578) to LOW (avg. 21.879772186279297)
+[10Aug2025 00:59:20.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.54262351989746) to VERY_LOW (avg. 19.72052764892578)
+[10Aug2025 00:59:50.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.256290435791016) to LOW (avg. 21.309776306152344)
+[10Aug2025 01:00:20.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.382556915283203) to VERY_LOW (avg. 19.631385803222656)
+[10Aug2025 01:00:50.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.702726364135742) to LOW (avg. 20.652477264404297)
+[10Aug2025 01:01:02.990] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[10Aug2025 01:01:20.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.720951080322266) to VERY_LOW (avg. 19.118392944335938)
+[10Aug2025 01:01:50.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.4064884185791) to LOW (avg. 20.665163040161133)
+[10Aug2025 01:01:56.791] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[10Aug2025 01:02:43.444] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[10Aug2025 01:03:50.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.271160125732422) to VERY_LOW (avg. 19.976591110229492)
+[10Aug2025 01:04:05.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.976591110229492) to LOW (avg. 20.818859100341797)
+[10Aug2025 01:04:20.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.818859100341797) to VERY_LOW (avg. 18.328638076782227)
+[10Aug2025 01:04:35.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.328638076782227) to LOW (avg. 20.40721893310547)
+[10Aug2025 01:05:42.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.280406951904297) to VERY_LOW (avg. 18.660066604614258)
+[10Aug2025 01:06:05.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.152118682861328) to LOW (avg. 21.844867706298828)
+[10Aug2025 01:06:12.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.844867706298828) to VERY_LOW (avg. 19.835586547851562)
+[10Aug2025 01:06:27.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.835586547851562) to LOW (avg. 21.498619079589844)
+[10Aug2025 01:06:36.343] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[10Aug2025 01:07:13.990] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[10Aug2025 01:07:42.289] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[10Aug2025 01:08:18.592] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
