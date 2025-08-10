@@ -20,3 +20,91 @@
 [10Aug2025 00:04:19.484] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thes912 lost connection: Disconnected
 [10Aug2025 00:04:19.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 left the game
 [10Aug2025 00:04:19.490] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Thes912
+[10Aug2025 00:17:25.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thes912[/127.58.42.250:40327] logged in with entity id 7393 at (-936.6611336527819, 109.75, -851.7158664961167)
+[10Aug2025 00:17:25.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 joined the game
+[10Aug2025 00:17:25.634] [Server thread/INFO] [APTweaks(Player)/]: Player Thes912 ServerPlayer['Thes912'/7393, l='ServerLevel[world]', x=-936.66, y=109.75, z=-851.72] logged in and will be protected for 90 secs.
+[10Aug2025 00:17:26.629] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player thes912 has successfully logged in.
+[10Aug2025 00:17:26.669] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Thes912 (18)
+[10Aug2025 00:17:26.670] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Thes912
+[10Aug2025 00:17:36.108] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 17c02a80-287c-36f3-8d5b-017a749af7a7
+[10Aug2025 00:17:37.112] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 17c02a80-287c-36f3-8d5b-017a749af7a7
+[10Aug2025 00:17:37.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Thes912 (17c02a80-287c-36f3-8d5b-017a749af7a7) successfully connected to voice chat
+[10Aug2025 00:17:39.720] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Thes912 was successful validated after 14 secs.
+[10Aug2025 00:17:39.721] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Thes912!
+[10Aug2025 00:17:48.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Killed Empty Compartment]
+[10Aug2025 00:17:55.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Killed Cleat]
+[10Aug2025 00:18:04.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[10Aug2025 00:18:39.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to -795.500000, 109.000000, -269.500000]
+[10Aug2025 00:18:44.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to -5.500000, 79.383691, 144.500000]
+[10Aug2025 00:18:44.889] [Server thread/WARN] [mixinsquared-canceller/]: Cancelled mixin com.drmangotea.tfmg.mixin.FluidPropagatorMixin. Check debug logs for more information.
+[10Aug2025 00:18:48.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to -89.500000, 176.500000, 136.500000]
+[10Aug2025 00:18:51.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to -11.500000, 176.500000, -167.500000]
+[10Aug2025 00:18:54.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to -473.500000, 176.500000, -88.500000]
+[10Aug2025 00:18:59.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to -161.500000, 176.500000, -411.500000]
+[10Aug2025 00:19:05.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to -446.500000, 176.500000, -452.500000]
+[10Aug2025 00:19:08.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to -98.500000, 176.500000, -719.500000]
+[10Aug2025 00:19:12.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to -429.500000, 176.500000, -671.500000]
+[10Aug2025 00:19:15.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to -311.500000, 155.500000, -650.500000]
+[10Aug2025 00:19:27.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.58944320678711) to LOW (avg. 21.270105361938477)
+[10Aug2025 00:20:02.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Summoned new Birch Sloop]
+[10Aug2025 00:20:46.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Summoned new Birch Sloop]
+[10Aug2025 00:21:23.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Summoned new Birch Sloop]
+[10Aug2025 00:21:37.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Summoned new Birch Sloop]
+[10Aug2025 00:22:11.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to -1011.500000, 109.500000, -858.500000]
+[10Aug2025 00:22:12.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.05672836303711) to VERY_LOW (avg. 17.77234649658203)
+[10Aug2025 00:27:43.683] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[10Aug2025 00:33:04.134] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27bdfcfd[id=<null>,name=Zack_201,properties={},legacy=false] (/127.74.115.109:34021) lost connection: Disconnected
+[10Aug2025 00:38:56.934] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[10Aug2025 00:39:07.933] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[10Aug2025 00:40:15.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zack_201[/127.74.115.109:45479] logged in with entity id 15274 at (-308.1268334425521, 151.0, -650.723695612839)
+[10Aug2025 00:40:15.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 joined the game
+[10Aug2025 00:40:15.821] [Server thread/INFO] [APTweaks(Player)/]: Player Zack_201 ServerPlayer['Zack_201'/15274, l='ServerLevel[world]', x=-308.13, y=151.00, z=-650.72] logged in and will be protected for 90 secs.
+[10Aug2025 00:40:20.315] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player zack_201 has successfully logged in.
+[10Aug2025 00:40:20.325] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zack_201 (18)
+[10Aug2025 00:40:20.325] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zack_201
+[10Aug2025 00:40:20.382] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.391471862792969) to LOW (avg. 30.275981903076172)
+[10Aug2025 00:40:31.448] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3fa830de-284c-3e51-b197-89bb104c814a
+[10Aug2025 00:40:32.448] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3fa830de-284c-3e51-b197-89bb104c814a
+[10Aug2025 00:40:32.448] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zack_201 (3fa830de-284c-3e51-b197-89bb104c814a) successfully connected to voice chat
+[10Aug2025 00:40:35.270] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Zack_201 was successful validated after 19 secs.
+[10Aug2025 00:40:35.270] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Zack_201!
+[10Aug2025 00:43:06.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zack_201 lost connection: Disconnected
+[10Aug2025 00:43:06.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 left the game
+[10Aug2025 00:43:06.907] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zack_201
+[10Aug2025 00:43:12.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 34.34032440185547) to VERY_LOW (avg. 14.848128318786621)
+[10Aug2025 00:43:14.577] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zack_201[/127.74.115.109:46575] logged in with entity id 17049 at (-306.30000001192093, 151.0, -647.9032146225084)
+[10Aug2025 00:43:14.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 joined the game
+[10Aug2025 00:43:14.621] [Server thread/INFO] [APTweaks(Player)/]: Player Zack_201 ServerPlayer['Zack_201'/17049, l='ServerLevel[world]', x=-306.30, y=151.00, z=-647.90] logged in and will be protected for 90 secs.
+[10Aug2025 00:43:15.249] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player zack_201 has successfully logged in.
+[10Aug2025 00:43:15.314] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zack_201 (18)
+[10Aug2025 00:43:15.314] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zack_201
+[10Aug2025 00:43:27.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.848128318786621) to LOW (avg. 29.04143524169922)
+[10Aug2025 00:43:37.915] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3fa830de-284c-3e51-b197-89bb104c814a
+[10Aug2025 00:43:38.931] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3fa830de-284c-3e51-b197-89bb104c814a
+[10Aug2025 00:43:38.931] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zack_201 (3fa830de-284c-3e51-b197-89bb104c814a) successfully connected to voice chat
+[10Aug2025 00:43:39.770] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Zack_201 was successful validated after 25 secs.
+[10Aug2025 00:43:39.770] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Zack_201!
+[10Aug2025 00:43:45.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zack_201 lost connection: Disconnected
+[10Aug2025 00:43:45.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 left the game
+[10Aug2025 00:43:45.207] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zack_201
+[10Aug2025 00:43:50.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.483558654785156) to VERY_LOW (avg. 14.06833553314209)
+[10Aug2025 00:46:57.456] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zack_201[/127.74.115.109:43841] logged in with entity id 17963 at (-307.2041997205959, 151.0, -647.8503600138359)
+[10Aug2025 00:46:57.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 joined the game
+[10Aug2025 00:46:57.495] [Server thread/INFO] [APTweaks(Player)/]: Player Zack_201 ServerPlayer['Zack_201'/17963, l='ServerLevel[world]', x=-307.20, y=151.00, z=-647.85] logged in and will be protected for 90 secs.
+[10Aug2025 00:47:01.089] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player zack_201 has successfully logged in.
+[10Aug2025 00:47:01.106] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zack_201 (18)
+[10Aug2025 00:47:01.106] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zack_201
+[10Aug2025 00:47:05.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.971115112304688) to LOW (avg. 30.86102294921875)
+[10Aug2025 00:47:06.997] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[10Aug2025 00:47:12.405] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3fa830de-284c-3e51-b197-89bb104c814a
+[10Aug2025 00:47:13.403] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3fa830de-284c-3e51-b197-89bb104c814a
+[10Aug2025 00:47:13.404] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zack_201 (3fa830de-284c-3e51-b197-89bb104c814a) successfully connected to voice chat
+[10Aug2025 00:47:15.020] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Zack_201 was successful validated after 17 secs.
+[10Aug2025 00:47:15.020] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Zack_201!
+[10Aug2025 00:47:52.670] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 3fa830de-284c-3e51-b197-89bb104c814a timed out
+[10Aug2025 00:47:52.670] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Zack_201
+[10Aug2025 00:47:52.671] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Zack_201
+[10Aug2025 00:47:54.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zack_201 lost connection: Disconnected
+[10Aug2025 00:47:54.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 left the game
+[10Aug2025 00:47:54.155] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zack_201
+[10Aug2025 00:47:57.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.574682235717773) to VERY_LOW (avg. 13.750097274780273)
