@@ -1811,6 +1811,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-04 07:22:35 +0000",
       "minecraft:spider": "2025-08-06 09:09:43 +0000",
+      "minecraft:creeper": "2025-08-11 06:33:56 +0000",
       "minecraft:zombie": "2025-08-04 03:00:11 +0000",
       "minecraft:zombie_villager": "2025-08-07 05:16:55 +0000"
     },
@@ -8488,6 +8489,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-11 05:58:58 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-08-11 06:26:43 +0000"
     },
     "done": true
   },

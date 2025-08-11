@@ -6591,3 +6591,27 @@ java.lang.IllegalStateException: not found
 [11Aug2025 06:26:43.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 has reached the goal [Fighting Nightmares]
 [11Aug2025 06:27:02.534] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
 [11Aug2025 06:27:02.535] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 06:27:35.220] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.405948638916016) to LOW (avg. 20.81460189819336)
+[11Aug2025 06:27:42.720] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.81460189819336) to VERY_LOW (avg. 18.665693283081055)
+[11Aug2025 06:27:51.390] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 06:27:57.720] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.665693283081055) to LOW (avg. 20.295236587524414)
+[11Aug2025 06:28:05.220] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.295236587524414) to VERY_LOW (avg. 19.506567001342773)
+[11Aug2025 06:29:54.585] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 06:29:54.586] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 06:30:42.720] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.969009399414062) to LOW (avg. 21.441556930541992)
+[11Aug2025 06:31:00.638] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 06:31:00.640] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 06:32:28.722] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/385697, l='ServerLevel[world]', x=533.01, y=-256.00, z=26.32] died, message: 'Villager was killed'
+[11Aug2025 06:32:34.252] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/230835, l='ServerLevel[world]', x=731.56, y=-19.00, z=-33.32, removed=DISCARDED]
+[11Aug2025 06:33:50.722] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/386163, l='ServerLevel[world]', x=533.01, y=-256.00, z=26.32] died, message: 'Villager was killed'
+[11Aug2025 06:34:08.647] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/230835, l='ServerLevel[world]', x=731.56, y=-19.00, z=-33.32, removed=DISCARDED]
+[11Aug2025 06:34:12.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isu_Name was slain by Dread Hound
+[11Aug2025 06:34:22.444] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/230835, l='ServerLevel[world]', x=731.56, y=-19.00, z=-33.32, removed=DISCARDED]
+[11Aug2025 06:34:38.496] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/230835, l='ServerLevel[world]', x=731.56, y=-19.00, z=-33.32, removed=DISCARDED]
+[11Aug2025 06:34:44.705] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/230835, l='ServerLevel[world]', x=731.56, y=-19.00, z=-33.32, removed=DISCARDED]
+[11Aug2025 06:35:46.849] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/230835, l='ServerLevel[world]', x=731.56, y=-19.00, z=-33.32, removed=DISCARDED]
+[11Aug2025 06:35:57.720] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.638038635253906) to VERY_LOW (avg. 18.148941040039062)
+[11Aug2025 06:35:59.036] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/230835, l='ServerLevel[world]', x=731.56, y=-19.00, z=-33.32, removed=DISCARDED]
+[11Aug2025 06:36:11.737] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/230835, l='ServerLevel[world]', x=731.56, y=-19.00, z=-33.32, removed=DISCARDED]
+[11Aug2025 06:36:24.090] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 06:36:27.437] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
