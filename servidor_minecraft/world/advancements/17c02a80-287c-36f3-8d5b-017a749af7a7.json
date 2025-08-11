@@ -9100,5 +9100,11 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-08-10 06:33:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -89,9 +89,11 @@
       "autumnal_maple_forest": "2025-08-04 00:00:04 +0000",
       "muddy_river": "2025-08-04 00:25:11 +0000",
       "prismachasm": "2025-08-04 00:21:02 +0000",
+      "ancient_delta": "2025-08-10 05:07:40 +0000",
       "frozen_tundra": "2025-08-06 23:49:39 +0000",
       "redstone_caves": "2025-08-04 00:02:26 +0000",
       "poppy_fields": "2025-08-04 00:58:37 +0000",
+      "scorching_caves": "2025-08-10 05:09:23 +0000",
       "rocky_meadow": "2025-08-04 00:53:37 +0000",
       "ochard": "2025-08-04 00:57:52 +0000",
       "highland_fields": "2025-08-04 00:56:42 +0000",
@@ -659,7 +661,9 @@
   "regions_unexplored:spelunker": {
     "criteria": {
       "redstone_caves": "2025-08-04 00:02:26 +0000",
-      "prismachasm": "2025-08-04 00:21:02 +0000"
+      "prismachasm": "2025-08-04 00:21:02 +0000",
+      "scorching_caves": "2025-08-10 05:09:23 +0000",
+      "ancient_delta": "2025-08-10 05:07:40 +0000"
     },
     "done": false
   },
@@ -1025,6 +1029,8 @@
       "minecraft:river": "2025-08-04 00:25:23 +0000",
       "minecraft:stony_shore": "2025-08-07 00:19:02 +0000",
       "minecraft:swamp": "2025-08-04 00:44:25 +0000",
+      "minecraft:lush_caves": "2025-08-10 05:07:37 +0000",
+      "minecraft:deep_dark": "2025-08-10 05:08:29 +0000",
       "minecraft:meadow": "2025-08-04 00:59:08 +0000"
     },
     "done": false
@@ -1962,6 +1968,36 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/fermenting/flaxen_cheese_from_milk": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-08-07 00:03:01 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:huddle_close": {
+    "criteria": {
+      "requirement": "2025-08-07 00:04:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-08-07 00:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-08-07 00:07:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-08-07 00:12:09 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_fence_gate": {
     "criteria": {
       "has_maple_planks": "2025-08-07 00:12:11 +0000"
@@ -1971,12 +2007,6 @@
   "everycomp:recipes/decorations/q/regions_unexplored/maple_vertical_slab_revert": {
     "criteria": {
       "has_item": "2025-08-07 00:12:11 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/maple_hanging_sign": {
-    "criteria": {
-      "has_stripped_maple_log": "2025-08-07 00:13:01 +0000"
     },
     "done": true
   },
@@ -2007,12 +2037,6 @@
   "everycomp:recipes/decorations/q/regions_unexplored/maple_chest": {
     "criteria": {
       "has_item": "2025-08-07 00:12:11 +0000"
-    },
-    "done": true
-  },
-  "cold_sweat:huddle_close": {
-    "criteria": {
-      "requirement": "2025-08-07 00:04:46 +0000"
     },
     "done": true
   },
@@ -2184,18 +2208,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/ash_brick": {
-    "criteria": {
-      "forge:ash": "2025-08-07 00:06:20 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/stripped_maple_wood": {
-    "criteria": {
-      "has_log": "2025-08-07 00:13:01 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/sd/regions_unexplored/maple_trim": {
     "criteria": {
       "has_item": "2025-08-07 00:12:11 +0000"
@@ -2286,12 +2298,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/paper_from_tree_bark": {
-    "criteria": {
-      "has_tree_bark": "2025-08-07 00:13:02 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
     "criteria": {
       "has_planks": "2025-08-07 00:12:11 +0000"
@@ -2316,12 +2322,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2025-08-07 00:07:46 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/pink_painted_planks": {
     "criteria": {
       "has_planks": "2025-08-07 00:12:11 +0000"
@@ -2340,12 +2340,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/use_cutting_board": {
-    "criteria": {
-      "cutting_board": "2025-08-07 00:12:09 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:planks": "2025-08-07 00:12:11 +0000"
@@ -2358,9 +2352,57 @@
     },
     "done": true
   },
-  "brewinandchewin:recipes/fermenting/flaxen_cheese_from_milk": {
+  "regions_unexplored:recipes/decorations/maple_hanging_sign": {
     "criteria": {
-      "has_pumpkin_seeds": "2025-08-07 00:03:01 +0000"
+      "has_stripped_maple_log": "2025-08-07 00:13:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stripped_maple_wood": {
+    "criteria": {
+      "has_log": "2025-08-07 00:13:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/paper_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2025-08-07 00:13:02 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/cannonball": {
+    "criteria": {
+      "has_gunpowder": "2025-08-10 03:47:42 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/supply_cart": {
+    "criteria": {
+      "has_wheel": "2025-08-10 03:47:42 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/plow": {
+    "criteria": {
+      "has_wheel": "2025-08-10 03:47:42 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/wheel": {
+    "criteria": {
+      "has_planks": "2025-08-10 03:47:42 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/animal_cart": {
+    "criteria": {
+      "has_wheel": "2025-08-10 03:47:42 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/oar": {
+    "criteria": {
+      "has_stick": "2025-08-10 03:47:42 +0000"
     },
     "done": true
   },

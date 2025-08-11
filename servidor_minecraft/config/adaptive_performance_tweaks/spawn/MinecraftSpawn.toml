@@ -5,7 +5,7 @@
 	Id = "minecraft"
 	#e.g. mobs which will not attack you
 	#Range: 1 ~ 64
-	MaxPassiveMobsPerPlayer = 8
+	MaxPassiveMobsPerPlayer = 32
 	#Range: 1 ~ 512
 	MaxPassiveMobsPerWorld = 32
 	#Range: 1 ~ 1024
