@@ -51077,3 +51077,332 @@ java.lang.IllegalStateException: not found
 [11Aug2025 05:03:46.852] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
 [11Aug2025 05:03:46.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Aug2025 05:03:46.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2025 05:04:34.512] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:05:25.171] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.8414421081543) to HIGH (avg. 49.610626220703125)
+[11Aug2025 05:05:27.082] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:05:32.698] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.610626220703125) to MEDIUM (avg. 47.48750305175781)
+[11Aug2025 05:05:34.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zack_201) moved wrongly! 0.2923441657354715
+[11Aug2025 05:05:34.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zack_201) moved wrongly! 0.6788438970083917
+[11Aug2025 05:05:34.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zack_201) moved wrongly! 1.1083879539042982
+[11Aug2025 05:05:40.812] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.48750305175781) to HIGH (avg. 50.25979995727539)
+[11Aug2025 05:05:56.266] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.25979995727539) to NORMAL (avg. 43.595436096191406)
+[11Aug2025 05:06:08.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zack_201) moved wrongly! 0.27412841693654855
+[11Aug2025 05:06:08.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zack_201) moved wrongly! 0.885881546216865
+[11Aug2025 05:06:08.708] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:06:11.699] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.595436096191406) to HIGH (avg. 53.00385284423828)
+[11Aug2025 05:06:16.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[11Aug2025 05:06:18.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[11Aug2025 05:06:19.854] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.00385284423828) to MEDIUM (avg. 47.79909133911133)
+[11Aug2025 05:06:36.474] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.79909133911133) to HIGH (avg. 50.52117156982422)
+[11Aug2025 05:06:37.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[11Aug2025 05:06:38.869] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:06:41.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zack_201) moved wrongly! 0.30086746962757616
+[11Aug2025 05:06:41.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zack_201) moved wrongly! 0.7636119352490596
+[11Aug2025 05:06:51.384] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:06:56.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zack_201) moved wrongly! 0.3109706746008669
+[11Aug2025 05:06:56.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zack_201) moved wrongly! 0.7907550580717952
+[11Aug2025 05:06:57.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zack_201) moved wrongly! 0.26540107515774025
+[11Aug2025 05:07:00.445] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 50.60013961791992) to VERY_HIGH (avg. 59.670833587646484)
+[11Aug2025 05:07:03.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zack_201) moved wrongly! 0.2714518577877243
+[11Aug2025 05:07:03.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zack_201) moved wrongly! 0.9303394212306557
+[11Aug2025 05:07:07.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zack_201) moved wrongly! 0.3653687291821939
+[11Aug2025 05:07:08.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[11Aug2025 05:07:08.630] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 59.670833587646484) to HIGH (avg. 54.641143798828125)
+[11Aug2025 05:07:58.111] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:07:58.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[11Aug2025 05:08:13.014] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:08:19.032] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 50.769813537597656) to VERY_HIGH (avg. 55.04894256591797)
+[11Aug2025 05:08:20.204] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:08:32.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[11Aug2025 05:08:35.351] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.04894256591797) to HIGH (avg. 52.633819580078125)
+[11Aug2025 05:08:37.701] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:08:58.569] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Thes912}.
+[11Aug2025 05:08:58.579] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Zack_201}.
+[11Aug2025 05:08:58.591] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{AllToAllies}.
+[11Aug2025 05:08:58.598] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{ToxicElah}.
+[11Aug2025 05:08:58.605] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Yuuichiro425}.
+[11Aug2025 05:08:58.613] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Isu_Name}.
+[11Aug2025 05:08:58.619] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{fred31212}.
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_fluid_storage_type
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: crafttweaker:transformer_serializer
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:cannon_cast_shapes
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[11Aug2025 05:08:59.361] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/block_hit_action
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:item_attribute_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_serializers
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_item_storage_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/entity_hit_action
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_types
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/render_mode
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_source
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_target
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:arm_interaction_point_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: crafttweaker:condition_serializer
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: tfmg:electrode
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:fan_processing_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: tfmg:cable_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:contraption_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[11Aug2025 05:08:59.362] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[11Aug2025 05:08:59.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2025 05:08:59.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2025 05:08:59.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zack_201) moved too quickly! -7.676500041876466,3.0768320014953474,5.755463565794798
+[11Aug2025 05:08:59.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zack_201) moved too quickly! -8.210981098700415,3.0768320014953474,6.171441663743963
+[11Aug2025 05:08:59.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zack_201) moved too quickly! -8.760428596966392,3.0768320014953474,6.578853051058104
+[11Aug2025 05:08:59.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zack_201) moved too quickly! -9.317884339649368,3.0,6.981680562313386
+[11Aug2025 05:08:59.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2828ms or 56 ticks behind
+[11Aug2025 05:09:00.632] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 50.678993225097656) to VERY_HIGH (avg. 66.49225616455078)
+[11Aug2025 05:09:06.517] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:09:06.519] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:09:10.243] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:09:14.770] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:09:17.227] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 66.49225616455078) to HIGH (avg. 51.531402587890625)
+[11Aug2025 05:09:19.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[11Aug2025 05:09:32.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zack_201) moved wrongly! 0.32950678423298996
+[11Aug2025 05:09:38.246] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:09:48.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[11Aug2025 05:09:49.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zack_201> cuartas
+[11Aug2025 05:09:53.337] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:09:54.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thes912> voy
+[11Aug2025 05:10:00.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zack_201> movete
+[11Aug2025 05:10:09.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[11Aug2025 05:10:14.376] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.191001892089844) to VERY_HIGH (avg. 55.38756561279297)
+[11Aug2025 05:10:29.088] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:10:30.238] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.38756561279297) to HIGH (avg. 49.1690673828125)
+[11Aug2025 05:10:30.473] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:10:38.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[11Aug2025 05:10:44.812] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone}[weathering=false] 312 -1297 -1297 VisualFallingBlockEntity['Falling Stone'/215473, l='ServerLevel[world]', x=312.50, y=166.00, z=-1296.50]
+[11Aug2025 05:10:49.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thes912> graybeard staff
+[11Aug2025 05:10:58.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[11Aug2025 05:11:02.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zack_201> mkon veni
+[11Aug2025 05:11:03.658] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.17390060424805) to VERY_HIGH (avg. 55.133209228515625)
+[11Aug2025 05:11:03.768] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:11:06.213] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:11:07.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zack_201> o metete al pvto discord
+[11Aug2025 05:11:15.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2482ms or 49 ticks behind
+[11Aug2025 05:11:17.607] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:11:34.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3243ms or 64 ticks behind
+[11Aug2025 05:11:37.611] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:11:41.554] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone}[weathering=false] 302 -1288 -1288 VisualFallingBlockEntity['Falling Stone'/218120, l='ServerLevel[world]', x=302.50, y=165.00, z=-1287.50]
+[11Aug2025 05:11:42.290] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:11:49.877] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:11:49.879] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:11:53.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4485ms or 89 ticks behind
+[11Aug2025 05:11:56.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isu_Name) moved wrongly! 0.3405811919635653
+[11Aug2025 05:11:56.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isu_Name) moved wrongly! 0.4931586431218875
+[11Aug2025 05:11:56.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isu_Name) moved wrongly! 0.8511520648218038
+[11Aug2025 05:11:56.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isu_Name) moved wrongly! 1.2094610621544462
+[11Aug2025 05:12:10.606] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:12:12.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zack_201) moved wrongly! 0.3261789402029583
+[11Aug2025 05:12:12.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zack_201) moved wrongly! 0.9939613045341288
+[11Aug2025 05:12:12.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4361ms or 87 ticks behind
+[11Aug2025 05:12:16.465] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:12:22.933] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:12:27.473] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone}[weathering=false] 331 -1301 -1301 VisualFallingBlockEntity['Falling Stone'/220502, l='ServerLevel[world]', x=331.50, y=163.00, z=-1300.50]
+[11Aug2025 05:12:31.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3443ms or 68 ticks behind
+[11Aug2025 05:12:38.440] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:12:40.574] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:12:49.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3147ms or 62 ticks behind
+[11Aug2025 05:13:07.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2996ms or 59 ticks behind
+[11Aug2025 05:13:11.457] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:13:11.957] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:13:26.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3858ms or 77 ticks behind
+[11Aug2025 05:13:29.464] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:13:42.849] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:13:46.092] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4971ms or 99 ticks behind
+[11Aug2025 05:13:51.523] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:13:51.525] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:13:52.086] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:14:05.278] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:14:05.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4332ms or 86 ticks behind
+[11Aug2025 05:14:12.713] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:14:12.714] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:14:20.566] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:14:23.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3516ms or 70 ticks behind
+[11Aug2025 05:14:33.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isu_Name) moved wrongly! 0.36136350767208114
+[11Aug2025 05:14:33.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isu_Name) moved wrongly! 0.5698899593414808
+[11Aug2025 05:14:33.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isu_Name) moved wrongly! 1.1649114329354688
+[11Aug2025 05:14:33.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isu_Name) moved wrongly! 1.765961393712928
+[11Aug2025 05:14:33.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isu_Name) moved wrongly! 2.391686398984234
+[11Aug2025 05:14:42.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3774ms or 75 ticks behind
+[11Aug2025 05:14:48.172] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:14:48.173] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:14:51.800] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:14:51.801] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:14:55.924] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Thes912}.
+[11Aug2025 05:14:55.936] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Zack_201}.
+[11Aug2025 05:14:55.947] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{AllToAllies}.
+[11Aug2025 05:14:55.954] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{ToxicElah}.
+[11Aug2025 05:14:55.960] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Yuuichiro425}.
+[11Aug2025 05:14:55.969] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{Isu_Name}.
+[11Aug2025 05:14:55.976] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for literal{fred31212}.
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_fluid_storage_type
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: crafttweaker:transformer_serializer
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[11Aug2025 05:14:56.691] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:cannon_cast_shapes
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/block_hit_action
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:item_attribute_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_serializers
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_item_storage_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/entity_hit_action
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_types
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/render_mode
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_source
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_target
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:arm_interaction_point_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: crafttweaker:condition_serializer
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: tfmg:electrode
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:fan_processing_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: tfmg:cable_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:contraption_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[11Aug2025 05:14:56.692] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[11Aug2025 05:14:56.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2025 05:14:56.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2025 05:15:00.122] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END

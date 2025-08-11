@@ -6981,6 +6981,12 @@
     },
     "done": true
   },
+  "alekiships:recipes/crafting/crafting/cannonball": {
+    "criteria": {
+      "has_gunpowder": "2025-08-11 05:08:14 +0000"
+    },
+    "done": true
+  },
   "astikorcarts:recipes/supply_cart": {
     "criteria": {
       "has_wheel": "2025-08-11 04:33:49 +0000"
@@ -7062,6 +7068,12 @@
   "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-11 04:49:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_silver_hammering": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-11 05:06:28 +0000"
     },
     "done": true
   },
