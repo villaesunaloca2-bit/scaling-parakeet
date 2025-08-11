@@ -9351,6 +9351,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-08-11 06:06:34 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/misc/backpack": {
     "criteria": {
       "has_hide": "2025-08-11 03:04:28 +0000"
@@ -9402,6 +9408,12 @@
   "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
     "criteria": {
       "has_item": "2025-08-11 03:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-08-11 06:09:38 +0000"
     },
     "done": true
   },
