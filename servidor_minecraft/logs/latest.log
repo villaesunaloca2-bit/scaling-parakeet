@@ -5044,3 +5044,184 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [11Aug2025 02:23:52.706] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for twilightforest:twilight_forest changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.27516556)
 [11Aug2025 02:23:52.706] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for ae2:spatial_storage changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.24516826)
 [11Aug2025 02:24:06.420] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.29296112060547) to VERY_LOW (avg. 1.6632903814315796)
+[11Aug2025 02:34:33.298] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zack_201[/127.74.115.109:39781] logged in with entity id 78 at (-306.5234763083013, 151.0, -652.4604214835674)
+[11Aug2025 02:34:33.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 joined the game
+[11Aug2025 02:34:33.914] [Server thread/INFO] [APTweaks(Player)/]: Player Zack_201 ServerPlayer['Zack_201'/78, l='ServerLevel[world]', x=-306.52, y=151.00, z=-652.46] logged in and will be protected for 90 secs.
+[11Aug2025 02:34:34.190] [Netty Epoll Server IO #5/INFO] [immersiveengineering/]: Recipes for potions: minecraft:strong_turtle_master, minecraft:long_swiftness, alexsmobs:poison_resistance, minecraft:long_night_vision, minecraft:long_turtle_master, minecraft:strong_regeneration, biomemakeover:nocturnal_pot, mutantmonsters:chemical_x, irons_spellbooks:instant_mana_two, irons_spellbooks:instant_mana_three, minecraft:strength, minecraft:weakness, minecraft:leaping, mowziesmobs:poison_resist, biomemakeover:long_nocturnal_pot, minecraft:long_water_breathing, minecraft:night_vision, alexsmobs:long_soulsteal, minecraft:strong_harming, cold_sweat:ice_resistance, quark:resilience, alexsmobs:long_clinging, minecraft:strong_swiftness, minecraft:regeneration, alexsmobs:bug_pheromones, minecraft:long_leaping, quark:long_resilience, alexscaves:long_magnetizing, alexsmobs:strong_soulsteal, minecraft:slow_falling, minecraft:water_breathing, minecraft:strong_poison, alexsmobs:lava_vision, alexscaves:glowing, alexsmobs:clinging, alexscaves:long_sugar_rush, minecraft:long_slowness, alexscaves:long_glowing, cold_sweat:long_ice_resistance, alexsmobs:long_knockback_resistance, alexsmobs:speed_iii, alexscaves:haste, minecraft:poison, minecraft:strong_strength, minecraft:water, minecraft:awkward, alexscaves:strong_haste, minecraft:swiftness, minecraft:long_weakness, mowziesmobs:long_poison_resist, alexsmobs:long_bug_pheromones, alexscaves:long_haste, alexscaves:magnetizing, minecraft:long_slow_falling, minecraft:harming, alexscaves:long_deepsight, minecraft:strong_leaping, minecraft:long_invisibility, minecraft:invisibility, biomemakeover:actidote_pot, minecraft:long_regeneration, alexsmobs:soulsteal, alexsmobs:long_poison_resistance, minecraft:turtle_master, minecraft:slowness, irons_spellbooks:instant_mana_four, alexsmobs:knockback_resistance, minecraft:strong_healing, alexscaves:deepsight, minecraft:healing, minecraft:long_fire_resistance, alexsmobs:strong_knockback_resistance, alexsmobs:long_lava_vision, irons_spellbooks:instant_mana_one, minecraft:strong_slowness, minecraft:long_poison, minecraft:long_strength, quark:strong_resilience, alexscaves:sugar_rush, minecraft:fire_resistance
+[11Aug2025 02:34:41.701] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zack_201 (18)
+[11Aug2025 02:34:41.707] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zack_201
+[11Aug2025 02:34:41.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8553ms or 171 ticks behind
+[11Aug2025 02:34:42.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToxicElah[/127.65.248.166:59329] logged in with entity id 181 at (-303.34588062079945, 151.0, -648.2197713343107)
+[11Aug2025 02:34:42.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToxicElah joined the game
+[11Aug2025 02:34:42.373] [Server thread/INFO] [APTweaks(Player)/]: Player ToxicElah ServerPlayer['ToxicElah'/181, l='ServerLevel[world]', x=-303.35, y=151.00, z=-648.22] logged in and will be protected for 90 secs.
+[11Aug2025 02:34:43.945] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ToxicElah (18)
+[11Aug2025 02:34:43.945] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ToxicElah
+[11Aug2025 02:34:45.752] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3fa830de-284c-3e51-b197-89bb104c814a
+[11Aug2025 02:34:46.732] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3fa830de-284c-3e51-b197-89bb104c814a
+[11Aug2025 02:34:46.753] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zack_201 (3fa830de-284c-3e51-b197-89bb104c814a) successfully connected to voice chat
+[11Aug2025 02:34:47.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 0.9438479542732239) to VERY_HIGH (avg. 61.18769073486328)
+[11Aug2025 02:34:49.276] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 26.74742406) to VERY_HIGH (avg. 52.15992561)
+[11Aug2025 02:34:55.284] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 61.18769073486328) to LOW (avg. 34.725887298583984)
+[11Aug2025 02:35:11.015] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d76394e-1016-3784-baa8-6080ae2cb123
+[11Aug2025 02:35:12.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d76394e-1016-3784-baa8-6080ae2cb123
+[11Aug2025 02:35:12.019] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ToxicElah (8d76394e-1016-3784-baa8-6080ae2cb123) successfully connected to voice chat
+[11Aug2025 02:35:16.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToxicElah lost connection: Disconnected
+[11Aug2025 02:35:16.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToxicElah left the game
+[11Aug2025 02:35:16.191] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ToxicElah
+[11Aug2025 02:35:17.670] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Zack_201 was successful validated after 43 secs.
+[11Aug2025 02:35:17.670] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Zack_201!
+[11Aug2025 02:36:04.403] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToxicElah[/127.65.248.166:41847] logged in with entity id 611 at (-303.34588062079945, 151.0, -648.2197713343107)
+[11Aug2025 02:36:04.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToxicElah joined the game
+[11Aug2025 02:36:04.566] [Server thread/INFO] [APTweaks(Player)/]: Player ToxicElah ServerPlayer['ToxicElah'/611, l='ServerLevel[world]', x=-303.35, y=151.00, z=-648.22] logged in and will be protected for 90 secs.
+[11Aug2025 02:36:05.255] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ToxicElah (18)
+[11Aug2025 02:36:05.256] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ToxicElah
+[11Aug2025 02:36:45.990] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d76394e-1016-3784-baa8-6080ae2cb123
+[11Aug2025 02:36:46.995] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d76394e-1016-3784-baa8-6080ae2cb123
+[11Aug2025 02:36:46.996] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ToxicElah (8d76394e-1016-3784-baa8-6080ae2cb123) successfully connected to voice chat
+[11Aug2025 02:36:54.020] [Server thread/INFO] [APTweaks(Player)/]: Protected Player ToxicElah was successful validated after 49 secs.
+[11Aug2025 02:36:54.020] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player ToxicElah!
+[11Aug2025 02:37:53.251] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 02:39:47.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thes912[/127.58.42.250:60379] logged in with entity id 1321 at (-286.00187132985786, 150.0, -639.0330133500422)
+[11Aug2025 02:39:47.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 joined the game
+[11Aug2025 02:39:48.007] [Server thread/INFO] [APTweaks(Player)/]: Player Thes912 ServerPlayer['Thes912'/1321, l='ServerLevel[world]', x=-286.00, y=150.00, z=-639.03] logged in and will be protected for 90 secs.
+[11Aug2025 02:39:48.791] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Thes912 (18)
+[11Aug2025 02:39:48.792] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Thes912
+[11Aug2025 02:39:58.480] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 17c02a80-287c-36f3-8d5b-017a749af7a7
+[11Aug2025 02:39:59.480] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 17c02a80-287c-36f3-8d5b-017a749af7a7
+[11Aug2025 02:39:59.480] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Thes912 (17c02a80-287c-36f3-8d5b-017a749af7a7) successfully connected to voice chat
+[11Aug2025 02:40:02.620] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Thes912 was successful validated after 14 secs.
+[11Aug2025 02:40:02.620] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Thes912!
+[11Aug2025 02:40:24.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
+[11Aug2025 02:40:44.743] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 02:42:37.752] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 02:44:47.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Summoned new Cow]
+[11Aug2025 02:45:57.239] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 02:46:03.640] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 02:47:01.388] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 02:49:43.119] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 02:50:22.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[11Aug2025 02:50:32.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Spectator Mode]
+[11Aug2025 02:50:36.692] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 02:50:40.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[11Aug2025 02:51:57.444] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 02:51:57.446] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 02:52:53.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Horse to Thes912]
+[11Aug2025 02:52:57.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Horse to Thes912]
+[11Aug2025 02:53:00.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
+[11Aug2025 02:53:03.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[11Aug2025 02:57:16.194] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 02:57:16.196] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 02:58:30.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
+[11Aug2025 02:58:36.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Added Thes912 to team [2]]
+[11Aug2025 02:58:38.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Added Thes912 to team [1]]
+[11Aug2025 02:59:05.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[11Aug2025 02:59:11.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
+[11Aug2025 02:59:22.470] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.02227783203125) to VERY_LOW (avg. 19.687889099121094)
+[11Aug2025 02:59:37.470] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.687889099121094) to LOW (avg. 21.890304565429688)
+[11Aug2025 02:59:58.737] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 8d76394e-1016-3784-baa8-6080ae2cb123 timed out
+[11Aug2025 02:59:58.737] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ToxicElah
+[11Aug2025 02:59:58.737] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ToxicElah
+[11Aug2025 03:00:06.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToxicElah lost connection: Timed out
+[11Aug2025 03:00:06.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToxicElah left the game
+[11Aug2025 03:00:06.741] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ToxicElah
+[11Aug2025 03:00:37.470] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.08696746826172) to VERY_LOW (avg. 19.53774642944336)
+[11Aug2025 03:00:48.789] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:00:52.470] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.53774642944336) to LOW (avg. 22.02891731262207)
+[11Aug2025 03:01:02.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToxicElah[/127.65.248.166:46397] logged in with entity id 5561 at (-310.1880925106185, 151.0, -649.5471314954967)
+[11Aug2025 03:01:02.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToxicElah joined the game
+[11Aug2025 03:01:02.357] [Server thread/INFO] [APTweaks(Player)/]: Player ToxicElah ServerPlayer['ToxicElah'/5561, l='ServerLevel[world]', x=-310.19, y=151.00, z=-649.55] logged in and will be protected for 90 secs.
+[11Aug2025 03:01:02.851] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ToxicElah (18)
+[11Aug2025 03:01:02.851] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ToxicElah
+[11Aug2025 03:01:54.865] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:orange_maple}.
+[11Aug2025 03:02:00.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was crushed by a falling tree
+[11Aug2025 03:02:00.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zack_201 moved too quickly! -19.085078387055546,-0.10282408973955626,0.0
+[11Aug2025 03:02:17.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToxicElah lost connection: Timed out
+[11Aug2025 03:02:17.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToxicElah left the game
+[11Aug2025 03:02:17.445] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ToxicElah
+[11Aug2025 03:04:03.647] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:05:57.931] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToxicElah[/127.65.248.166:39783] logged in with entity id 6614 at (-310.1880925106185, 151.0, -649.5471314954967)
+[11Aug2025 03:05:57.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToxicElah joined the game
+[11Aug2025 03:05:58.013] [Server thread/INFO] [APTweaks(Player)/]: Player ToxicElah ServerPlayer['ToxicElah'/6614, l='ServerLevel[world]', x=-310.19, y=151.00, z=-649.55] logged in and will be protected for 90 secs.
+[11Aug2025 03:05:59.195] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ToxicElah (18)
+[11Aug2025 03:05:59.196] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ToxicElah
+[11Aug2025 03:06:13.485] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d76394e-1016-3784-baa8-6080ae2cb123
+[11Aug2025 03:06:14.483] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d76394e-1016-3784-baa8-6080ae2cb123
+[11Aug2025 03:06:14.484] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ToxicElah (8d76394e-1016-3784-baa8-6080ae2cb123) successfully connected to voice chat
+[11Aug2025 03:06:41.620] [Server thread/INFO] [APTweaks(Player)/]: Protected Player ToxicElah was successful validated after 43 secs.
+[11Aug2025 03:06:41.620] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player ToxicElah!
+[11Aug2025 03:06:47.998] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:07:25.743] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:red_maple_leaves} not valid leaves for Species{registryName=dtru:maple}.
+[11Aug2025 03:07:50.631] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[11Aug2025 03:07:50.631] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[11Aug2025 03:08:16.444] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:orange_maple}.
+[11Aug2025 03:08:16.444] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:orange_maple}.
+[11Aug2025 03:08:16.444] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:orange_maple}.
+[11Aug2025 03:08:16.444] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:orange_maple}.
+[11Aug2025 03:08:16.444] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:orange_maple}.
+[11Aug2025 03:08:36.144] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:08:51.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-336, y=148, z=-631} BlockPos{x=-336, y=148, z=-630}
+[11Aug2025 03:09:12.651] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:09:45.427] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:red_maple_leaves} not valid leaves for Species{registryName=dtru:maple}.
+[11Aug2025 03:09:45.427] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:red_maple_leaves} not valid leaves for Species{registryName=dtru:maple}.
+[11Aug2025 03:09:45.427] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:red_maple_leaves} not valid leaves for Species{registryName=dtru:maple}.
+[11Aug2025 03:09:45.427] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:red_maple_leaves} not valid leaves for Species{registryName=dtru:maple}.
+[11Aug2025 03:09:45.427] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:red_maple_leaves} not valid leaves for Species{registryName=dtru:maple}.
+[11Aug2025 03:09:45.427] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:red_maple_leaves} not valid leaves for Species{registryName=dtru:maple}.
+[11Aug2025 03:09:45.427] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:red_maple_leaves} not valid leaves for Species{registryName=dtru:maple}.
+[11Aug2025 03:09:45.427] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:red_maple_leaves} not valid leaves for Species{registryName=dtru:maple}.
+[11Aug2025 03:09:45.427] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:red_maple_leaves} not valid leaves for Species{registryName=dtru:maple}.
+[11Aug2025 03:10:38.696] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:10:38.697] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:10:38.743] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:12:12.593] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:13:28.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Gave 9 [Log Pile] to Zack_201]
+[11Aug2025 03:14:07.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Gave 9 [Log Pile] to Zack_201]
+[11Aug2025 03:17:28.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 was slain by Spider
+[11Aug2025 03:17:33.201] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:17:33.203] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:18:57.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 burned to death
+[11Aug2025 03:20:13.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 has made the advancement [Diamonds!]
+[11Aug2025 03:20:53.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToxicElah has made the advancement [Diamonds!]
+[11Aug2025 03:21:55.546] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:22:26.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to Zack_201]
+[11Aug2025 03:22:29.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Spectator Mode]
+[11Aug2025 03:22:45.648] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:22:57.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to -305.500000, 158.500000, -650.500000]
+[11Aug2025 03:23:01.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
+[11Aug2025 03:23:07.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 has made the advancement [Amateur Archaeologist]
+[11Aug2025 03:23:28.104] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:23:31.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToxicElah moved wrongly!
+[11Aug2025 03:23:34.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zack_201 moved wrongly!
+[11Aug2025 03:23:52.001] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:24:29.970] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.734474182128906) to NORMAL (avg. 40.28535079956055)
+[11Aug2025 03:24:39.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 suffocated in a wall whilst fighting Nightmare Stalker
+[11Aug2025 03:24:42.409] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:24:52.470] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.82415771484375) to LOW (avg. 38.4984130859375)
+[11Aug2025 03:25:29.970] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.91402053833008) to NORMAL (avg. 42.567073822021484)
+[11Aug2025 03:25:44.970] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.567073822021484) to LOW (avg. 33.364288330078125)
+[11Aug2025 03:28:16.497] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:29:01.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 has made the advancement [Ice Bucket Challenge]
+[11Aug2025 03:29:44.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zack_201 moved wrongly!
+[11Aug2025 03:29:54.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zack_201 moved wrongly!
+[11Aug2025 03:29:57.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zack_201 moved wrongly!
+[11Aug2025 03:32:17.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 was slain by Zombie
+[11Aug2025 03:32:31.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 was shot by Skeleton
+[11Aug2025 03:32:55.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 was shot by Skeleton
+[11Aug2025 03:33:13.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 was shot by Skeleton
+[11Aug2025 03:33:19.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 was shot by Skeleton
+[11Aug2025 03:34:34.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 was shot by Skeleton
+[11Aug2025 03:34:34.944] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:35:38.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[11Aug2025 03:36:09.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
+[11Aug2025 03:36:20.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[11Aug2025 03:36:37.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
+[11Aug2025 03:36:39.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[11Aug2025 03:36:43.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
+[11Aug2025 03:37:05.595] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:37:38.149] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:38:39.845] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:38:45.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[11Aug2025 03:40:34.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
+[11Aug2025 03:40:46.741] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:42:21.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[11Aug2025 03:42:31.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
