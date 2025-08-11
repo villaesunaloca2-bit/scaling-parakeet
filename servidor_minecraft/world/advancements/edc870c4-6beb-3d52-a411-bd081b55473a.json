@@ -2568,6 +2568,7 @@
       "cabbage": "2025-08-05 02:26:41 +0000",
       "glow_berries": "2025-08-04 02:33:33 +0000",
       "sweet_berries": "2025-08-04 07:05:03 +0000",
+      "sugar_cane": "2025-08-11 05:53:29 +0000",
       "wheat": "2025-08-05 02:26:36 +0000",
       "carrot": "2025-08-05 02:18:11 +0000"
     },
@@ -6975,15 +6976,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2025-08-11 05:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-11 05:33:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-11 04:49:11 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-08-11 05:33:37 +0000"
+    },
+    "done": true
+  },
   "alekiships:recipes/crafting/crafting/cannonball": {
     "criteria": {
       "has_gunpowder": "2025-08-11 05:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-08-11 05:33:37 +0000"
     },
     "done": true
   },
@@ -7017,6 +7042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-08-11 05:32:46 +0000"
+    },
+    "done": true
+  },
   "astikorcarts:recipes/wheel": {
     "criteria": {
       "has_planks": "2025-08-11 05:17:32 +0000"
@@ -7035,9 +7066,27 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-08-11 05:33:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_magenta_dye": {
+    "criteria": {
+      "forge:dyes/magenta": "2025-08-11 05:33:38 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/brick": {
     "criteria": {
       "has_copper_block": "2025-08-11 04:54:36 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_magenta": {
+    "criteria": {
+      "has_dyes/black": "2025-08-11 05:33:38 +0000"
     },
     "done": true
   },
@@ -7050,6 +7099,12 @@
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-08-11 04:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-11 05:33:37 +0000"
     },
     "done": true
   },
@@ -7071,6 +7126,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-11 05:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-11 05:33:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-11 04:49:11 +0000"
@@ -7086,6 +7153,12 @@
   "immersiveengineering:recipes/misc/crafting/plate_silver_hammering": {
     "criteria": {
       "has_silver_ingot": "2025-08-11 05:06:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_magenta": {
+    "criteria": {
+      "has_dyes/black": "2025-08-11 05:33:38 +0000"
     },
     "done": true
   },
@@ -7107,6 +7180,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/smart_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-08-11 05:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2025-08-11 05:33:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-11 04:49:11 +0000"
@@ -7119,9 +7204,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-08-11 05:32:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-11 04:49:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-08-11 05:32:46 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/purple_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-11 05:33:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-08-11 05:33:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_magenta": {
+    "criteria": {
+      "has_dyes/black": "2025-08-11 05:33:38 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/magenta_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-11 05:33:38 +0000"
     },
     "done": true
   },
@@ -7131,9 +7252,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-08-11 05:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-08-11 05:32:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-11 04:49:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-08-11 05:50:43 +0000"
     },
     "done": true
   },
@@ -7149,9 +7288,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-11 05:32:46 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_magenta": {
+    "criteria": {
+      "has_dyes/black": "2025-08-11 05:33:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-11 04:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-11 05:33:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-08-11 05:33:37 +0000"
     },
     "done": true
   },
@@ -7173,11 +7336,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-11 05:33:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
       "has_sherd": "2025-08-11 04:54:36 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_purple_dye": {
+    "criteria": {
+      "forge:dyes/purple": "2025-08-11 05:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2025-08-11 05:33:38 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {

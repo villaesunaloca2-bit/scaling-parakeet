@@ -759,6 +759,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-03 23:17:41 +0000",
       "minecraft:spider": "2025-08-04 05:33:59 +0000",
+      "minecraft:witch": "2025-08-11 05:53:03 +0000",
       "minecraft:cave_spider": "2025-08-04 00:28:52 +0000",
       "minecraft:zombie": "2025-08-04 00:25:06 +0000"
     },
@@ -6004,6 +6005,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-08-11 05:40:46 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/cannonball": {
+    "criteria": {
+      "has_gunpowder": "2025-08-11 05:53:04 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/tf/regions_unexplored/hollow_larch_log": {
     "criteria": {
       "has_item": "2025-08-11 05:20:51 +0000"
@@ -6064,6 +6077,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-08-11 05:40:46 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/larch_stairs": {
     "criteria": {
       "has_larch_planks": "2025-08-11 05:20:51 +0000"
@@ -6094,9 +6113,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-11 05:48:47 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/fd/regions_unexplored/larch_cabinet": {
     "criteria": {
       "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-08-11 05:40:46 +0000"
     },
     "done": true
   },
@@ -6163,6 +6194,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_black_dye": {
     "criteria": {
       "forge:dyes/black": "2025-08-11 05:07:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-08-11 05:40:46 +0000"
     },
     "done": true
   },
@@ -6292,6 +6329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-11 05:40:46 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/sd/regions_unexplored/larch_trim": {
     "criteria": {
       "has_item": "2025-08-11 05:20:51 +0000"
@@ -6355,6 +6398,12 @@
   "everycomp:recipes/decorations/q/regions_unexplored/stripped_larch_post": {
     "criteria": {
       "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/orange_dye_from_cave_hyssop": {
+    "criteria": {
+      "has_cave_hyssop": "2025-08-11 05:51:00 +0000"
     },
     "done": true
   },

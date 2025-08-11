@@ -6248,6 +6248,30 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-11 05:47:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-08-11 05:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-08-11 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-11 05:47:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-08-11 05:20:51 +0000"
@@ -6278,9 +6302,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-11 05:47:15 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/spruce_banister": {
     "criteria": {
       "has_item": "2025-08-11 05:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-11 05:47:15 +0000"
     },
     "done": true
   },
@@ -6296,9 +6332,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-11 05:47:15 +0000"
+    },
+    "done": true
+  },
   "astikorcarts:recipes/plow": {
     "criteria": {
       "has_wheel": "2025-08-11 04:48:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-11 05:47:15 +0000"
     },
     "done": true
   },
@@ -6308,15 +6356,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-11 05:47:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
+    "criteria": {
+      "has_log": "2025-08-11 05:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-11 05:44:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-08-11 05:20:51 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-11 05:47:15 +0000"
+    },
+    "done": true
+  },
   "alekiships:recipes/crafting/crafting/anchor": {
     "criteria": {
       "has_iron_nugget": "2025-08-11 05:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-11 05:47:15 +0000"
     },
     "done": true
   },
@@ -6329,6 +6407,36 @@
   "immersive_weathering:recipes/brick": {
     "criteria": {
       "has_copper_block": "2025-08-11 05:21:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-08-11 05:33:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2025-08-11 05:47:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-11 05:47:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-11 05:47:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-11 05:47:15 +0000"
     },
     "done": true
   },
@@ -6356,6 +6464,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-11 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-08-11 05:47:15 +0000"
+    },
+    "done": true
+  },
   "farmersrespite:recipes/decorations/kettle": {
     "criteria": {
       "has_brick": "2025-08-11 05:21:36 +0000"
@@ -6365,6 +6485,18 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-11 05:47:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-11 05:47:15 +0000"
     },
     "done": true
   },
@@ -6422,9 +6554,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-08-11 05:45:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-08-11 05:21:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-11 05:47:15 +0000"
     },
     "done": true
   },
@@ -6434,15 +6578,51 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-08-11 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-08-11 05:34:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-11 05:47:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-11 05:47:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-08-11 05:21:36 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-11 05:47:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-11 05:47:15 +0000"
     },
     "done": true
   },
