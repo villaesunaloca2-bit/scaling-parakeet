@@ -2545,6 +2545,7 @@
       "minecraft:river": "2025-08-04 04:58:21 +0000",
       "minecraft:lush_caves": "2025-08-04 02:32:39 +0000",
       "minecraft:flower_forest": "2025-08-04 04:59:31 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-11 04:57:38 +0000",
       "minecraft:meadow": "2025-08-04 02:55:24 +0000",
       "minecraft:plains": "2025-08-04 04:59:32 +0000"
     },
@@ -6992,6 +6993,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/yellow_dye_from_yellow_lupine": {
+    "criteria": {
+      "has_yellow_lupine": "2025-08-11 05:01:48 +0000"
+    },
+    "done": true
+  },
   "astikorcarts:recipes/plow": {
     "criteria": {
       "has_wheel": "2025-08-11 04:33:49 +0000"
@@ -7007,6 +7014,24 @@
   "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-11 04:49:11 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/brick": {
+    "criteria": {
+      "has_copper_block": "2025-08-11 04:54:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-08-11 04:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-08-11 04:54:36 +0000"
     },
     "done": true
   },
@@ -7052,6 +7077,12 @@
     },
     "done": true
   },
+  "farmersrespite:recipes/decorations/kettle": {
+    "criteria": {
+      "has_brick": "2025-08-11 04:54:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-11 04:49:11 +0000"
@@ -7082,6 +7113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-08-11 04:54:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-11 04:49:11 +0000"
@@ -7109,6 +7146,18 @@
   "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-11 04:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-08-11 04:54:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-08-11 04:54:36 +0000"
     },
     "done": true
   },

@@ -5726,3 +5726,121 @@ java.lang.IllegalStateException: not found
 [11Aug2025 04:53:18.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isu_Name> thes el peso de los jugadores en las carretas deberias bajarlo un poco
 [11Aug2025 04:53:26.190] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
 [11Aug2025 04:53:32.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[11Aug2025 04:53:35.633] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.1185417175293) to VERY_HIGH (avg. 57.2112922668457)
+[11Aug2025 04:53:41.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thes912> asi viene por defecto, si puedo lo hare
+[11Aug2025 04:53:51.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3356ms or 67 ticks behind
+[11Aug2025 04:54:04.954] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.5958137512207) to HIGH (avg. 54.767539978027344)
+[11Aug2025 04:54:05.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isu_Name> imagina que si el caballo va a 12 bloques por segundo, 2 personas en carretas lo reduce a 4 bloques por segundo
+[11Aug2025 04:54:10.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4613ms or 92 ticks behind
+[11Aug2025 04:54:20.587] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 54.767539978027344) to MEDIUM (avg. 46.99465560913086)
+[11Aug2025 04:54:23.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thes912> si ta muy exagerado
+[11Aug2025 04:54:28.251] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 04:54:35.585] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.99465560913086) to NORMAL (avg. 45.633724212646484)
+[11Aug2025 04:54:36.531] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 04:54:36.533] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 04:54:43.195] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.633724212646484) to MEDIUM (avg. 47.827964782714844)
+[11Aug2025 04:54:58.080] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.348388671875) to HIGH (avg. 52.029754638671875)
+[11Aug2025 04:55:13.020] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.029754638671875) to NORMAL (avg. 45.4630012512207)
+[11Aug2025 04:55:28.235] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.4630012512207) to MEDIUM (avg. 47.72193145751953)
+[11Aug2025 04:55:33.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuuichiro425 moved wrongly!
+[11Aug2025 04:55:35.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isu_Name) moved wrongly! 0.3609163803621698
+[11Aug2025 04:55:35.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isu_Name) moved wrongly! 0.48412272263976774
+[11Aug2025 04:55:35.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isu_Name) moved wrongly! 0.8352622775418013
+[11Aug2025 04:55:35.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isu_Name) moved wrongly! 1.2898828916742104
+[11Aug2025 04:55:52.282] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.510719299316406) to HIGH (avg. 49.798828125)
+[11Aug2025 04:55:55.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[11Aug2025 04:56:17.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[11Aug2025 04:56:25.913] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.85704803466797) to VERY_HIGH (avg. 60.523155212402344)
+[11Aug2025 04:56:36.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3296ms or 65 ticks behind
+[11Aug2025 04:56:46.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thes912> copper shovel
+[11Aug2025 04:56:54.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3257ms or 65 ticks behind
+[11Aug2025 04:56:57.849] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 04:56:59.800] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 04:57:13.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3894ms or 77 ticks behind
+[11Aug2025 04:57:31.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isu_Name> thes ven aqui un momento
+[11Aug2025 04:57:31.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3546ms or 70 ticks behind
+[11Aug2025 04:57:39.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thes912> voy
+[11Aug2025 04:57:45.029] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 04:57:48.347] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 04:57:50.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3755ms or 75 ticks behind
+[11Aug2025 04:58:08.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3435ms or 68 ticks behind
+[11Aug2025 04:58:19.858] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/195525, l='ServerLevel[world]', x=750.30, y=16.72, z=-911.13, removed=DISCARDED]
+[11Aug2025 04:58:28.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[11Aug2025 04:58:41.234] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 04:58:45.160] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 67.43848419189453) to HIGH (avg. 50.584388732910156)
+[11Aug2025 04:58:46.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2295ms or 45 ticks behind
+[11Aug2025 04:58:58.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thes912> zzzz
+[11Aug2025 04:58:59.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zack_201> zzzzzzzzzzzzzzz
+[11Aug2025 04:59:06.612] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 04:59:10.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[11Aug2025 04:59:10.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fred31212> fañta uno
+[11Aug2025 04:59:17.304] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 04:59:25.690] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 54.107757568359375) to MEDIUM (avg. 48.99916076660156)
+[11Aug2025 04:59:31.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Spectator Mode]
+[11Aug2025 04:59:35.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to 698.500000, 144.000000, -1475.500000]
+[11Aug2025 04:59:38.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[11Aug2025 04:59:41.582] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 04:59:42.282] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.99916076660156) to HIGH (avg. 54.44645309448242)
+[11Aug2025 04:59:55.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2581ms or 51 ticks behind
+[11Aug2025 04:59:55.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to 403.500000, 99.386335, -1272.500000]
+[11Aug2025 05:00:12.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[11Aug2025 05:00:20.299] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:00:23.923] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element terralith:cave/andesite_caves took 31 ms
+[11Aug2025 05:00:26.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to 295.500000, 86.000000, -1311.500000]
+[11Aug2025 05:00:30.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[11Aug2025 05:00:32.208] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:00:33.855] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:00:50.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[11Aug2025 05:00:52.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to Isu_Name]
+[11Aug2025 05:00:55.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[11Aug2025 05:00:55.991] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:00:59.585] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.89073944091797) to VERY_HIGH (avg. 57.263084411621094)
+[11Aug2025 05:01:07.342] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:01:07.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2711ms or 54 ticks behind
+[11Aug2025 05:01:08.147] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.263084411621094) to HIGH (avg. 54.980690002441406)
+[11Aug2025 05:01:13.021] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fred31212 lost connection: Disconnected
+[11Aug2025 05:01:13.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fred31212 left the game
+[11Aug2025 05:01:13.021] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client fred31212
+[11Aug2025 05:01:24.214] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 54.980690002441406) to MEDIUM (avg. 48.92433547973633)
+[11Aug2025 05:01:35.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[11Aug2025 05:01:40.117] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.92433547973633) to HIGH (avg. 49.080841064453125)
+[11Aug2025 05:01:41.501] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:01:52.004] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:01:52.518] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:02:08.312] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:02:08.700] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:02:10.100] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.06450653076172) to MEDIUM (avg. 48.36992263793945)
+[11Aug2025 05:02:25.070] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.36992263793945) to NORMAL (avg. 43.828086853027344)
+[11Aug2025 05:02:33.925] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:03:10.070] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.38800811767578) to LOW (avg. 39.538455963134766)
+[11Aug2025 05:03:17.577] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.538455963134766) to MEDIUM (avg. 46.01457977294922)
+[11Aug2025 05:03:23.192] [ForkJoinPool.commonPool-worker-30/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:fred31212'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.4.2+1.20-forge.jar%23436!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[skinrestorer-2.4.2+1.20-forge.jar%23436!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[skinrestorer-2.4.2+1.20-forge.jar%23436!/:2.4.2+1.20-forge]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[skinrestorer-2.4.2+1.20-forge.jar%23436!/:2.4.2+1.20-forge]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mda2981d$skinrestorer$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:1582) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:1581) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mda2981d$skinrestorer$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:1566) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11Aug2025 05:03:23.228] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fred31212[/127.133.63.133:32773] logged in with entity id 204805 at (578.5631672679144, 77.0, -1.5372763440066881)
+[11Aug2025 05:03:23.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fred31212 joined the game
+[11Aug2025 05:03:23.293] [Server thread/INFO] [APTweaks(Player)/]: Player fred31212 ServerPlayer['fred31212'/204805, l='ServerLevel[world]', x=578.56, y=77.00, z=-1.54] logged in and will be protected for 90 secs.
+[11Aug2025 05:03:24.227] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of fred31212 (18)
+[11Aug2025 05:03:24.228] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to fred31212
+[11Aug2025 05:03:25.070] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.01457977294922) to NORMAL (avg. 43.07853698730469)
+[11Aug2025 05:03:37.696] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 030e16ed-86c8-32c6-8ed3-a5ac886009df
+[11Aug2025 05:03:38.403] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 030e16ed-86c8-32c6-8ed3-a5ac886009df
+[11Aug2025 05:03:38.404] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player fred31212 (030e16ed-86c8-32c6-8ed3-a5ac886009df) successfully connected to voice chat
+[11Aug2025 05:03:41.420] [Server thread/INFO] [APTweaks(Player)/]: Protected Player fred31212 was successful validated after 18 secs.
+[11Aug2025 05:03:41.420] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player fred31212!

@@ -6254,6 +6254,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-08-11 05:01:00 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/cannon": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-11 05:01:00 +0000"
+    },
+    "done": true
+  },
   "astikorcarts:recipes/plow": {
     "criteria": {
       "has_wheel": "2025-08-11 04:48:16 +0000"
@@ -6266,9 +6278,27 @@
     },
     "done": true
   },
+  "alekiships:recipes/crafting/crafting/anchor": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-11 05:01:00 +0000"
+    },
+    "done": true
+  },
   "astikorcarts:recipes/animal_cart": {
     "criteria": {
       "has_wheel": "2025-08-11 04:48:16 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/cleat": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-11 05:01:00 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/oar": {
+    "criteria": {
+      "has_wooden_slab": "2025-08-11 05:01:00 +0000"
     },
     "done": true
   },
