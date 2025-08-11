@@ -9464,6 +9464,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2025-08-11 05:21:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-08-11 03:38:01 +0000"
@@ -9479,6 +9485,18 @@
   "everycomp:recipes/decorations/q/regions_unexplored/pine_chest": {
     "criteria": {
       "has_item": "2025-08-11 03:31:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-08-11 05:29:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-08-11 05:29:15 +0000"
     },
     "done": true
   },
@@ -9674,6 +9692,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-08-11 05:29:15 +0000"
+    },
+    "done": true
+  },
   "brewinandchewin:recipes/fermenting/cocoa_fudge": {
     "criteria": {
       "has_cocoa_beans": "2025-08-11 03:38:01 +0000"
@@ -9731,6 +9755,12 @@
   "everycomp:recipes/decorations/sd/regions_unexplored/pine_trim": {
     "criteria": {
       "has_item": "2025-08-11 03:31:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+    "criteria": {
+      "has_fireweed": "2025-08-11 05:21:31 +0000"
     },
     "done": true
   },

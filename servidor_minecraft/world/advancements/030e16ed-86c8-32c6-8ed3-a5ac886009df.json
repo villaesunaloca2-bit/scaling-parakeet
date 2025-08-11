@@ -6004,6 +6004,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/tf/regions_unexplored/hollow_larch_log": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-11 05:17:46 +0000"
@@ -6016,9 +6022,39 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/regions_unexplored/larch_trapped_chest": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
   "alekiships:recipes/crafting/crafting/cannon": {
     "criteria": {
       "has_wooden_slab": "2025-08-11 05:18:10 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/larch_window_pane": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/larch_chest": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_larch": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_door": {
+    "criteria": {
+      "has_larch_planks": "2025-08-11 05:20:51 +0000"
     },
     "done": true
   },
@@ -6028,9 +6064,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/larch_stairs": {
+    "criteria": {
+      "has_larch_planks": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/glass_black": {
     "criteria": {
       "has_dyes/black": "2025-08-11 05:07:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/hollow_larch_log": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
     },
     "done": true
   },
@@ -6040,9 +6088,33 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/bp/regions_unexplored/larch_backpack_shelf": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/regions_unexplored/larch_cabinet": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-11 05:17:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/larch_banister": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_button": {
+    "criteria": {
+      "has_larch_planks": "2025-08-11 05:20:51 +0000"
     },
     "done": true
   },
@@ -6082,15 +6154,45 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/coal_coke_to_coke": {
+    "criteria": {
+      "has_coal_coke": "2025-08-11 05:22:51 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_black_dye": {
     "criteria": {
       "forge:dyes/black": "2025-08-11 05:07:43 +0000"
     },
     "done": true
   },
+  "everycomp:recipes/decorations/sd/regions_unexplored/larch_half_drawers_4": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/larch_half_drawers_2": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/larch_half_drawers_1": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-11 05:17:46 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coke_to_coal_coke": {
+    "criteria": {
+      "has_coke": "2025-08-11 05:22:51 +0000"
     },
     "done": true
   },
@@ -6106,9 +6208,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/larch_slab": {
+    "criteria": {
+      "has_larch_planks": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/larch_vertical_slab_revert": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-11 05:17:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_trapdoor": {
+    "criteria": {
+      "has_larch_planks": "2025-08-11 05:20:51 +0000"
     },
     "done": true
   },
@@ -6124,6 +6244,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/larch_fence_gate": {
+    "criteria": {
+      "has_larch_planks": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-11 05:17:46 +0000"
@@ -6133,6 +6259,24 @@
   "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-11 05:17:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_pressure_plate": {
+    "criteria": {
+      "has_larch_planks": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_fence": {
+    "criteria": {
+      "has_larch_planks": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/larch_ladder": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
     },
     "done": true
   },
@@ -6148,6 +6292,18 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/sd/regions_unexplored/larch_trim": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/vertical_larch_planks": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/metal_ladder_none": {
     "criteria": {
       "has_metal_rod": "2025-08-11 05:04:38 +0000"
@@ -6157,6 +6313,12 @@
   "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-11 05:17:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/larch_window": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
     },
     "done": true
   },
@@ -6184,6 +6346,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/larch_sign": {
+    "criteria": {
+      "has_larch_planks": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/stripped_larch_post": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_black": {
     "criteria": {
       "has_dyes/black": "2025-08-11 05:07:43 +0000"
@@ -6208,6 +6382,24 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/sd/regions_unexplored/larch_full_drawers_1": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/larch_full_drawers_2": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/larch_full_drawers_4": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/smart_black": {
     "criteria": {
       "has_dyes/black": "2025-08-11 05:07:43 +0000"
@@ -6220,9 +6412,27 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/regions_unexplored/larch_bookshelf": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/larch_post": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2025-08-11 05:07:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/larch_vertical_slab": {
+    "criteria": {
+      "has_item": "2025-08-11 05:20:51 +0000"
     },
     "done": true
   },
