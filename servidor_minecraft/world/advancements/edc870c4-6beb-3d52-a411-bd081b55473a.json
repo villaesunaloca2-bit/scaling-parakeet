@@ -6999,6 +6999,12 @@
     },
     "done": true
   },
+  "alekiships:recipes/crafting/crafting/cannon": {
+    "criteria": {
+      "has_wooden_slab": "2025-08-11 05:17:36 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/yellow_dye_from_yellow_lupine": {
     "criteria": {
       "has_yellow_lupine": "2025-08-11 05:01:48 +0000"
@@ -7008,6 +7014,12 @@
   "astikorcarts:recipes/plow": {
     "criteria": {
       "has_wheel": "2025-08-11 04:33:49 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/wheel": {
+    "criteria": {
+      "has_planks": "2025-08-11 05:17:32 +0000"
     },
     "done": true
   },

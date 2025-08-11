@@ -5963,3 +5963,98 @@ java.lang.IllegalStateException: not found
 [11Aug2025 05:14:51.800] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
 [11Aug2025 05:14:51.801] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
 [11Aug2025 05:15:00.122] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:15:01.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4269ms or 85 ticks behind
+[11Aug2025 05:15:17.989] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 63.31501388549805) to HIGH (avg. 54.50179672241211)
+[11Aug2025 05:15:21.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4395ms or 87 ticks behind
+[11Aug2025 05:15:28.361] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:15:36.193] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:15:39.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[11Aug2025 05:15:44.305] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:15:46.724] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:15:51.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zack_201> xaero-waypoint:Shared Location:S:-302:149:-642:8:false:0:Internal-overworld-waypoints
+[11Aug2025 05:15:57.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[11Aug2025 05:16:00.754] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:16:08.803] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.49296951293945) to VERY_HIGH (avg. 60.51076889038086)
+[11Aug2025 05:16:10.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to fred31212]
+[11Aug2025 05:16:15.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2675ms or 53 ticks behind
+[11Aug2025 05:16:29.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Spectator Mode]
+[11Aug2025 05:16:32.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[11Aug2025 05:16:33.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2686ms or 53 ticks behind
+[11Aug2025 05:16:35.337] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.642974853515625) to HIGH (avg. 53.357051849365234)
+[11Aug2025 05:16:38.781] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:16:46.901] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:16:50.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2608ms or 52 ticks behind
+[11Aug2025 05:16:53.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Spectator Mode]
+[11Aug2025 05:16:57.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[11Aug2025 05:17:05.495] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:17:14.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[11Aug2025 05:17:19.055] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:17:21.122] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:17:34.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[11Aug2025 05:17:38.935] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:17:51.159] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:17:51.731] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:17:56.867] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:18:07.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to Zack_201]
+[11Aug2025 05:18:17.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to -313.500000, 149.500000, -653.500000]
+[11Aug2025 05:18:17.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[11Aug2025 05:18:21.162] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.14004135131836) to MEDIUM (avg. 46.52732467651367)
+[11Aug2025 05:18:21.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
+[11Aug2025 05:18:23.614] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:18:51.143] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.27000427246094) to HIGH (avg. 49.119659423828125)
+[11Aug2025 05:18:55.300] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:18:58.863] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.119659423828125) to MEDIUM (avg. 47.627872467041016)
+[11Aug2025 05:19:06.651] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.627872467041016) to HIGH (avg. 52.690738677978516)
+[11Aug2025 05:19:21.656] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.690738677978516) to MEDIUM (avg. 48.456626892089844)
+[11Aug2025 05:19:26.737] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:19:36.928] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.456626892089844) to HIGH (avg. 53.40708923339844)
+[11Aug2025 05:19:48.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2199ms or 43 ticks behind
+[11Aug2025 05:19:58.853] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 8d76394e-1016-3784-baa8-6080ae2cb123 timed out
+[11Aug2025 05:19:58.853] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ToxicElah
+[11Aug2025 05:19:58.854] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ToxicElah
+[11Aug2025 05:20:02.113] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.80319595336914) to VERY_HIGH (avg. 58.4893798828125)
+[11Aug2025 05:20:07.621] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToxicElah lost connection: Disconnected
+[11Aug2025 05:20:07.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToxicElah left the game
+[11Aug2025 05:20:07.622] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ToxicElah
+[11Aug2025 05:20:10.084] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.4893798828125) to HIGH (avg. 54.764862060546875)
+[11Aug2025 05:20:17.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[11Aug2025 05:20:41.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[11Aug2025 05:20:42.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.45246887207031) to MEDIUM (avg. 48.65186309814453)
+[11Aug2025 05:20:47.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fred31212 was slain by Spider
+[11Aug2025 05:20:47.634] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:20:50.427] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.65186309814453) to HIGH (avg. 51.871307373046875)
+[11Aug2025 05:20:51.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isu_Name has made the advancement [Diamonds!]
+[11Aug2025 05:20:54.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thes912> ya les aparecieron xd
+[11Aug2025 05:20:56.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thes912> gg
+[11Aug2025 05:20:58.969] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.871307373046875) to VERY_HIGH (avg. 55.87285232543945)
+[11Aug2025 05:21:01.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[11Aug2025 05:21:18.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2534ms or 50 ticks behind
+[11Aug2025 05:21:19.148] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToxicElah[/127.65.248.166:57435] logged in with entity id 252681 at (-309.27490013123617, 151.0, -651.2318712914753)
+[11Aug2025 05:21:19.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToxicElah joined the game
+[11Aug2025 05:21:19.231] [Server thread/INFO] [APTweaks(Player)/]: Player ToxicElah ServerPlayer['ToxicElah'/252681, l='ServerLevel[world]', x=-309.27, y=151.00, z=-651.23] logged in and will be protected for 90 secs.
+[11Aug2025 05:21:19.721] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ToxicElah (18)
+[11Aug2025 05:21:19.722] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ToxicElah
+[11Aug2025 05:21:37.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3477ms or 69 ticks behind
+[11Aug2025 05:21:38.602] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:21:52.453] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 60.423240661621094) to HIGH (avg. 54.77953338623047)
+[11Aug2025 05:21:54.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2574ms or 51 ticks behind
+[11Aug2025 05:22:13.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[11Aug2025 05:22:17.654] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.01970672607422) to VERY_HIGH (avg. 56.09843826293945)
+[11Aug2025 05:22:41.617] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.255615234375) to MEDIUM (avg. 48.90207290649414)
+[11Aug2025 05:22:48.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToxicElah lost connection: Disconnected
+[11Aug2025 05:22:48.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToxicElah left the game
+[11Aug2025 05:22:48.816] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ToxicElah
+[11Aug2025 05:23:05.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[11Aug2025 05:23:12.000] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.678802490234375) to HIGH (avg. 54.721046447753906)
+[11Aug2025 05:23:40.330] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:23:42.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[11Aug2025 05:24:22.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[11Aug2025 05:24:23.435] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.76201629638672) to VERY_HIGH (avg. 56.466163635253906)
+[11Aug2025 05:24:39.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.466163635253906) to HIGH (avg. 54.30368423461914)
+[11Aug2025 05:24:44.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[11Aug2025 05:24:55.386] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:24:55.387] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 05:24:56.541] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.30368423461914) to VERY_HIGH (avg. 55.847225189208984)
+[11Aug2025 05:25:02.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[11Aug2025 05:25:20.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3805ms or 76 ticks behind
+[11Aug2025 05:25:24.967] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
