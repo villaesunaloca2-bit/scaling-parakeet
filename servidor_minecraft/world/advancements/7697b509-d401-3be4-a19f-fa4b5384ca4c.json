@@ -897,6 +897,7 @@
       "minecraft:beach": "2025-08-04 05:24:04 +0000",
       "minecraft:sparse_jungle": "2025-08-07 05:56:34 +0000",
       "minecraft:river": "2025-08-04 03:19:58 +0000",
+      "minecraft:dripstone_caves": "2025-08-11 04:49:18 +0000",
       "minecraft:swamp": "2025-08-04 05:36:11 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-07 06:01:18 +0000",
       "minecraft:meadow": "2025-08-04 03:13:20 +0000",
@@ -6244,6 +6245,30 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-08-07 22:51:22 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/supply_cart": {
+    "criteria": {
+      "has_wheel": "2025-08-11 04:48:16 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/plow": {
+    "criteria": {
+      "has_wheel": "2025-08-11 04:48:16 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/wheel": {
+    "criteria": {
+      "has_planks": "2025-08-11 04:48:16 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/animal_cart": {
+    "criteria": {
+      "has_wheel": "2025-08-11 04:48:16 +0000"
     },
     "done": true
   },
