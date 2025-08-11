@@ -939,6 +939,7 @@
       "minecraft:warm_ocean": "2025-08-08 03:54:30 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-08 03:52:58 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-09 05:16:27 +0000",
+      "minecraft:deep_dark": "2025-08-11 04:09:31 +0000",
       "minecraft:meadow": "2025-08-06 23:43:48 +0000",
       "minecraft:plains": "2025-08-09 05:50:42 +0000"
     },
@@ -6201,6 +6202,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal": {
+    "criteria": {
+      "has_creosote": "2025-08-11 03:43:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-08-11 03:20:53 +0000"
@@ -6249,9 +6256,33 @@
     },
     "done": true
   },
+  "immersiveengineering:main/creosote": {
+    "criteria": {
+      "has_item": "2025-08-11 03:43:50 +0000"
+    },
+    "done": true
+  },
+  "strainers:recipes/misc/purifying_salt_mulch": {
+    "criteria": {
+      "has_charcoal": "2025-08-11 03:42:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-08-11 03:20:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-08-11 04:07:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-08-11 04:07:49 +0000"
     },
     "done": true
   },
@@ -6273,6 +6304,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-08-11 04:07:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-08-11 03:20:53 +0000"
@@ -6282,6 +6319,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-08-11 03:20:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-08-11 04:07:49 +0000"
     },
     "done": true
   },

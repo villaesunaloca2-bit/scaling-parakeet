@@ -5225,3 +5225,69 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [11Aug2025 03:40:46.741] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
 [11Aug2025 03:42:21.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
 [11Aug2025 03:42:31.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
+[11Aug2025 03:42:36.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[11Aug2025 03:42:54.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
+[11Aug2025 03:43:42.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[11Aug2025 03:43:50.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToxicElah has made the advancement [Don't drink this...]
+[11Aug2025 03:44:00.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
+[11Aug2025 03:44:09.197] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:45:25.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[11Aug2025 03:45:32.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
+[11Aug2025 03:47:54.343] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:48:21.592] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:49:52.552] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:50:52.441] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:51:03.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[11Aug2025 03:51:11.397] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:51:15.744] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:51:15.745] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:51:54.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
+[11Aug2025 03:53:12.647] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:53:45.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zack_201 lost connection: Disconnected
+[11Aug2025 03:53:45.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 left the game
+[11Aug2025 03:53:45.795] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zack_201
+[11Aug2025 03:55:06.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 was shot by Skeleton
+[11Aug2025 03:55:24.951] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:57:39.517] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zack_201[/127.74.115.109:53075] logged in with entity id 33924 at (-256.8452489278516, 60.0, -712.633684368088)
+[11Aug2025 03:57:39.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 joined the game
+[11Aug2025 03:57:39.581] [Server thread/INFO] [APTweaks(Player)/]: Player Zack_201 ServerPlayer['Zack_201'/33924, l='ServerLevel[world]', x=-256.85, y=60.00, z=-712.63] logged in and will be protected for 90 secs.
+[11Aug2025 03:57:39.822] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:57:39.824] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:57:42.819] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zack_201 (18)
+[11Aug2025 03:57:42.820] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zack_201
+[11Aug2025 03:57:52.080] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3fa830de-284c-3e51-b197-89bb104c814a
+[11Aug2025 03:57:53.082] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3fa830de-284c-3e51-b197-89bb104c814a
+[11Aug2025 03:57:53.082] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zack_201 (3fa830de-284c-3e51-b197-89bb104c814a) successfully connected to voice chat
+[11Aug2025 03:57:58.670] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Zack_201 was successful validated after 19 secs.
+[11Aug2025 03:57:58.670] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Zack_201!
+[11Aug2025 03:58:48.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[11Aug2025 03:59:23.002] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 03:59:35.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
+[11Aug2025 03:59:40.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 was shot by Pillager
+[11Aug2025 04:00:15.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 has made the advancement [Voluntary Exile]
+[11Aug2025 04:00:24.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 has made the advancement [Clad to See You]
+[11Aug2025 04:00:29.806] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 04:02:24.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zack_201 lost connection: Disconnected
+[11Aug2025 04:02:24.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 left the game
+[11Aug2025 04:02:24.494] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zack_201
+[11Aug2025 04:02:33.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thes912 moved wrongly!
+[11Aug2025 04:03:55.293] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 04:05:31.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zack_201[/127.74.115.109:46747] logged in with entity id 39922 at (-245.97747297220386, 60.0, -723.6960389432865)
+[11Aug2025 04:05:31.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 joined the game
+[11Aug2025 04:05:31.710] [Server thread/INFO] [APTweaks(Player)/]: Player Zack_201 ServerPlayer['Zack_201'/39922, l='ServerLevel[world]', x=-245.98, y=60.00, z=-723.70] logged in and will be protected for 90 secs.
+[11Aug2025 04:05:34.956] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zack_201 (18)
+[11Aug2025 04:05:34.956] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zack_201
+[11Aug2025 04:05:43.280] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3fa830de-284c-3e51-b197-89bb104c814a
+[11Aug2025 04:05:44.283] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3fa830de-284c-3e51-b197-89bb104c814a
+[11Aug2025 04:05:44.283] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zack_201 (3fa830de-284c-3e51-b197-89bb104c814a) successfully connected to voice chat
+[11Aug2025 04:06:12.720] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Zack_201 was successful validated after 41 secs.
+[11Aug2025 04:06:12.720] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Zack_201!
+[11Aug2025 04:07:49.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[11Aug2025 04:09:40.998] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 04:09:58.413] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 8d76394e-1016-3784-baa8-6080ae2cb123 timed out
+[11Aug2025 04:09:58.413] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ToxicElah
+[11Aug2025 04:09:58.413] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ToxicElah
+[11Aug2025 04:10:04.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToxicElah lost connection: Timed out
+[11Aug2025 04:10:04.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToxicElah left the game
+[11Aug2025 04:10:04.650] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ToxicElah
+[11Aug2025 04:12:53.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
