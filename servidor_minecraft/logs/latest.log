@@ -6513,3 +6513,81 @@ java.lang.IllegalStateException: not found
 [11Aug2025 06:16:47.134] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0dc1716d-6324-3292-88fc-ee819627c835 timed out
 [11Aug2025 06:16:47.135] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Yuuichiro425
 [11Aug2025 06:16:47.135] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Yuuichiro425
+[11Aug2025 06:17:03.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 was shot by Skeleton
+[11Aug2025 06:17:05.220] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.118051528930664) to VERY_LOW (avg. 19.624752044677734)
+[11Aug2025 06:17:05.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuuichiro425 lost connection: Timed out
+[11Aug2025 06:17:05.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 left the game
+[11Aug2025 06:17:05.638] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Yuuichiro425
+[11Aug2025 06:18:35.735] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 06:18:35.736] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 06:18:38.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isu_Name lost connection: Disconnected
+[11Aug2025 06:18:38.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isu_Name left the game
+[11Aug2025 06:18:38.082] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Isu_Name
+[11Aug2025 06:20:22.891] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Isu_Name[/127.251.220.3:50021] logged in with entity id 382466 at (536.7690358997228, 75.5625, 25.30000001192093)
+[11Aug2025 06:20:22.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isu_Name joined the game
+[11Aug2025 06:20:22.927] [Server thread/INFO] [APTweaks(Player)/]: Player Isu_Name ServerPlayer['Isu_Name'/382466, l='ServerLevel[world]', x=536.77, y=75.56, z=25.30] logged in and will be protected for 90 secs.
+[11Aug2025 06:20:23.444] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Isu_Name (18)
+[11Aug2025 06:20:23.445] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Isu_Name
+[11Aug2025 06:20:52.579] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7697b509-d401-3be4-a19f-fa4b5384ca4c
+[11Aug2025 06:20:54.602] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7697b509-d401-3be4-a19f-fa4b5384ca4c
+[11Aug2025 06:20:54.602] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Isu_Name (7697b509-d401-3be4-a19f-fa4b5384ca4c) successfully connected to voice chat
+[11Aug2025 06:20:56.370] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Isu_Name was successful validated after 33 secs.
+[11Aug2025 06:20:56.370] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Isu_Name!
+[11Aug2025 06:21:18.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isu_Name was slain by Nightmare Stalker
+[11Aug2025 06:21:20.487] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 06:21:39.618] [ForkJoinPool.commonPool-worker-45/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:Yuuichiro425'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.4.2+1.20-forge.jar%23436!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[skinrestorer-2.4.2+1.20-forge.jar%23436!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[skinrestorer-2.4.2+1.20-forge.jar%23436!/:2.4.2+1.20-forge]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[skinrestorer-2.4.2+1.20-forge.jar%23436!/:2.4.2+1.20-forge]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mda2981d$skinrestorer$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:1582) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:1581) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mda2981d$skinrestorer$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:1566) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11Aug2025 06:21:39.656] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuuichiro425[/127.228.82.193:40855] logged in with entity id 383082 at (613.6999999880791, 75.7531999805212, -55.30000001192093)
+[11Aug2025 06:21:39.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 joined the game
+[11Aug2025 06:21:39.712] [Server thread/INFO] [APTweaks(Player)/]: Player Yuuichiro425 ServerPlayer['Yuuichiro425'/383082, l='ServerLevel[world]', x=613.70, y=75.75, z=-55.30] logged in and will be protected for 90 secs.
+[11Aug2025 06:21:44.370] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Yuuichiro425 (18)
+[11Aug2025 06:21:44.371] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Yuuichiro425
+[11Aug2025 06:21:52.722] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/383110, l='ServerLevel[world]', x=575.85, y=-256.00, z=-35.23] died, message: 'Villager was killed'
+[11Aug2025 06:21:56.056] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0dc1716d-6324-3292-88fc-ee819627c835
+[11Aug2025 06:21:57.056] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0dc1716d-6324-3292-88fc-ee819627c835
+[11Aug2025 06:21:57.057] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Yuuichiro425 (0dc1716d-6324-3292-88fc-ee819627c835) successfully connected to voice chat
+[11Aug2025 06:21:59.920] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Yuuichiro425 was successful validated after 20 secs.
+[11Aug2025 06:22:05.220] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.581951141357422) to LOW (avg. 22.17987060546875)
+[11Aug2025 06:22:15.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 has made the advancement [Dark Metallurgy]
+[11Aug2025 06:22:26.989] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 06:22:26.991] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 06:22:39.240] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 06:22:39.241] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 06:22:42.720] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.337770462036133) to VERY_LOW (avg. 19.14672088623047)
+[11Aug2025 06:22:51.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 was slain by Baby Skeleton
+[11Aug2025 06:22:57.720] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.14672088623047) to LOW (avg. 20.759063720703125)
+[11Aug2025 06:23:03.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isu_Name has made the advancement [Dark Metallurgy]
+[11Aug2025 06:23:12.720] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.759063720703125) to VERY_LOW (avg. 16.287647247314453)
+[11Aug2025 06:23:20.220] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.287647247314453) to LOW (avg. 21.478483200073242)
+[11Aug2025 06:23:27.720] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.478483200073242) to VERY_LOW (avg. 17.53813362121582)
+[11Aug2025 06:24:01.721] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/383572, l='ServerLevel[world]', x=533.01, y=-256.00, z=26.32] died, message: 'Villager was killed'
+[11Aug2025 06:24:25.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isu_Name was slain by Nightmare Stalker
+[11Aug2025 06:24:27.720] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.54148292541504) to LOW (avg. 22.906314849853516)
+[11Aug2025 06:24:27.741] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 06:24:27.742] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 06:24:53.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 was shot by Skeleton
+[11Aug2025 06:25:27.720] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.704954147338867) to VERY_LOW (avg. 18.311248779296875)
+[11Aug2025 06:25:48.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 was slain by Nightmare Stalker
+[11Aug2025 06:25:50.220] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.492650985717773) to LOW (avg. 20.159408569335938)
+[11Aug2025 06:25:57.720] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.159408569335938) to VERY_LOW (avg. 18.448917388916016)
+[11Aug2025 06:26:29.721] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/384268, l='ServerLevel[world]', x=575.73, y=-256.00, z=-34.67] died, message: 'Villager was killed'
+[11Aug2025 06:26:43.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 has reached the goal [Fighting Nightmares]
+[11Aug2025 06:27:02.534] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[11Aug2025 06:27:02.535] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
